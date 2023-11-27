@@ -1,168 +1,61 @@
-import os
-import sys
-import glob
+import os, sys
+import re
 import json
+import glob
 import datetime
-from collections import Counter
 from collections import Counter
 
 import pandas as pd
 from matplotlib import pyplot as plt
 import seaborn as sns
+
 from nltk.corpus import stopwords
+from wordcloud import WordCloud
 
+def parse_slack_reaction(path, channel):
+    """get reactions"""
+    dfall_reaction = pd.DataFrame()
+    combined = []
+    for json_file in glob.glob(f"{path}*.json"):
+        with open(json_file, 'r') as slack_data:
+            combined.append(slack_data)
 
-def break_combined_weeks(combined_weeks):
-    """
-    Breaks combined weeks into separate weeks.
-    
-    Args:
-        combined_weeks: list of tuples of weeks to combine
+    reaction_name, reaction_count, reaction_users, msg, user_id = [], [], [], [], []
+
+    for k in combined:
+        slack_data = json.load(open(k.name, 'r', encoding="utf-8"))
         
-    Returns:
-        tuple of lists of weeks to be treated as plus one and minus one
-    """
-    plus_one_week = []
-    minus_one_week = []
-
-    for week in combined_weeks:
-        if week[0] < week[1]:
-            plus_one_week.append(week[0])
-            minus_one_week.append(week[1])
-        else:
-            minus_one_week.append(week[0])
-            plus_one_week.append(week[1])
-
-    return plus_one_week, minus_one_week
-
-def get_msgs_df_info(df):
-    msgs_count_dict = df.user.value_counts().to_dict()
-    replies_count_dict = dict(Counter([u for r in df.replies if r != None for u in r]))
-    mentions_count_dict = dict(Counter([u for m in df.mentions if m != None for u in m]))
-    links_count_dict = df.groupby("user").link_count.sum().to_dict()
-    return msgs_count_dict, replies_count_dict, mentions_count_dict, links_count_dict
-
-
-
-def get_messages_dict(msgs):
-    msg_list = {
-            "msg_id":[],
-            "text":[],
-            "attachments":[],
-            "user":[],
-            "mentions":[],
-            "emojis":[],
-            "reactions":[],
-            "replies":[],
-            "replies_to":[],
-            "ts":[],
-            "links":[],
-            "link_count":[]
-            }
-
-
-    for msg in msgs:
-        if "subtype" not in msg:
-            try:
-                msg_list["msg_id"].append(msg["client_msg_id"])
-            except:
-                msg_list["msg_id"].append(None)
-            
-            msg_list["text"].append(msg["text"])
-            msg_list["user"].append(msg["user"])
-            msg_list["ts"].append(msg["ts"])
-            
-            if "reactions" in msg:
-                msg_list["reactions"].append(msg["reactions"])
-            else:
-                msg_list["reactions"].append(None)
-
-            if "parent_user_id" in msg:
-                msg_list["replies_to"].append(msg["ts"])
-            else:
-                msg_list["replies_to"].append(None)
-
-            if "thread_ts" in msg and "reply_users" in msg:
-                msg_list["replies"].append(msg["replies"])
-            else:
-                msg_list["replies"].append(None)
-            
-            if "blocks" in msg:
-                emoji_list = []
-                mention_list = []
-                link_count = 0
-                links = []
+        for i_count, i in enumerate(slack_data):
+            if 'reactions' in i.keys():
+                for j in range(len(i['reactions'])):
+                    msg.append(i['text'])
+                    user_id.append(i['user'])
+                    reaction_name.append(i['reactions'][j]['name'])
+                    reaction_count.append(i['reactions'][j]['count'])
+                    reaction_users.append(",".join(i['reactions'][j]['users']))
                 
-                for blk in msg["blocks"]:
-                    if "elements" in blk:
-                        for elm in blk["elements"]:
-                            if "elements" in elm:
-                                for elm_ in elm["elements"]:
-                                    
-                                    if "type" in elm_:
-                                        if elm_["type"] == "emoji":
-                                            emoji_list.append(elm_["name"])
+    data_reaction = zip(reaction_name, reaction_count, reaction_users, msg, user_id)
+    columns_reaction = ['reaction_name', 'reaction_count', 'reaction_users_count', 'message', 'user_id']
+    df_reaction = pd.DataFrame(data=data_reaction, columns=columns_reaction)
+    df_reaction['channel'] = channel
+    return df_reaction
 
-                                        if elm_["type"] == "user":
-                                            mention_list.append(elm_["user_id"])
-                                        
-                                        if elm_["type"] == "link":
-                                            link_count += 1
-                                            links.append(elm_["url"])
+def get_community_participation(path):
+    """ specify path to get json files"""
+    combined = []
+    comm_dict = {}
+    for json_file in glob.glob(f"{path}*.json"):
+        with open(json_file, 'r') as slack_data:
+            combined.append(slack_data)
+    # print(f"Total json files is {len(combined)}")
+    for i in combined:
+        a = json.load(open(i.name, 'r', encoding='utf-8'))
 
-
-                msg_list["emojis"].append(emoji_list)
-                msg_list["mentions"].append(mention_list)
-                msg_list["links"].append(links)
-                msg_list["link_count"].append(link_count)
-            else:
-                msg_list["emojis"].append(None)
-                msg_list["mentions"].append(None)
-                msg_list["links"].append(None)
-                msg_list["link_count"].append(0)
-    
-    return msg_list
-
-def from_msg_get_replies(msg):
-    replies = []
-    if "thread_ts" in msg and "replies" in msg:
-        try:
-            for reply in msg["replies"]:
-                reply["thread_ts"] = msg["thread_ts"]
-                reply["message_id"] = msg["client_msg_id"]
-                replies.append(reply)
-        except:
-            pass
-    return replies
-
-def msgs_to_df(msgs):
-    msg_list = get_messages_dict(msgs)
-    df = pd.DataFrame(msg_list)
-    return df
-
-def process_msgs(msg):
-    '''
-    select important columns from the message
-    '''
-
-    keys = ["client_msg_id", "type", "text", "user", "ts", "team", 
-            "thread_ts", "reply_count", "reply_users_count"]
-    msg_list = {k:msg[k] for k in keys}
-    rply_list = from_msg_get_replies(msg)
-
-    return msg_list, rply_list
-
-def get_messages_from_channel(channel_path):
-    '''
-    get all the messages from a channel        
-    '''
-    channel_json_files = os.listdir(channel_path)
-    channel_msgs = [json.load(open(channel_path + "/" + f)) for f in channel_json_files]
-
-    df = pd.concat([pd.DataFrame(get_messages_dict(msgs)) for msgs in channel_msgs])
-    print(f"Number of messages in channel: {len(df)}")
-    
-    return df
+        for msg in a:
+            if 'replies' in msg.keys():
+                for i in msg['replies']:
+                    comm_dict[i['user']] = comm_dict.get(i['user'], 0)+1
+    return comm_dict
 
 
 def convert_2_timestamp(column, data):
@@ -179,4 +72,195 @@ def convert_2_timestamp(column, data):
                 a = datetime.datetime.fromtimestamp(float(time_unix))
                 timestamp_.append(a.strftime('%Y-%m-%d %H:%M:%S'))
         return timestamp_
-    else: print(f"{column} not in data")
+    else: 
+        print(f"{column} not in data")
+
+def get_tagged_users(df):
+    """get all @ in the messages"""
+
+    return df['msg_content'].map(lambda x: re.findall(r'@U\w+', x))
+
+
+    
+def map_userid_2_realname(user_profile: dict, comm_dict: dict, plot=False):
+    """
+    map slack_id to realnames
+    user_profile: a dictionary that contains users info such as real_names
+    comm_dict: a dictionary that contains slack_id and total_message sent by that slack_id
+    """
+    user_dict = {} # to store the id
+    real_name = [] # to store the real name
+    ac_comm_dict = {} # to store the mapping
+    count = 0
+    # collect all the real names
+    for i in range(len(user_profile['profile'])):
+        real_name.append(dict(user_profile['profile'])[i]['real_name'])
+
+    # loop the slack ids
+    for i in user_profile['id']:
+        user_dict[i] = real_name[count]
+        count += 1
+
+    # to store mapping
+    for i in comm_dict:
+        if i in user_dict:
+            ac_comm_dict[user_dict[i]] = comm_dict[i]
+
+    ac_comm_dict = pd.DataFrame(data= zip(ac_comm_dict.keys(), ac_comm_dict.values()),
+    columns=['LearnerName', '# of Msg sent in Threads']).sort_values(by='# of Msg sent in Threads', ascending=False)
+    
+    if plot:
+        ac_comm_dict.plot.bar(figsize=(15, 7.5), x='LearnerName', y='# of Msg sent in Threads')
+        plt.title('Student based on Message sent in thread', size=20)
+        
+    return ac_comm_dict
+
+
+def get_top_20_user(data, channel='Random'):
+    """get user with the highest number of message sent to any channel"""
+
+    data['sender_name'].value_counts()[:20].plot.bar(figsize=(15, 7.5))
+    plt.title(f'Top 20 Message Senders in #{channel} channels', size=15, fontweight='bold')
+    plt.xlabel("Sender Name", size=18); plt.ylabel("Frequency", size=14);
+    plt.xticks(size=12); plt.yticks(size=12);
+    plt.show()
+
+    data['sender_name'].value_counts()[-10:].plot.bar(figsize=(15, 7.5))
+    plt.title(f'Bottom 10 Message Senders in #{channel} channels', size=15, fontweight='bold')
+    plt.xlabel("Sender Name", size=18); plt.ylabel("Frequency", size=14);
+    plt.xticks(size=12); plt.yticks(size=12);
+    plt.show()
+    
+def draw_avg_reply_count(data, channel='Random'):
+    """who commands many reply?"""
+
+    data.groupby('sender_name')['reply_count'].mean().sort_values(ascending=False)[:20]\
+        .plot(kind='bar', figsize=(15,7.5));
+    plt.title(f'Average Number of reply count per Sender in #{channel}', size=20, fontweight='bold')
+    plt.xlabel("Sender Name", size=18); plt.ylabel("Frequency", size=18);
+    plt.xticks(size=14); plt.yticks(size=14);
+    plt.show()
+
+def draw_avg_reply_users_count(data, channel='Random'):
+    """who commands many user reply?"""
+
+    data.groupby('sender_name')['reply_users_count'].mean().sort_values(ascending=False)[:20].plot(kind='bar',
+     figsize=(15,7.5));
+    plt.title(f'Average Number of reply user count per Sender in #{channel}', size=20, fontweight='bold')
+    plt.xlabel("Sender Name", size=18); plt.ylabel("Frequency", size=18);
+    plt.xticks(size=14); plt.yticks(size=14);
+    plt.show()
+
+def draw_wordcloud(msg_content, week):    
+    # word cloud visualization
+    allWords = ' '.join([twts for twts in msg_content])
+    wordCloud = WordCloud(background_color='#975429', width=500, height=300, random_state=21, max_words=500, mode='RGBA',
+                            max_font_size=140, stopwords=stopwords.words('english')).generate(allWords)
+    plt.figure(figsize=(15, 7.5))
+    plt.imshow(wordCloud, interpolation="bilinear")
+    plt.axis('off')
+    plt.tight_layout()
+    plt.title(f'WordCloud for {week}', size=30)
+    plt.show()
+
+def draw_user_reaction(data, channel='General'):
+    data.groupby('sender_name')[['reply_count', 'reply_users_count']].sum()\
+        .sort_values(by='reply_count',ascending=False)[:10].plot(kind='bar', figsize=(15, 7.5))
+    plt.title(f'User with the most reaction in #{channel}', size=25);
+    plt.xlabel("Sender Name", size=18); plt.ylabel("Frequency", size=18);
+    plt.xticks(size=14); plt.yticks(size=14);
+    plt.show()
+
+
+
+# which user has the highest number of reply counts?
+def user_with_highest_reply_counts(data):
+    top_user = data.groupby('sender_name')['reply_count'].sum().idxmax()
+    highest_reply_count = data.groupby('sender_name')['reply_count'].sum().max()
+    
+    print(f"The user with the highest number of reply counts is '{top_user}' with {highest_reply_count} replies.")
+
+
+# Visualize reply counts per user per channel
+def visualize_reply_counts_per_user_per_channel(data):
+    avg_reply_counts = data.groupby(['channel', 'sender_name'])['reply_count'].mean().reset_index()
+
+    unique_channels = avg_reply_counts['channel'].unique()
+
+    for channel in unique_channels:
+        channel_data = avg_reply_counts[avg_reply_counts['channel'] == channel]
+
+        plt.figure(figsize=(12, 6))  # Set the figure size
+        plt.bar(channel_data['sender_name'], channel_data['reply_count'])
+        plt.title(f'Avg Reply Counts per User in #{channel}')
+        plt.xlabel('Sender Name')
+        plt.ylabel('Average Reply Counts')
+        plt.xticks(rotation=90)  # Rotate x-axis labels for better readability
+        plt.tight_layout()
+
+        plt.show()
+
+
+def time_range_most_messages(data):
+    # Convert 'msg_sent_time' to datetime format
+    data['time_sent'] = pd.to_datetime(data['time_sent'], unit='s')
+
+    # Extract hour from 'msg_sent_time'
+    data['hour'] = data['time_sent'].dt.hour
+
+    # Count the number of messages sent for each hour
+    hour_counts = data['hour'].value_counts().sort_index()
+
+    # Find the hour with the most messages sent
+    most_active_hour = hour_counts.idxmax()
+    message_count_most_active_hour = hour_counts.max()
+
+    print(f"The hour with the most messages sent is {most_active_hour}:00 with {message_count_most_active_hour} messages.")
+
+
+# what kind of messages are replied faster than others?
+def messages_replied_faster(data, criterion='msg_type'):
+
+    data['time_sent'] = pd.to_datetime(data['time_sent'], unit='s')
+    data['time_thread_end'] = pd.to_datetime(data['time_thread_end'], unit='s')
+
+   
+    data['response_time'] = (data['time_thread_end'] - data['time_sent']).dt.total_seconds()
+
+   
+    avg_response_time = data.groupby(criterion)['response_time'].mean().reset_index()
+    avg_response_time = avg_response_time.sort_values(by='response_time', ascending=True)
+
+    return avg_response_time
+
+
+def messages_reactions_relationship(data):
+
+    user_interaction = data.groupby('sender_id').agg({'message_content': 'count', 'reaction_count': 'sum'}).reset_index()
+    correlation = user_interaction['message_content'].corr(user_interaction['reaction_count'])
+    return correlation
+
+
+# Classify messages into different categories such as questions, answers, comments, etc.
+def classify_messages(data):
+
+    question_keywords = ['?', 'how', 'what', 'when', 'where', 'why', 'help']
+    answer_keywords = ['answer:', 'solution:', 'reply:', 'here is', 'try this']
+    comment_keywords = ['comment:', 'thoughts:', 'opinion:', 'agree', 'disagree']
+
+    categories = []
+    for message in data['message_content']:
+        message_lower = message.lower()
+
+        if any(keyword in message_lower for keyword in question_keywords):
+            categories.append('Question')
+        elif any(keyword in message_lower for keyword in answer_keywords):
+            categories.append('Answer')
+        elif any(keyword in message_lower for keyword in comment_keywords):
+            categories.append('Comment')
+        else:
+            categories.append('Other')
+
+    data['Message Category'] = categories
+
+    return data
