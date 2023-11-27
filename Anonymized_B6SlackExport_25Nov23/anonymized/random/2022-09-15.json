@@ -1,0 +1,140 @@
+[
+  {
+    "client_msg_id": "fcc196d8-9024-4139-90c4-b01b8b964689",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=DlKl8me4Npw>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663230986.320939",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OdV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=DlKl8me4Npw"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=DlKl8me4Npw",
+        "thumb_url": "https://i.ytimg.com/vi/DlKl8me4Npw/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/DlKl8me4Npw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"If Programming was an Anime 3\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=DlKl8me4Npw",
+        "fallback": "YouTube Video: If Programming was an Anime 3",
+        "title": "If Programming was an Anime 3",
+        "title_link": "https://www.youtube.com/watch?v=DlKl8me4Npw",
+        "author_name": "Joma Tech",
+        "author_link": "https://www.youtube.com/c/JomaOppa",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "90e1654c-98a1-41fd-b5bb-5cd420d4882f",
+    "type": "message",
+    "text": "<@U03UVHCV6KB> <https://www.youtube.com/watch?v=VsrL9Rz-A5A>",
+    "user": "U03U93GNNVB",
+    "ts": "1663232116.926419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1Cf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UVHCV6KB"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=VsrL9Rz-A5A"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Katherine",
+      "real_name": "Katherine Foster",
+      "display_name": "Katherine Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Katherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=VsrL9Rz-A5A",
+        "thumb_url": "https://i.ytimg.com/vi/VsrL9Rz-A5A/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/VsrL9Rz-A5A?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Teddy Afro - ETHIOPIA - \u12a2\u1275\u12ee\u1335\u12eb - [New! Official single 2017] - With Lyrics\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=VsrL9Rz-A5A",
+        "fallback": "YouTube Video: Teddy Afro - ETHIOPIA - \u12a2\u1275\u12ee\u1335\u12eb - [New! Official single 2017] - With Lyrics",
+        "title": "Teddy Afro - ETHIOPIA - \u12a2\u1275\u12ee\u1335\u12eb - [New! Official single 2017] - With Lyrics",
+        "title_link": "https://www.youtube.com/watch?v=VsrL9Rz-A5A",
+        "author_name": "Teddy Afro",
+        "author_link": "https://www.youtube.com/c/TeddyAfroOfficial",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB",
+          "U03UG32J3PC",
+          "U03UG4Q7V42",
+          "U03UG0SFHGT"
+        ],
+        "count": 4
+      }
+    ]
+  }
+]

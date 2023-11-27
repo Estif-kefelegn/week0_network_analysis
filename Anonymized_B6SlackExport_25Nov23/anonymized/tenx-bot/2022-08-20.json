@@ -1,0 +1,18 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1661016491.695029",
+    "user": "U03UUN8M4RX",
+    "text": "<@U03UUN8M4RX> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "bot_add",
+    "text": "added an integration to this channel: <https://10academybatch6.slack.com/services/B03V5R17LN4|AppDMB6>",
+    "user": "U03UUN8M4RX",
+    "bot_id": "B03V5R17LN4",
+    "bot_link": "<https://10academybatch6.slack.com/services/B03V5R17LN4|AppDMB6>",
+    "ts": "1661016501.026939"
+  }
+]

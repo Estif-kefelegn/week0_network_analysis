@@ -1,0 +1,40 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1661767928.863399",
+    "user": "U03UJGP0C68",
+    "text": "<@U03UJGP0C68> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1661767978.703519",
+    "user": "U03UJGFG2HJ",
+    "text": "<@U03UJGFG2HJ> has joined the channel",
+    "inviter": "U03UJGP0C68"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1661767978.763999",
+    "user": "U03UD63A8PP",
+    "text": "<@U03UD63A8PP> has joined the channel",
+    "inviter": "U03UJGP0C68"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1661767978.821609",
+    "user": "U03UG569P7U",
+    "text": "<@U03UG569P7U> has joined the channel",
+    "inviter": "U03UJGP0C68"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_archive",
+    "ts": "1661768109.069419",
+    "user": "U03UJGP0C68",
+    "text": "archived the channel"
+  }
+]

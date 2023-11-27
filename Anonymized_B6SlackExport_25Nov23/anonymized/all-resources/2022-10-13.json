@@ -1,0 +1,655 @@
+[
+  {
+    "client_msg_id": "33440dec-3f9a-4782-a6e2-40826362afa5",
+    "type": "message",
+    "text": "<https://vectorbt.dev/api/indicators/basic/>",
+    "user": "U03UUR571A5",
+    "ts": "1665655120.184549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YsGUw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://vectorbt.dev/api/indicators/basic/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://vectorbt.dev/api/indicators/basic/",
+        "service_icon": "https://vectorbt.dev/assets/logo/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://vectorbt.dev/api/indicators/basic/",
+        "fallback": "basic",
+        "text": "Indicators built with `vectorbt.indicators.factory.IndicatorFactory`.",
+        "title": "basic",
+        "title_link": "https://vectorbt.dev/api/indicators/basic/",
+        "service_name": "vectorbt.dev"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b6472de9-6c00-4c78-92c5-b3c22d81ed45",
+    "type": "message",
+    "text": "<https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateDBInstance.html|https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateDBInstance.html>",
+    "user": "U03UJH1EQQL",
+    "ts": "1665664876.391429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sfd4t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateDBInstance.html",
+                "text": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateDBInstance.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Kelly",
+      "real_name": "Kelly Soto",
+      "display_name": "Kelly Soto",
+      "team": "T03U4J8HMUG",
+      "name": "Kelly",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateDBInstance.html",
+        "service_icon": "https://docs.aws.amazon.com/assets/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateDBInstance.html",
+        "fallback": "Creating an Amazon RDS DB instance - Amazon Relational Database Service",
+        "text": "Create an Amazon RDS DB instance that runs your specific database engine.",
+        "title": "Creating an Amazon RDS DB instance - Amazon Relational Database Service",
+        "title_link": "https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreateDBInstance.html",
+        "service_name": "docs.aws.amazon.com"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "93cc019c-292c-45a1-8ad5-523873b90baa",
+    "type": "message",
+    "text": "<https://www.confluent.io/hub/>",
+    "user": "U03UUR571A5",
+    "ts": "1665666609.102709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/F=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.confluent.io/hub/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.confluent.io/hub/",
+        "service_icon": "https://www.confluent.io/hub/icons/icon-48x48.png?v=436f18bb987edaec18cff32f9ea8f7e9",
+        "id": 1,
+        "original_url": "https://www.confluent.io/hub/",
+        "fallback": "Home",
+        "text": "Confluent, founded by the original creators of Apache Kafka\u00ae, delivers a complete execution of Kafka for the Enterprise, to help you run your business in real-time.",
+        "title": "Home",
+        "title_link": "https://www.confluent.io/hub/",
+        "service_name": "confluent.io"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "096dcfdc-7c0a-4c44-bfee-e420742812ce",
+    "type": "message",
+    "text": "<https://hevodata.com/learn/postgresql-kafka-connector/|https://hevodata.com/learn/postgresql-kafka-connector/>",
+    "user": "U03UG0YHAUT",
+    "ts": "1665667554.668819",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iCoy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hevodata.com/learn/postgresql-kafka-connector/",
+                "text": "https://hevodata.com/learn/postgresql-kafka-connector/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Brown",
+      "display_name": "Daniel Brown",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://hevodata.com/learn/postgresql-kafka-connector/",
+        "ts": 1656052111,
+        "image_url": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1656332666/hevo-learn/PostgreSQL-Kafka-Connector-fI-1/PostgreSQL-Kafka-Connector-fI-1.png?_i=AA",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 111269,
+        "service_icon": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1587655389/logo-8/logo-8.png?_i=AA",
+        "id": 1,
+        "original_url": "https://hevodata.com/learn/postgresql-kafka-connector/",
+        "fallback": "Learn | Hevo: A 101 Guide to PostgreSQL Kafka Connector",
+        "text": "This blog will show you how to set up a PostgreSQL Kafka Connector. It provides a step-by-step guide to assist you in connecting them &amp; easily analyze your data.",
+        "title": "A 101 Guide to PostgreSQL Kafka Connector",
+        "title_link": "https://hevodata.com/learn/postgresql-kafka-connector/",
+        "service_name": "Learn | Hevo",
+        "fields": [
+          {
+            "value": "Davor DSouza",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "13 minutes",
+            "title": "Time to read",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "dc0642bb-1ed1-4d8a-8b92-ce551facc9fc",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=ZA9WpK-lxXM>",
+    "user": "U03UG5VFN03",
+    "ts": "1665688919.643689",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u7HNw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=ZA9WpK-lxXM"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Nancy",
+      "real_name": "Nancy Craig",
+      "display_name": "Nancy Craig",
+      "team": "T03U4J8HMUG",
+      "name": "Nancy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=ZA9WpK-lxXM",
+        "thumb_url": "https://i.ytimg.com/vi/ZA9WpK-lxXM/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/ZA9WpK-lxXM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Spring Boot: Connecting to AWS (RDS)\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 300,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=ZA9WpK-lxXM",
+        "fallback": "YouTube Video: Spring Boot: Connecting to AWS (RDS)",
+        "title": "Spring Boot: Connecting to AWS (RDS)",
+        "title_link": "https://www.youtube.com/watch?v=ZA9WpK-lxXM",
+        "author_name": "Amigoscode",
+        "author_link": "https://www.youtube.com/c/amigoscode",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "01e89073-a437-4bb0-9e36-b1b6497154d6",
+    "type": "message",
+    "text": "<https://medium.com/@gk_/equity-screening-using-python-backtrader-part-1-of-2-21d0690cc105>",
+    "user": "U03UG32J3PC",
+    "ts": "1665689654.028209",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iSI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/@gk_/equity-screening-using-python-backtrader-part-1-of-2-21d0690cc105"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "April",
+      "real_name": "April Lucas",
+      "display_name": "April Lucas",
+      "team": "T03U4J8HMUG",
+      "name": "April",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/@gk_/equity-screening-using-python-backtrader-part-1-of-2-21d0690cc105",
+        "ts": 1582759215,
+        "image_url": "https://miro.medium.com/max/1190/1*Tyj8Ob3eQA3oL_I8xpoN-A.jpeg",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 224919,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/@gk_/equity-screening-using-python-backtrader-part-1-of-2-21d0690cc105",
+        "fallback": "Medium: Equity Screening using Python Backtrader\u200a\u2014\u200aPart 1 of 2",
+        "text": "Experienced \u2018Quant\u2019 types make trades by screening equities looking for technical signals. Let\u2019s avoid using \u2018Black box\u2019 approaches and\u2026",
+        "title": "Equity Screening using Python Backtrader\u200a\u2014\u200aPart 1 of 2",
+        "title_link": "https://medium.com/@gk_/equity-screening-using-python-backtrader-part-1-of-2-21d0690cc105",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "5 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2f4f3983-f9dd-43dc-b60f-1cdaf0acc7da",
+    "type": "message",
+    "text": "<https://medium.com/@gk_/equity-screening-using-python-backtrader-part-2-of-2-71b956f8784a>",
+    "user": "U03UG32J3PC",
+    "ts": "1665689674.499069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Fj/s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/@gk_/equity-screening-using-python-backtrader-part-2-of-2-71b956f8784a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "April",
+      "real_name": "April Lucas",
+      "display_name": "April Lucas",
+      "team": "T03U4J8HMUG",
+      "name": "April",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/@gk_/equity-screening-using-python-backtrader-part-2-of-2-71b956f8784a",
+        "ts": 1582759177,
+        "image_url": "https://miro.medium.com/max/590/1*q-3Jj-cS21wm0-QHuJSvXQ.jpeg",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 65756,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/@gk_/equity-screening-using-python-backtrader-part-2-of-2-71b956f8784a",
+        "fallback": "Medium: Equity Screening using Python Backtrader\u200a\u2014\u200aPart 2 of 2",
+        "text": "Let\u2019s code an equities screener in Python, with backtesting, model optimization and see which trades are ready for a run. ~2 pages of code.",
+        "title": "Equity Screening using Python Backtrader\u200a\u2014\u200aPart 2 of 2",
+        "title_link": "https://medium.com/@gk_/equity-screening-using-python-backtrader-part-2-of-2-71b956f8784a",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "cfc68fc6-d935-48df-b4cf-b09551598e61",
+    "type": "message",
+    "text": "<https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-date/>",
+    "user": "U03UVHCV6KB",
+    "ts": "1665689963.325089",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=tudA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-date/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-date/",
+        "service_icon": "https://www.postgresqltutorial.com/wp-content/uploads/2017/03/favicon.png",
+        "id": 1,
+        "original_url": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-date/",
+        "fallback": "The Ultimate Guide to PostgreSQL Date By Examples",
+        "text": "This tutorial discusses PostgreSQL DATE data type and shows you how to use some handy date functions to handle dates values.",
+        "title": "The Ultimate Guide to PostgreSQL Date By Examples",
+        "title_link": "https://www.postgresqltutorial.com/postgresql-tutorial/postgresql-date/",
+        "service_name": "postgresqltutorial.com",
+        "fields": [
+          {
+            "value": "5 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "547bb056-86d8-4c72-9a98-aa888466f0f1",
+    "type": "message",
+    "text": "<https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow>",
+    "user": "U03UD4FEDHB",
+    "ts": "1665690996.775139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ebl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g48fef055f8a",
+      "image_72": "https://secure.gravatar.com/avatar/48fef055f8a8b8a4c0bcfefbf5e3eec3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Michael",
+      "real_name": "Michael Gonzalez",
+      "display_name": "Michael Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Michael",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow",
+        "image_url": "https://www.vantage-ai.com/hubfs/Blog%20fotos/kafka_shape.jpg#keepProtocol",
+        "image_width": 373,
+        "image_height": 250,
+        "image_bytes": 390973,
+        "service_icon": "https://www.vantage-ai.com/hubfs/favicon.png",
+        "id": 1,
+        "original_url": "https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow",
+        "fallback": "Keeping your ML model in shape with Kafka, Airflow and MLFlow",
+        "text": "Always wanted to learn how to keep your ML model in shape. This article explains how to do this using Kafka, Airflow and MLFlow. Read more to learn more.",
+        "title": "Keeping your ML model in shape with Kafka, Airflow and MLFlow",
+        "title_link": "https://www.vantage-ai.com/en/blog/keeping-your-ml-model-in-shape-with-kafka-airflow-and-mlflow",
+        "service_name": "vantage-ai.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "08563f1f-141a-4d32-8a5c-c47921a7f198",
+    "type": "message",
+    "text": "<https://www.cockroachlabs.com/docs/stable/foreign-key.html#:~:text=A%20foreign%20key%20is%20a,column%20value%20B%20must%20exist>.",
+    "user": "U03UVHCV6KB",
+    "ts": "1665695315.339419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OIA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.cockroachlabs.com/docs/stable/foreign-key.html#:~:text=A%20foreign%20key%20is%20a,column%20value%20B%20must%20exist"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.cockroachlabs.com/docs/stable/foreign-key.html#:~:text=A%20foreign%20key%20is%20a,column%20value%20B%20must%20exist",
+        "service_icon": "https://www.cockroachlabs.com/docs/images/favicon.png",
+        "id": 1,
+        "original_url": "https://www.cockroachlabs.com/docs/stable/foreign-key.html#:~:text=A%20foreign%20key%20is%20a,column%20value%20B%20must%20exist",
+        "fallback": "Foreign Key Constraint | CockroachDB Docs",
+        "text": "The `FOREIGN KEY` constraint specifies a column can contain only values exactly matching existing values from the column it references.",
+        "title": "Foreign Key Constraint | CockroachDB Docs",
+        "title_link": "https://www.cockroachlabs.com/docs/stable/foreign-key.html#:~:text=A%20foreign%20key%20is%20a,column%20value%20B%20must%20exist",
+        "service_name": "cockroachlabs.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9b5f5acc-1ad2-4065-9866-ef54117c8714",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=J6adhl3wEj4>",
+    "user": "U03UD68RQH3",
+    "ts": "1665710593.578739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lNZR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=J6adhl3wEj4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "Brady",
+      "real_name": "Brady Rhodes",
+      "display_name": "Brady Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Brady",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=J6adhl3wEj4",
+        "thumb_url": "https://i.ytimg.com/vi/J6adhl3wEj4/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/J6adhl3wEj4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Apache Kafka\u00ae 101: Kafka Connect\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=J6adhl3wEj4",
+        "fallback": "YouTube Video: Apache Kafka\u00ae 101: Kafka Connect",
+        "title": "Apache Kafka\u00ae 101: Kafka Connect",
+        "title_link": "https://www.youtube.com/watch?v=J6adhl3wEj4",
+        "author_name": "Confluent",
+        "author_link": "https://www.youtube.com/c/Confluent",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  }
+]

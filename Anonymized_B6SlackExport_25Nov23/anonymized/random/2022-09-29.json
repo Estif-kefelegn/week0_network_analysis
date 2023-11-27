@@ -1,0 +1,61 @@
+[
+  {
+    "client_msg_id": "c126aca7-e88a-41a2-82fc-beef6d5dcd8e",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=-V_q9MJDrZY>",
+    "user": "U03UVHCV6KB",
+    "ts": "1664438835.682379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "STV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=-V_q9MJDrZY"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=-V_q9MJDrZY",
+        "thumb_url": "https://i.ytimg.com/vi/-V_q9MJDrZY/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/-V_q9MJDrZY?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"How NOT To Land A Developer Job\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=-V_q9MJDrZY",
+        "fallback": "YouTube Video: How NOT To Land A Developer Job",
+        "title": "How NOT To Land A Developer Job",
+        "title_link": "https://www.youtube.com/watch?v=-V_q9MJDrZY",
+        "author_name": "Tech With Tim",
+        "author_link": "https://www.youtube.com/c/TechWithTim",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  }
+]

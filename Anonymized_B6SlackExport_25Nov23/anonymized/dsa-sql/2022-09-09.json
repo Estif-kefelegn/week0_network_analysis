@@ -1,0 +1,924 @@
+[
+  {
+    "client_msg_id": "8b5ca7a5-e592-4da1-aeb1-f3a9c07931ea",
+    "type": "message",
+    "text": "Hey, <!channel> hope you're excited about today's challenge!",
+    "user": "U03V8LHPDME",
+    "ts": "1662707236.231739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eR1l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey, "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " hope you're excited about today's challenge!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Mandy",
+      "real_name": "Mandy Sweeney",
+      "display_name": "Mandy Sweeney",
+      "team": "T03U4J8HMUG",
+      "name": "Mandy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03U1FNPEUX",
+          "U03UG32J3PC"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ff060595-12b7-48ae-b39a-ef4097b78e5c",
+    "type": "message",
+    "text": "Here are some resources to get you ready. Today we're putting a focus on Linked lists, union operations, and SQL functions. Please thoroughly go through these resources as they are the tools that'll help you solve the challenge!",
+    "user": "U03V8LHPDME",
+    "ts": "1662707420.977299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "r0wd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Here are some resources to get you ready. Today we're putting a focus on Linked lists, union operations, and SQL functions. Please thoroughly go through these resources as they are the tools that'll help you solve the challenge!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Mandy",
+      "real_name": "Mandy Sweeney",
+      "display_name": "Mandy Sweeney",
+      "team": "T03U4J8HMUG",
+      "name": "Mandy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "d2f2b307-e6d6-49fd-9578-e4a5a4bcb173",
+    "type": "message",
+    "text": "What are linked lists\n<https://youtu.be/3C9mXHdrZ6Y>\n\n<https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d>\n\n<https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996>\n\nSingly-linked lists\n<https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK>\n\nDoubly linked lists\n<https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD>",
+    "user": "U03V8LHPDME",
+    "ts": "1662707441.224009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "e6cc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What are linked lists\n"
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/3C9mXHdrZ6Y"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996"
+              },
+              {
+                "type": "text",
+                "text": "\n\nSingly-linked lists\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK"
+              },
+              {
+                "type": "text",
+                "text": "\n\nDoubly linked lists\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Mandy",
+      "real_name": "Mandy Sweeney",
+      "display_name": "Mandy Sweeney",
+      "team": "T03U4J8HMUG",
+      "name": "Mandy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/3C9mXHdrZ6Y",
+        "thumb_url": "https://i.ytimg.com/vi/3C9mXHdrZ6Y/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/3C9mXHdrZ6Y?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Applied CS Skills \u2014 Touring Musician \u2014 Linked Lists\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/3C9mXHdrZ6Y",
+        "fallback": "YouTube Video: Applied CS Skills \u2014 Touring Musician \u2014 Linked Lists",
+        "title": "Applied CS Skills \u2014 Touring Musician \u2014 Linked Lists",
+        "title_link": "https://youtu.be/3C9mXHdrZ6Y",
+        "author_name": "Google Students",
+        "author_link": "https://www.youtube.com/c/GoogleStudents",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      },
+      {
+        "from_url": "https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d",
+        "ts": 1495748056,
+        "image_url": "https://miro.medium.com/max/1200/1*Xokk6XOjWyIGCBujkJsCzQ.jpeg",
+        "image_width": 395,
+        "image_height": 250,
+        "image_bytes": 139057,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 2,
+        "original_url": "https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d",
+        "fallback": "Medium: What\u2019s a Linked List, Anyway? [Part 1]",
+        "text": "Information is all around us.",
+        "title": "What\u2019s a Linked List, Anyway? [Part 1]",
+        "title_link": "https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "9 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      },
+      {
+        "from_url": "https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996",
+        "ts": 1548781454,
+        "image_url": "https://miro.medium.com/max/1200/1*FC0XX0-9Vx7yCS0dTS2Zrw.jpeg",
+        "image_width": 465,
+        "image_height": 250,
+        "image_bytes": 94491,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 3,
+        "original_url": "https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996",
+        "fallback": "Medium: What\u2019s a Linked List, Anyway? [Part 2]",
+        "text": "This is the second installment in a two-part series on Linked Lists. If you haven\u2019t read Part 1 of this series, I recommend checking that\u2026",
+        "title": "What\u2019s a Linked List, Anyway? [Part 2]",
+        "title_link": "https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "9 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      },
+      {
+        "from_url": "https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK",
+        "thumb_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/VIDEO_LANDING_PAGE/VIDEO_LANDING_PAGE~CeL1YPUiEeWqVxIzzVd_-w/VIDEO_LANDING_PAGE~CeL1YPUiEeWqVxIzzVd_-w.jpeg",
+        "thumb_width": 1772,
+        "thumb_height": 928,
+        "service_icon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-v2-57x57.png",
+        "id": 4,
+        "original_url": "https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK",
+        "fallback": "Coursera: Singly-Linked Lists - Basic Data Structures | Coursera",
+        "text": "Video created by University of California San Diego for the course \"Data Structures\". In this module, you will learn about the basic data structures used throughout the rest of this course. We start this module by looking in detail at the ...",
+        "title": "Singly-Linked Lists - Basic Data Structures | Coursera",
+        "title_link": "https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK",
+        "service_name": "Coursera"
+      },
+      {
+        "from_url": "https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD",
+        "thumb_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/VIDEO_LANDING_PAGE/VIDEO_LANDING_PAGE~mrTE_vxmEeW4UA6tVHXiQQ/VIDEO_LANDING_PAGE~mrTE_vxmEeW4UA6tVHXiQQ.jpeg",
+        "thumb_width": 1772,
+        "thumb_height": 928,
+        "service_icon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-v2-57x57.png",
+        "id": 5,
+        "original_url": "https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD",
+        "fallback": "Coursera: Doubly-Linked Lists - Basic Data Structures | Coursera",
+        "text": "Video created by University of California San Diego for the course \"Data Structures\". In this module, you will learn about the basic data structures used throughout the rest of this course. We start this module by looking in detail at the ...",
+        "title": "Doubly-Linked Lists - Basic Data Structures | Coursera",
+        "title_link": "https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD",
+        "service_name": "Coursera"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03V785NLSU"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6488b374-36c1-4b2f-9d0e-ece02a1a70bc",
+    "type": "message",
+    "text": "SQL resources\n<https://www.tutorialspoint.com/sql/sql-unions-clause.htm>\n<https://www.geeksforgeeks.org/sql-functions-aggregate-scalar-functions/>\n<https://www.javatpoint.com/sql-concat-function>",
+    "user": "U03V8LHPDME",
+    "ts": "1662707450.603629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "guP4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "SQL resources\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.tutorialspoint.com/sql/sql-unions-clause.htm"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.geeksforgeeks.org/sql-functions-aggregate-scalar-functions/"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.javatpoint.com/sql-concat-function"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Mandy",
+      "real_name": "Mandy Sweeney",
+      "display_name": "Mandy Sweeney",
+      "team": "T03U4J8HMUG",
+      "name": "Mandy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.tutorialspoint.com/sql/sql-unions-clause.htm",
+        "service_icon": "https://www.tutorialspoint.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.tutorialspoint.com/sql/sql-unions-clause.htm",
+        "fallback": "SQL - UNIONS CLAUSE",
+        "text": "SQL - UNIONS CLAUSE, The SQL UNION clause/operator is used to combine the results of two or more SELECT statements without returning any duplicate rows.",
+        "title": "SQL - UNIONS CLAUSE",
+        "title_link": "https://www.tutorialspoint.com/sql/sql-unions-clause.htm",
+        "service_name": "tutorialspoint.com"
+      },
+      {
+        "from_url": "https://www.geeksforgeeks.org/sql-functions-aggregate-scalar-functions/",
+        "ts": 1485191073,
+        "thumb_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png",
+        "id": 2,
+        "original_url": "https://www.geeksforgeeks.org/sql-functions-aggregate-scalar-functions/",
+        "fallback": "GeeksforGeeks: SQL | Functions (Aggregate and Scalar Functions) - GeeksforGeeks",
+        "text": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+        "title": "SQL | Functions (Aggregate and Scalar Functions) - GeeksforGeeks",
+        "title_link": "https://www.geeksforgeeks.org/sql-functions-aggregate-scalar-functions/",
+        "service_name": "GeeksforGeeks"
+      },
+      {
+        "from_url": "https://www.javatpoint.com/sql-concat-function",
+        "id": 3,
+        "original_url": "https://www.javatpoint.com/sql-concat-function",
+        "fallback": "www.javatpoint.com: SQL CONCAT Function - javatpoint",
+        "text": "SQL CONCAT Function with sql, tutorial, examples, insert, update, delete, select, join, database, table, join etc, SQL CAST Function, SQL Formatter.",
+        "title": "SQL CONCAT Function - javatpoint",
+        "title_link": "https://www.javatpoint.com/sql-concat-function",
+        "service_name": "www.javatpoint.com"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03U9EJR362",
+          "U03UFV7HFNF"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "164a20fd-ae4e-4a67-b7f5-8974852d6f1e",
+    "type": "message",
+    "text": "Link for to the contest please!",
+    "user": "U03U9FWPNCE",
+    "ts": "1662714264.839389",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MFr60",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Link for to the contest please!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "2d070dcf37d6",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991845605680_2d070dcf37d67d809af7_72.jpg",
+      "first_name": "Anita",
+      "real_name": "Anita Rodriguez",
+      "display_name": "Anita Rodriguez",
+      "team": "T03U4J8HMUG",
+      "name": "Anita",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG32J3PC",
+          "U03UG569P7U"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e7e208db-d31e-49f3-9549-f66a8701b345",
+    "type": "message",
+    "text": "<https://www.hackerrank.com/contests/10-academy-batch-6-challenge-03/challenges>",
+    "user": "U03UFV7HFNF",
+    "ts": "1662714286.389639",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rEl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.hackerrank.com/contests/10-academy-batch-6-challenge-03/challenges"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.hackerrank.com/contests/10-academy-batch-6-challenge-03/challenges",
+        "thumb_url": "https://hrcdn.net/og/default.jpg",
+        "thumb_width": 1200,
+        "thumb_height": 640,
+        "service_icon": "https://hrcdn.net/hackerrank/assets/apple-touch-icon-precomposed-c99b684c98b4befc43c47592bc900ebd95a0b1e9b9e5103b252c8b320432646d.png",
+        "id": 1,
+        "original_url": "https://www.hackerrank.com/contests/10-academy-batch-6-challenge-03/challenges",
+        "fallback": "HackerRank: Solve Challenges",
+        "text": "Print the total number of challenges created by hackers. Solving code challenges on HackerRank is one of the best ways to prepare for programming interviews.",
+        "title": "Solve Challenges",
+        "title_link": "https://www.hackerrank.com/contests/10-academy-batch-6-challenge-03/challenges",
+        "service_name": "HackerRank"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d71e5639-db6a-4074-91a5-8f83c4b72757",
+    "type": "message",
+    "text": "<https://10academybatch6.slack.com/archives/C03U4J8J4LQ/p1662708093965109|https://10academybatch6.slack.com/archives/C03U4J8J4LQ/p1662708093965109>",
+    "user": "U03UFV7TUTV",
+    "ts": "1662714320.325289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hLI0E",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://10academybatch6.slack.com/archives/C03U4J8J4LQ/p1662708093965109",
+                "text": "https://10academybatch6.slack.com/archives/C03U4J8J4LQ/p1662708093965109"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g2d3549811da",
+      "image_72": "https://secure.gravatar.com/avatar/2d3549811dae404f2ab1ffd6d153680c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Anthony",
+      "real_name": "Anthony Galloway",
+      "display_name": "Anthony Galloway",
+      "team": "T03U4J8HMUG",
+      "name": "Anthony",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://10academybatch6.slack.com/archives/C03U4J8J4LQ/p1662708093965109",
+        "ts": "1662708093.965109",
+        "author_id": "U03UKL27B0R",
+        "channel_team": "T03U4J8HMUG",
+        "channel_id": "C03U4J8J4LQ",
+        "is_msg_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T03U4J8HMUG",
+            "channel": "C03U4J8J4LQ",
+            "ts": "1662708093.965109",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "gZ2",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "broadcast",
+                          "range": "channel"
+                        },
+                        {
+                          "type": "text",
+                          "text": " Here is the link for the timed contest challenge of week3. It starts at 9am UTC, and it's focused on Linked lists, SQL union operations, and SQL functions. Make sure to complete the challenge before the time is over.\n"
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://www.hackerrank.com/10-academy-batch-6-challenge-03"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "id": 1,
+        "original_url": "https://10academybatch6.slack.com/archives/C03U4J8J4LQ/p1662708093965109",
+        "fallback": "[September 9th, 2022 12:21 AM] yididya: <!channel> Here is the link for the timed contest challenge of week3. It starts at 9am UTC, and it's focused on Linked lists, SQL union operations, and SQL functions. Make sure to complete the challenge before the time is over.\n<https://www.hackerrank.com/10-academy-batch-6-challenge-03>",
+        "text": "<!channel> Here is the link for the timed contest challenge of week3. It starts at 9am UTC, and it's focused on Linked lists, SQL union operations, and SQL functions. Make sure to complete the challenge before the time is over.\n<https://www.hackerrank.com/10-academy-batch-6-challenge-03>",
+        "author_name": "Yididya Samuel",
+        "author_link": "https://10academybatch6.slack.com/team/U03UKL27B0R",
+        "author_icon": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_48.png",
+        "author_subname": "Yididya Samuel",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "Slack Conversation"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4214a1f6-543c-43e5-ae93-ddab9bb8c1f4",
+    "type": "message",
+    "text": "<!channel> everyone pop into the meets call at 09:50 UTC to talk about the different approaches people have taken to solve the challenge and discuss improvements that can happen over the coming weeks.\n<http://meet.google.com/ysb-kjdn-hpp>",
+    "user": "U03V8LHPDME",
+    "ts": "1662714968.820039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gzenq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " everyone pop into the meets call at 09:50 UTC to talk about the different approaches people have taken to solve the challenge and discuss improvements that can happen over the coming weeks.\n"
+              },
+              {
+                "type": "link",
+                "url": "http://meet.google.com/ysb-kjdn-hpp"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "173a5736f457",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3970891967459_173a5736f457d47f585e_72.png",
+      "first_name": "Mandy",
+      "real_name": "Mandy Sweeney",
+      "display_name": "Mandy Sweeney",
+      "team": "T03U4J8HMUG",
+      "name": "Mandy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "http://meet.google.com/ysb-kjdn-hpp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "http://meet.google.com/ysb-kjdn-hpp",
+        "fallback": "Meet",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "Meet",
+        "title_link": "http://meet.google.com/ysb-kjdn-hpp",
+        "service_name": "meet.google.com"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UVHCV6KB",
+          "U03UG32J3PC"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b2729ad8-1b78-42a0-a826-add58fd81e26",
+    "type": "message",
+    "text": "<!channel>, we have started the discussion on the weekly contest. Please join in.\n<http://meet.google.com/ysb-kjdn-hpp>",
+    "user": "U03UKL27B0R",
+    "ts": "1662717432.332919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HAz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ", we have started the discussion on the weekly contest. Please join in.\n"
+              },
+              {
+                "type": "link",
+                "url": "http://meet.google.com/ysb-kjdn-hpp"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Brittany",
+      "real_name": "Brittany Garcia",
+      "display_name": "Brittany Garcia",
+      "team": "T03U4J8HMUG",
+      "name": "Brittany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "4fc28f73-1417-4948-a27f-f7eb0ac59ca6",
+    "type": "message",
+    "text": "<https://www.codingninjas.com/codestudio/library/floyds-cycle-finding-algorithm>",
+    "user": "U03U1FQKEMV",
+    "ts": "1662719682.354399",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tDim",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.codingninjas.com/codestudio/library/floyds-cycle-finding-algorithm"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g6eee7df1d92",
+      "image_72": "https://secure.gravatar.com/avatar/6eee7df1d92577aa5637983ea403f886.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0026-72.png",
+      "first_name": "Steven",
+      "real_name": "Steven Garcia",
+      "display_name": "Steven Garcia",
+      "team": "T03U4J8HMUG",
+      "name": "Steven",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "8fb98d17-e82b-464a-89a1-b91e65375f16",
+    "type": "message",
+    "text": "Hello <!channel>. How are you doing? I missed you, the tutor and the challenge today. I was flying from Bahir Dar to Addis Ababa then to Bahir Dar today. There was a critical lab to be done in 4 hours of interval in Addis to be turned back to Bahir Dar Tibebe Giyon Specialized hospital. Even if it was so much terrible, I was happy to achieve bringing lab results to my sister's doctors at Bahir Dar. I am still trying my best to be with you all buddies:broken_heart:.",
+    "user": "U03UUMM7Y8H",
+    "ts": "1662754492.810989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZN7t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ". How are you doing? I missed you, the tutor and the challenge today. I was flying from Bahir Dar to Addis Ababa then to Bahir Dar today. There was a critical lab to be done in 4 hours of interval in Addis to be turned back to Bahir Dar Tibebe Giyon Specialized hospital. Even if it was so much terrible, I was happy to achieve bringing lab results to my sister's doctors at Bahir Dar. I am still trying my best to be with you all buddies"
+              },
+              {
+                "type": "emoji",
+                "name": "broken_heart",
+                "unicode": "1f494"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e2bebb7a634d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953540555975_e2bebb7a634dbafeadb5_72.png",
+      "first_name": "Veronica",
+      "real_name": "Veronica Padilla",
+      "display_name": "Veronica Padilla",
+      "team": "T03U4J8HMUG",
+      "name": "Veronica",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662754492.810989",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1662795814.725079",
+    "reply_users": [
+      "U03U1FNPEUX",
+      "U03UG0YHAUT",
+      "U03UVHCV6KB"
+    ],
+    "replies": [
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1662756814.504199"
+      },
+      {
+        "user": "U03UG0YHAUT",
+        "ts": "1662759834.991329"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662795814.725079"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "d5c7f839-f560-4110-90eb-024726302e16",
+    "type": "message",
+    "text": "hello yasabneh. Such a determination. My prayers with you and your sister. fast recovery.",
+    "user": "U03U1FNPEUX",
+    "ts": "1662756814.504199",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jfYf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "hello yasabneh. Such a determination. My prayers with you and your sister. fast recovery."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662754492.810989",
+    "parent_user_id": "U03UUMM7Y8H",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UUMM7Y8H"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "bfc7c804-99bf-4025-8c4c-d5fc835b2f3a",
+    "type": "message",
+    "text": "Keep the good work <@U03UUMM7Y8H>  we have missed you on standup and may God bless your sister soon:pray:",
+    "user": "U03UG0YHAUT",
+    "ts": "1662759834.991329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DyO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Keep the good work "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUMM7Y8H"
+              },
+              {
+                "type": "text",
+                "text": "  we have missed you on standup and may God bless your sister soon"
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "unicode": "1f64f"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Brown",
+      "display_name": "Daniel Brown",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662754492.810989",
+    "parent_user_id": "U03UUMM7Y8H",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UUMM7Y8H"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

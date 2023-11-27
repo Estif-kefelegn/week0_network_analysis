@@ -1,0 +1,224 @@
+[
+  {
+    "client_msg_id": "8D8437A3-E20F-43E0-A54B-79F960FDE349",
+    "type": "message",
+    "text": "Soooo me",
+    "user": "U03U1FNPEUX",
+    "ts": "1666685196.811009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jVBAf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Soooo me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666557561.806679",
+    "parent_user_id": "U03UG32J3PC",
+    "reactions": [
+      {
+        "name": "rolling_on_the_floor_laughing",
+        "users": [
+          "U03UG32J3PC"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d0f99578-a6c8-4130-976f-e20e76c05587",
+    "type": "message",
+    "text": "<https://www.linkedin.com/posts/pascalbornet_data-analytics-ai-activity-6990545006230990848-A5ME?utm_source=share&amp;utm_medium=member_android|https://www.linkedin.com/posts/pascalbornet_data-analytics-ai-activity-6990545006230990848-A5ME?utm_source=share&amp;utm_medium=member_android>",
+    "user": "U03UG0YHAUT",
+    "ts": "1666758625.824009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0kwc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/posts/pascalbornet_data-analytics-ai-activity-6990545006230990848-A5ME?utm_source=share&utm_medium=member_android",
+                "text": "https://www.linkedin.com/posts/pascalbornet_data-analytics-ai-activity-6990545006230990848-A5ME?utm_source=share&utm_medium=member_android"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Brown",
+      "display_name": "Daniel Brown",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.linkedin.com/posts/pascalbornet_data-analytics-ai-activity-6990545006230990848-A5ME?utm_source=share&utm_medium=member_android",
+        "thumb_url": "https://media-exp1.licdn.com/dms/image/C5605AQEiymXqVfg6Rg/videocover-high/0/1666675514287?e=2147483647&v=beta&t=RYE7R3zne62K1kChbsEP_bCOjDn2nII39_v_QsyJYaw",
+        "thumb_width": 720,
+        "thumb_height": 720,
+        "image_url": "https://media-exp1.licdn.com/dms/image/C5605AQEiymXqVfg6Rg/videocover-high/0/1666675514287?e=2147483647&v=beta&t=RYE7R3zne62K1kChbsEP_bCOjDn2nII39_v_QsyJYaw",
+        "image_width": 720,
+        "image_height": 720,
+        "image_bytes": 23774,
+        "service_icon": "https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/posts/pascalbornet_data-analytics-ai-activity-6990545006230990848-A5ME?utm_source=share&amp;utm_medium=member_android",
+        "fallback": "Pascal BORNET on LinkedIn: #data #analytics #AI | 118 comments",
+        "text": ":boom: An amazing #data visualization reproducing all the earthquakes from 1901 to 2000 Credit: @jblefevre60 #analytics #AI #MachineLearning #dataviz... 118 comments on LinkedIn",
+        "title": "Pascal BORNET on LinkedIn: #data #analytics #AI | 118 comments",
+        "title_link": "https://www.linkedin.com/posts/pascalbornet_data-analytics-ai-activity-6990545006230990848-A5ME?utm_source=share&utm_medium=member_android",
+        "service_name": "linkedin.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "966f1414-31d7-42ec-9d9e-1264789e0302",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=aHZdvq4khsA>",
+    "user": "U03UUS0MZCZ",
+    "ts": "1666765757.132119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nfcgk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=aHZdvq4khsA"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4dd67341a549",
+      "image_72": "https://avatars.slack-edge.com/2022-10-25/4268232309942_4dd67341a5490ee7721b_72.jpg",
+      "first_name": "Jodi",
+      "real_name": "Jodi Lyons",
+      "display_name": "Jodi Lyons",
+      "team": "T03U4J8HMUG",
+      "name": "Jodi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=aHZdvq4khsA",
+        "thumb_url": "https://i.ytimg.com/vi/aHZdvq4khsA/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/aHZdvq4khsA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"How NFTs are shaking up the art world | DW Documentary\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=aHZdvq4khsA",
+        "fallback": "YouTube Video: How NFTs are shaking up the art world | DW Documentary",
+        "title": "How NFTs are shaking up the art world | DW Documentary",
+        "title_link": "https://www.youtube.com/watch?v=aHZdvq4khsA",
+        "author_name": "DW Documentary",
+        "author_link": "https://www.youtube.com/c/DWDocumentary",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fc84574d-a07d-49f2-8a69-3dd8a7520d9c",
+    "type": "message",
+    "text": "<https://blogs.worldbank.org/voices/can-cryptocurrencies-and-blockchain-help-fight-corruption>",
+    "user": "U03UG0SFHGT",
+    "ts": "1666765963.695739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "o0Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://blogs.worldbank.org/voices/can-cryptocurrencies-and-blockchain-help-fight-corruption"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "60e1cb8a7a1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953568416743_60e1cb8a7a1b6c71c2bb_72.jpg",
+      "first_name": "Willie",
+      "real_name": "Willie Yang",
+      "display_name": "Willie Yang",
+      "team": "T03U4J8HMUG",
+      "name": "Willie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://blogs.worldbank.org/voices/can-cryptocurrencies-and-blockchain-help-fight-corruption",
+        "image_url": "https://blogs.worldbank.org/sites/default/files/styles/card/public/voices/images-card/business-3085138.jpg.webp",
+        "image_width": 443,
+        "image_height": 250,
+        "image_bytes": 34244,
+        "service_icon": "https://blogs.worldbank.org/themes/blogstheme/favicon.ico",
+        "id": 1,
+        "original_url": "https://blogs.worldbank.org/voices/can-cryptocurrencies-and-blockchain-help-fight-corruption",
+        "fallback": "World Bank Blogs: Can cryptocurrencies and blockchain help fight corruption?",
+        "text": "\u00a9 Pixbaby/Creative Commons [[tweetable]]Blockchain and cryptocurrencies similar to Bitcoin could transform the way we make payments and do business. They also hold great promise as a method of fighting corruption.[[/tweetable]] Technological advances have made it possible to dramatically increase the accountability and transparency of public financing to reduce corruption. For ...",
+        "title": "Can cryptocurrencies and blockchain help fight corruption?",
+        "title_link": "https://blogs.worldbank.org/voices/can-cryptocurrencies-and-blockchain-help-fight-corruption",
+        "service_name": "World Bank Blogs"
+      }
+    ]
+  }
+]

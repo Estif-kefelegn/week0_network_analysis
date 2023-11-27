@@ -1,0 +1,1073 @@
+[
+  {
+    "client_msg_id": "cf1712d3-19a7-4e7b-9979-09bcf42d7b65",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=7E2sw1AiaQs>",
+    "user": "U03UVHCV6KB",
+    "ts": "1663743675.815679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lmG6A",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=7E2sw1AiaQs"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=7E2sw1AiaQs",
+        "thumb_url": "https://i.ytimg.com/vi/7E2sw1AiaQs/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/7E2sw1AiaQs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"What's new in Apache Airflow 2.4?\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=7E2sw1AiaQs",
+        "fallback": "YouTube Video: What's new in Apache Airflow 2.4?",
+        "title": "What's new in Apache Airflow 2.4?",
+        "title_link": "https://www.youtube.com/watch?v=7E2sw1AiaQs",
+        "author_name": "Data with Marc",
+        "author_link": "https://www.youtube.com/c/MarcLamberti",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "eb5b713a-ac6f-4c5c-a3b8-c2e9c57836b9",
+    "type": "message",
+    "text": "<https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html>",
+    "user": "U03UJGRN5E0",
+    "ts": "1663748330.391699",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+ojsh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://airflow.apache.org/docs/apache-airflow/stable/howto/docker-compose/index.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Katie",
+      "real_name": "Katie Dickerson",
+      "display_name": "Katie Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Katie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "ad799c0f-2987-4891-ba99-f39f7c7a7bcf",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=pzBf4KEvrUQ>",
+    "user": "U03UHB8CXDY",
+    "ts": "1663757656.981559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=wi67",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=pzBf4KEvrUQ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Yvonne",
+      "real_name": "Yvonne Gonzalez",
+      "display_name": "Yvonne Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Yvonne",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=pzBf4KEvrUQ",
+        "thumb_url": "https://i.ytimg.com/vi/pzBf4KEvrUQ/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/pzBf4KEvrUQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"How to set up dbt for Snowflake | Tutorial for beginners\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=pzBf4KEvrUQ",
+        "fallback": "YouTube Video: How to set up dbt for Snowflake | Tutorial for beginners",
+        "title": "How to set up dbt for Snowflake | Tutorial for beginners",
+        "title_link": "https://www.youtube.com/watch?v=pzBf4KEvrUQ",
+        "author_name": "Adam Morton",
+        "author_link": "https://www.youtube.com/c/AdamMortonSnowflakeDataWarehouse",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "80914cac-17ba-404c-95eb-35dcc1857a2c",
+    "type": "message",
+    "text": "<https://hevodata.com/learn/airflow-postgres-operator/>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663759373.029179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MjSn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "https://hevodata.com/learn/airflow-postgres-operator/",
+                "style": {
+                  "unlink": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Cristian",
+      "real_name": "Cristian Wilson",
+      "display_name": "Cristian Wilson",
+      "team": "T03U4J8HMUG",
+      "name": "Cristian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "32af8e49-dc0a-4cfb-aa02-0ed7f31dd0e7",
+    "type": "message",
+    "text": "<https://youtu.be/yJFHgNWmoMg>",
+    "user": "U03UG32J3PC",
+    "ts": "1663761513.341949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Asm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/yJFHgNWmoMg"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "April",
+      "real_name": "April Lucas",
+      "display_name": "April Lucas",
+      "team": "T03U4J8HMUG",
+      "name": "April",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/yJFHgNWmoMg",
+        "thumb_url": "https://i.ytimg.com/vi/yJFHgNWmoMg/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/yJFHgNWmoMg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Building robust data pipelines with dbt, Airflow, and Great Expectations with Sam Bail\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/yJFHgNWmoMg",
+        "fallback": "YouTube Video: Building robust data pipelines with dbt, Airflow, and Great Expectations with Sam Bail",
+        "title": "Building robust data pipelines with dbt, Airflow, and Great Expectations with Sam Bail",
+        "title_link": "https://youtu.be/yJFHgNWmoMg",
+        "author_name": "PyLadies Berlin",
+        "author_link": "https://www.youtube.com/c/PyLadiesBerlin",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4dfb2d6e-00c1-47e5-a80b-05eac482336e",
+    "type": "message",
+    "text": "<https://youtu.be/9iN6iw7Lamo>",
+    "user": "U03UG32J3PC",
+    "ts": "1663765548.528519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p3Sq+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/9iN6iw7Lamo"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "April",
+      "real_name": "April Lucas",
+      "display_name": "April Lucas",
+      "team": "T03U4J8HMUG",
+      "name": "April",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/9iN6iw7Lamo",
+        "thumb_url": "https://i.ytimg.com/vi/9iN6iw7Lamo/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/9iN6iw7Lamo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Building a robust data pipeline with dbt, Airflow, and Great Expectations\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/9iN6iw7Lamo",
+        "fallback": "YouTube Video: Building a robust data pipeline with dbt, Airflow, and Great Expectations",
+        "title": "Building a robust data pipeline with dbt, Airflow, and Great Expectations",
+        "title_link": "https://youtu.be/9iN6iw7Lamo",
+        "author_name": "dbt",
+        "author_link": "https://www.youtube.com/c/dbt-labs",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4c0806c0-f9f6-4ed8-a731-02d44e8f4227",
+    "type": "message",
+    "text": "<https://www.ibm.com/cloud/learn/data-warehouse>",
+    "user": "U03U1FNPEUX",
+    "ts": "1663773156.583849",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zNRb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.ibm.com/cloud/learn/data-warehouse"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.ibm.com/cloud/learn/data-warehouse",
+        "thumb_url": "https://1.cms.s81c.com/sites/default/files/styles/ibm_cloud_wide_background/public/2020-03-05/Learn%20Leadspace%201.jpg?itok=AF4D7PMa",
+        "thumb_width": 1200,
+        "thumb_height": 600,
+        "service_icon": "https://www.ibm.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.ibm.com/cloud/learn/data-warehouse",
+        "fallback": "What is a Data Warehouse?",
+        "text": "A data warehouse pulls together data from many different sources into a single data repository for analytics and decision support.",
+        "title": "What is a Data Warehouse?",
+        "title_link": "https://www.ibm.com/cloud/learn/data-warehouse",
+        "service_name": "ibm.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fb50fb52-69e7-428a-9a74-cab00c07d24d",
+    "type": "message",
+    "text": "<https://www.lucidchart.com/pages/>",
+    "user": "U03U1FNPEUX",
+    "ts": "1663777700.820069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cJL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.lucidchart.com/pages/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.lucidchart.com/pages/",
+        "service_icon": "https://www.lucidchart.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.lucidchart.com/pages/",
+        "fallback": "Lucidchart: Intelligent Diagramming | Lucidchart",
+        "text": "Lucidchart is your solution for visual communication and cross-platform collaboration.",
+        "title": "Intelligent Diagramming | Lucidchart",
+        "title_link": "https://www.lucidchart.com/pages/",
+        "service_name": "Lucidchart"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "pray",
+        "users": [
+          "U03UH397319"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2177924e-2871-4c12-96ff-cb5e414c55ba",
+    "type": "message",
+    "text": "<https://app.diagrams.net/>",
+    "user": "U03UJGRN5E0",
+    "ts": "1663778404.557969",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RdF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://app.diagrams.net/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Katie",
+      "real_name": "Katie Dickerson",
+      "display_name": "Katie Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Katie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://app.diagrams.net/",
+        "service_icon": "https://app.diagrams.net/images/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://app.diagrams.net/",
+        "fallback": "Flowchart Maker &amp; Online Diagram Software",
+        "text": "<http://diagrams.net|diagrams.net> is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams",
+        "title": "Flowchart Maker &amp; Online Diagram Software",
+        "title_link": "https://app.diagrams.net/",
+        "service_name": "app.diagrams.net"
+      }
+    ],
+    "thread_ts": "1663778404.557969",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1663778595.457009",
+    "reply_users": [
+      "U03UD68RQH3"
+    ],
+    "replies": [
+      {
+        "user": "U03UD68RQH3",
+        "ts": "1663778595.457009"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UD68RQH3"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "795885aa-a0a7-4307-874b-fd3f19dddf65",
+    "type": "message",
+    "text": "This one is also another option.",
+    "user": "U03UJGRN5E0",
+    "ts": "1663778435.870209",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/PR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This one is also another option."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Katie",
+      "real_name": "Katie Dickerson",
+      "display_name": "Katie Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Katie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "1423ca77-5f54-4012-9d7e-ecf97f913746",
+    "type": "message",
+    "text": "my go to",
+    "user": "U03UD68RQH3",
+    "ts": "1663778595.457009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dGLe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "my go to"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "Brady",
+      "real_name": "Brady Rhodes",
+      "display_name": "Brady Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Brady",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663778404.557969",
+    "parent_user_id": "U03UJGRN5E0"
+  },
+  {
+    "client_msg_id": "777c5502-c35c-4aad-acb3-497d93c7eeaa",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/getting-hands-on-with-dbt-data-build-tool-a157d4151bbc>",
+    "user": "U03UG32J3PC",
+    "ts": "1663779906.818159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6TSZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/getting-hands-on-with-dbt-data-build-tool-a157d4151bbc"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "April",
+      "real_name": "April Lucas",
+      "display_name": "April Lucas",
+      "team": "T03U4J8HMUG",
+      "name": "April",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/getting-hands-on-with-dbt-data-build-tool-a157d4151bbc",
+        "ts": 1657051563,
+        "image_url": "https://miro.medium.com/max/1200/1*x_0niDS61Sxqq6MV0fOaOg.jpeg",
+        "image_width": 546,
+        "image_height": 250,
+        "image_bytes": 52839,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/getting-hands-on-with-dbt-data-build-tool-a157d4151bbc",
+        "fallback": "Medium: Getting hands-on with DBT\u200a\u2014\u200aData Build Tool",
+        "text": "Step by Step Guide to running your first project with DBT",
+        "title": "Getting hands-on with DBT\u200a\u2014\u200aData Build Tool",
+        "title_link": "https://towardsdatascience.com/getting-hands-on-with-dbt-data-build-tool-a157d4151bbc",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "4 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b1cd2b1a-9d5b-48b6-91c1-6d9f4d5bb9c9",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/the-new-data-engineering-stack-78939850bb30>",
+    "user": "U03UFV7HFNF",
+    "ts": "1663781832.996799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PYcAG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/the-new-data-engineering-stack-78939850bb30"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/the-new-data-engineering-stack-78939850bb30",
+        "ts": 1626941708,
+        "image_url": "https://miro.medium.com/max/1200/1*exLqz4ERbxx-9UwmQ8tiHA.jpeg",
+        "image_width": 200,
+        "image_height": 250,
+        "image_bytes": 169995,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/the-new-data-engineering-stack-78939850bb30",
+        "fallback": "Medium: The New Data Engineering Stack",
+        "text": "Technologies for the Complete Data Engineer",
+        "title": "The New Data Engineering Stack",
+        "title_link": "https://towardsdatascience.com/the-new-data-engineering-stack-78939850bb30",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "8 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e612b851-fc56-44e8-b736-3dde82e31ccd",
+    "type": "message",
+    "text": "<https://medium.com/data-eng/intro-to-dbt-data-build-tool-18ad03e63d37>",
+    "user": "U03UUR571A5",
+    "ts": "1663781974.340109",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CEO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/data-eng/intro-to-dbt-data-build-tool-18ad03e63d37"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/data-eng/intro-to-dbt-data-build-tool-18ad03e63d37",
+        "ts": 1590573966,
+        "image_url": "https://miro.medium.com/max/318/1*MRK7r59z-blLXsERyAeQyg.png",
+        "image_width": 275,
+        "image_height": 250,
+        "image_bytes": 17280,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/data-eng/intro-to-dbt-data-build-tool-18ad03e63d37",
+        "fallback": "Medium: Intro to DBT(Data Build Tool)",
+        "text": "Data Transformations.",
+        "title": "Intro to DBT(Data Build Tool)",
+        "title_link": "https://medium.com/data-eng/intro-to-dbt-data-build-tool-18ad03e63d37",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "6 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a20405c8-23a6-4255-96e9-3b69852ca230",
+    "type": "message",
+    "text": "<https://docs.getdbt.com/terms/data-lineage>",
+    "user": "U03UUR571A5",
+    "ts": "1663789992.277419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n/YI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.getdbt.com/terms/data-lineage"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://docs.getdbt.com/terms/data-lineage",
+        "image_url": "https://docs.getdbt.com/img/avatar.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 40717,
+        "service_icon": "https://docs.getdbt.com/img/favicon.ico",
+        "id": 1,
+        "original_url": "https://docs.getdbt.com/terms/data-lineage",
+        "fallback": "Data lineage | dbt Docs",
+        "text": "Data lineage provides a holistic view of how data moves through an organization, where it\u2019s transformed and consumed. Overall, data lineage is a fundamental concept to understand in the practice of analytics engineering and modern data work.",
+        "title": "Data lineage | dbt Docs",
+        "title_link": "https://docs.getdbt.com/terms/data-lineage",
+        "service_name": "docs.getdbt.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b6fec8ee-2564-40c8-ab30-c8b7d25d3487",
+    "type": "message",
+    "text": "<https://www.analytics8.com/blog/dbt-overview-what-is-dbt-and-what-can-it-do-for-my-data-pipeline/>",
+    "user": "U03UHB8CXDY",
+    "ts": "1663790341.799429",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "veb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.analytics8.com/blog/dbt-overview-what-is-dbt-and-what-can-it-do-for-my-data-pipeline/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Yvonne",
+      "real_name": "Yvonne Gonzalez",
+      "display_name": "Yvonne Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Yvonne",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "74a906d6-22eb-4673-8834-543988cb7cca",
+    "type": "message",
+    "text": "Shows the relationship between Airflow, dbt and PostgreSQL\n<https://medium.com/@Cartelis/setting-up-an-open-source-modern-data-stack-6dd41094cd2f>",
+    "user": "U03U1HAG9TR",
+    "ts": "1663795204.234309",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "inx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Shows the relationship between Airflow, dbt and PostgreSQL\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/@Cartelis/setting-up-an-open-source-modern-data-stack-6dd41094cd2f"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4e4331305ef1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980783297649_4e4331305ef102cc4346_72.jpg",
+      "first_name": "Robert",
+      "real_name": "Robert Carter",
+      "display_name": "Robert Carter",
+      "team": "T03U4J8HMUG",
+      "name": "Robert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/@Cartelis/setting-up-an-open-source-modern-data-stack-6dd41094cd2f",
+        "ts": 1637933680,
+        "image_url": "https://miro.medium.com/max/410/1*LJsHR9C3lopOpxTQmu7Shg.png",
+        "image_width": 274,
+        "image_height": 250,
+        "image_bytes": 12860,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/@Cartelis/setting-up-an-open-source-modern-data-stack-6dd41094cd2f",
+        "fallback": "Medium: Setting up an open-source modern data stack",
+        "text": "Guidance on setting up a data stack using exclusively open-source solutions",
+        "title": "Setting up an open-source modern data stack",
+        "title_link": "https://medium.com/@Cartelis/setting-up-an-open-source-modern-data-stack-6dd41094cd2f",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "10 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1663795204.234309",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1663920768.607389",
+    "reply_users": [
+      "U03U1FNPEUX",
+      "U03U1HAG9TR"
+    ],
+    "replies": [
+      {
+        "user": "U03U1FNPEUX",
+        "ts": "1663798531.540349"
+      },
+      {
+        "user": "U03U1HAG9TR",
+        "ts": "1663920768.607389"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03U1FNPEUX"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "DDCA5C16-6F46-4358-8293-EC180FB24DB9",
+    "type": "message",
+    "text": "Thank you <@U03U1HAG9TR>. Very helpful",
+    "user": "U03U1FNPEUX",
+    "ts": "1663798531.540349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "57m5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U1HAG9TR"
+              },
+              {
+                "type": "text",
+                "text": ". Very helpful"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663795204.234309",
+    "parent_user_id": "U03U1HAG9TR"
+  },
+  {
+    "client_msg_id": "be29429e-230f-41ea-93d0-c0c912a3220d",
+    "type": "message",
+    "text": "<https://fitdevops.in/how-to-setup-redash-dashboard-on-ubuntu/>",
+    "user": "U03UUR571A5",
+    "ts": "1663810746.433569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dOS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://fitdevops.in/how-to-setup-redash-dashboard-on-ubuntu/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://fitdevops.in/how-to-setup-redash-dashboard-on-ubuntu/",
+        "ts": 1591109289,
+        "image_url": "https://fitdevops.in/wp-content/uploads/Screenshot-from-2020-06-02-19-06-02.png",
+        "image_width": 384,
+        "image_height": 250,
+        "image_bytes": 41906,
+        "service_icon": "https://sp-ao.shortpixel.ai/client/to_auto,q_lossless,ret_img,w_180,h_180/https://fitdevops.in/wp-content/uploads/cropped-mabroox-SOM-Phoenix-180x180.png",
+        "id": 1,
+        "original_url": "https://fitdevops.in/how-to-setup-redash-dashboard-on-ubuntu/",
+        "fallback": "Fit-DevOps: How to Setup Redash Dashboard on Ubuntu | Fit-DevOps",
+        "text": "In this blog post , We will learn how to setup Redash Dashboard on Ubuntu servers.",
+        "title": "How to Setup Redash Dashboard on Ubuntu | Fit-DevOps",
+        "title_link": "https://fitdevops.in/how-to-setup-redash-dashboard-on-ubuntu/",
+        "service_name": "Fit-DevOps",
+        "fields": [
+          {
+            "value": "3 minutes",
+            "title": "Time to read",
+            "short": true
+          }
+        ]
+      }
+    ]
+  }
+]

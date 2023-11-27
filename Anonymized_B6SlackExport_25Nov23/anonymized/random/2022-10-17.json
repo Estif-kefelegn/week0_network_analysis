@@ -1,0 +1,279 @@
+[
+  {
+    "client_msg_id": "122722f0-7a0e-4b4f-ad1a-433c07627fee",
+    "type": "message",
+    "text": "If you struggle with procrastination, these 5 tips below can help you make progress and stay on track. Remember, sometimes, being aware of the problem can help you take steps to overcome it.\n\u2022 *Set small goals*: The thought of completing one huge task can seem daunting. Having a list of small and achievable goals can help you tackle each one, in turn, meaning that you make gradual progress towards completion.\n\u2022 *Organize your tasks*: The point above feeds into this one. You can stay motivated to accomplish your main goals by creating a precise schedule with dates (daily, weekly and monthly) for when you will achieve each of your smaller goals.\n\u2022  *Focus your attention*: Concentrating on some of the simpler activities you need to complete is another method for overcoming procrastination. This is a major confidence booster to achieve set tasks\n\u2022 *Remove distractions*: They can easily derail your progress, whether it\u2019s having your phone next to you on your desk or having the TV on in the background. Ensure you create a comfortable working environment where distractions can't thrive.\n\u2022 *Forgive yourself*: It's easy to punish yourself for putting off tasks. You might tell yourself that you're being ineffective or lazy. In actuality, doing this to yourself doesn't increase productivity; it just makes you feel more agitated and nervous. So learn to forgive yourself always.\n",
+    "user": "U03UG32J3PC",
+    "ts": "1666008780.686069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xskp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "If you struggle with procrastination, these 5 tips below can help you make progress and stay on track. Remember, sometimes, being aware of the problem can help you take steps to overcome it.\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Set small goals",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The thought of completing one huge task can seem daunting. Having a list of small and achievable goals can help you tackle each one, in turn, meaning that you make gradual progress towards completion."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Organize your tasks",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": The point above feeds into this one. You can stay motivated to accomplish your main goals by creating a precise schedule with dates (daily, weekly and monthly) for when you will achieve each of your smaller goals."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": " Focus your attention",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": Concentrating on some of the simpler activities you need to complete is another method for overcoming procrastination. This is a major confidence booster to achieve set tasks"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Remove distractions",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": They can easily derail your progress, whether it\u2019s having your phone next to you on your desk or having the TV on in the background. Ensure you create a comfortable working environment where distractions can't thrive."
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Forgive yourself",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": It's easy to punish yourself for putting off tasks. You might tell yourself that you're being ineffective or lazy. In actuality, doing this to yourself doesn't increase productivity; it just makes you feel more agitated and nervous. So learn to forgive yourself always."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "April",
+      "real_name": "April Lucas",
+      "display_name": "April Lucas",
+      "team": "T03U4J8HMUG",
+      "name": "April",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UFV7HFNF",
+          "U03UD68RQH3",
+          "U03UH397319",
+          "U03UUR571A5"
+        ],
+        "count": 4
+      },
+      {
+        "name": "hugging_face",
+        "users": [
+          "U03V785NLSU",
+          "U03V6HMRPGQ"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0c054b23-1753-487b-90d4-5ef8a8f97eb8",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=yEW-9SbXahI&amp;ab_channel=BostonDynamics>\n\n10academy trainees when Yabebal announced \"THE TWO REST DAYS\"",
+    "user": "U03UVHCV6KB",
+    "ts": "1666029087.689579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jrTWT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=yEW-9SbXahI&ab_channel=BostonDynamics"
+              },
+              {
+                "type": "text",
+                "text": "\n\n10academy trainees when Yabebal announced \"THE TWO REST DAYS\""
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=yEW-9SbXahI&amp;ab_channel=BostonDynamics",
+        "thumb_url": "https://i.ytimg.com/vi/yEW-9SbXahI/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/yEW-9SbXahI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Walk the Walk: HyundaiMotor X BTS for &#39;BTS Yet To Come in BUSAN&#39; concert\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=yEW-9SbXahI&amp;ab_channel=BostonDynamics",
+        "fallback": "YouTube Video: Walk the Walk: HyundaiMotor X BTS for 'BTS Yet To Come in BUSAN' concert",
+        "title": "Walk the Walk: HyundaiMotor X BTS for 'BTS Yet To Come in BUSAN' concert",
+        "title_link": "https://www.youtube.com/watch?v=yEW-9SbXahI&amp;ab_channel=BostonDynamics",
+        "author_name": "Boston Dynamics",
+        "author_link": "https://www.youtube.com/user/BostonDynamics",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "thread_ts": "1666029087.689579",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1666032967.552859",
+    "reply_users": [
+      "U03UD5B7C3X"
+    ],
+    "replies": [
+      {
+        "user": "U03UD5B7C3X",
+        "ts": "1666032967.552859"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "heart_on_fire",
+        "users": [
+          "U03UD5B7C3X"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "450AB806-2806-419F-A4EF-33461FE8B97E",
+    "type": "message",
+    "text": "they even had 7 robots dancing in the video!! :sob:",
+    "user": "U03UD5B7C3X",
+    "ts": "1666032967.552859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8wj=a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "they even had 7 robots dancing in the video!! :sob:"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Elizabeth",
+      "real_name": "Elizabeth Hall",
+      "display_name": "Elizabeth Hall",
+      "team": "T03U4J8HMUG",
+      "name": "Elizabeth",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666029087.689579",
+    "parent_user_id": "U03UVHCV6KB"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1668000999.132989",
+    "user": "U03TEPYRM2P",
+    "text": "<@U03TEPYRM2P> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1668001075.282509",
+    "user": "U03UJGRN5E0",
+    "text": "<@U03UJGRN5E0> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1668001075.368959",
+    "user": "U03UUR571A5",
+    "text": "<@U03UUR571A5> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1668001075.454209",
+    "user": "U03UP7V9Q57",
+    "text": "<@U03UP7V9Q57> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1668001075.650879",
+    "user": "U03UKL27B0R",
+    "text": "<@U03UKL27B0R> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1668001075.719589",
+    "user": "U03U9DB7REG",
+    "text": "<@U03U9DB7REG> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1668001075.779539",
+    "user": "U03V8LHPDME",
+    "text": "<@U03V8LHPDME> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  }
+]

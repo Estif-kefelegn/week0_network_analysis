@@ -1,0 +1,636 @@
+[
+  {
+    "client_msg_id": "a391200b-b9a1-4e0a-b9d1-230048863852",
+    "type": "message",
+    "text": "<@U03TT5KEYCF> I am failing to publish the profile.  I cannot figure out the right website domain. It keeps showing red whenever I try to insert a website.",
+    "user": "U03UG1Z21JP",
+    "ts": "1666595412.448559",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ncrWk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03TT5KEYCF"
+              },
+              {
+                "type": "text",
+                "text": " I am failing to publish the profile.  I cannot figure out the right website domain. It keeps showing red whenever I try to insert a website."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Foley",
+      "display_name": "Jennifer Foley",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666558535.592229",
+    "parent_user_id": "U03TT5KEYCF"
+  },
+  {
+    "client_msg_id": "a7741727-b4dd-4691-95ac-27ce21751f07",
+    "type": "message",
+    "text": "<@U03TT5KEYCF> I just saw this message now, my apologies.....I think anyone with a link can see my  profile site (even though I haven't published it yet) Should I publish it and resubmit anyway?",
+    "user": "U03UJGP0C68",
+    "ts": "1666598660.454939",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OBQr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03TT5KEYCF"
+              },
+              {
+                "type": "text",
+                "text": " I just saw this message now, my apologies.....I think anyone with a link can see my  profile site (even though I haven't published it yet) Should I publish it and resubmit anyway?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Judith",
+      "real_name": "Judith Bolton",
+      "display_name": "Judith Bolton",
+      "team": "T03U4J8HMUG",
+      "name": "Judith",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666558535.592229",
+    "parent_user_id": "U03TT5KEYCF"
+  },
+  {
+    "client_msg_id": "f52d845a-3edc-4463-9ab2-7ab54b948622",
+    "type": "message",
+    "text": "Morning <!channel>",
+    "user": "U03TT5KEYCF",
+    "ts": "1666605914.807329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NKzC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Morning "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Luis",
+      "real_name": "Luis Ingram",
+      "display_name": "Luis Ingram",
+      "team": "T03U4J8HMUG",
+      "name": "Luis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "AEE7384E-2DFE-4B0A-A67E-5FF456EA9A86",
+    "type": "message",
+    "text": "Good morning Mary ",
+    "user": "U03U1FNPEUX",
+    "ts": "1666605940.513089",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E+kw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Good morning Mary "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "7d3ce9f3-3686-4e1a-bf64-bbc1bcd408b1",
+    "type": "message",
+    "text": "Please if you already submitted your profile link without publishing - kindly publish, give view access to anyone then resubmit (don't worry about the late submission), we will review it.\n\nIf you have any issue around this - please send me or your assigned tutor a DM.",
+    "user": "U03TT5KEYCF",
+    "ts": "1666606082.728419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+qzHY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Please if you already submitted your profile link without publishing - kindly publish, give view access to anyone then resubmit (don't worry about the late submission), we will review it.\n\nIf you have any issue around this - please send me or your assigned tutor a DM."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Luis",
+      "real_name": "Luis Ingram",
+      "display_name": "Luis Ingram",
+      "team": "T03U4J8HMUG",
+      "name": "Luis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666606082.728419",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1666606712.324829",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03UJKJGRAQ"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1666606119.240789"
+      },
+      {
+        "user": "U03UJKJGRAQ",
+        "ts": "1666606712.324829"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB",
+          "U03U1FNPEUX",
+          "U03U9EJR362",
+          "U03UJGP0C68",
+          "U03UJKJGRAQ"
+        ],
+        "count": 5
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5905cd35-0983-4b37-8a91-9798f767cece",
+    "type": "message",
+    "text": "Morning",
+    "user": "U03UVHCV6KB",
+    "ts": "1666606085.239009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9zC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Morning"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "31b16610-bcb0-449a-b59f-e121074d7a0e",
+    "type": "message",
+    "text": "<@U03UJGP0C68> yes please",
+    "user": "U03TT5KEYCF",
+    "ts": "1666606105.577459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ko1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UJGP0C68"
+              },
+              {
+                "type": "text",
+                "text": " yes please"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Luis",
+      "real_name": "Luis Ingram",
+      "display_name": "Luis Ingram",
+      "team": "T03U4J8HMUG",
+      "name": "Luis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666558535.592229",
+    "parent_user_id": "U03TT5KEYCF",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UJGP0C68"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ba887627-8f3d-436e-b9d1-9e1a77122b4f",
+    "type": "message",
+    "text": "I Just did that bzw",
+    "user": "U03UVHCV6KB",
+    "ts": "1666606119.240789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZUJJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I Just did that bzw"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666606082.728419",
+    "parent_user_id": "U03TT5KEYCF",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03TT5KEYCF"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "05a19bbd-cf64-4837-9ab6-f5a81fc21c65",
+    "type": "message",
+    "text": "<@U03UG1Z21JP> please DM me",
+    "user": "U03TT5KEYCF",
+    "ts": "1666606131.397909",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "grw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UG1Z21JP"
+              },
+              {
+                "type": "text",
+                "text": " please DM me"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Luis",
+      "real_name": "Luis Ingram",
+      "display_name": "Luis Ingram",
+      "team": "T03U4J8HMUG",
+      "name": "Luis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666558535.592229",
+    "parent_user_id": "U03TT5KEYCF"
+  },
+  {
+    "client_msg_id": "84652e36-cc43-4cb4-abb0-56641512ba42",
+    "type": "message",
+    "text": "ok",
+    "user": "U03UG1Z21JP",
+    "ts": "1666606241.729189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J3XV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Foley",
+      "display_name": "Jennifer Foley",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666558535.592229",
+    "parent_user_id": "U03TT5KEYCF"
+  },
+  {
+    "client_msg_id": "6d24d8c3-d326-4a14-8b32-477a29dbaef0",
+    "type": "message",
+    "text": "I just published and resubmitted as well.",
+    "user": "U03UJKJGRAQ",
+    "ts": "1666606712.324829",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZWLJ/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I just published and resubmitted as well."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3d318a55b9e2",
+      "image_72": "https://avatars.slack-edge.com/2022-10-03/4158852852038_3d318a55b9e221ad2cb3_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Odom",
+      "display_name": "Brian Odom",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1666606082.728419",
+    "parent_user_id": "U03TT5KEYCF",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03TT5KEYCF"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f1a1a6d9-a239-43bd-af73-4e616588a9ea",
+    "type": "message",
+    "text": "<!channel>\nThere will be no careers exercise for Week 10, 11 &amp; 12\nOur focus will be working with your assigned tutor to perfect CV &amp; 10 Academy profile, mock interviews (for the remaining trainees who haven't participated) and preparation for job search.",
+    "user": "U03TT5KEYCF",
+    "ts": "1666617813.618849",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uVg",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\nThere will be no careers exercise for Week 10, 11 & 12\nOur focus will be working with your assigned tutor to perfect CV & 10 Academy profile, mock interviews (for the remaining trainees who haven't participated) and preparation for job search."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Luis",
+      "real_name": "Luis Ingram",
+      "display_name": "Luis Ingram",
+      "team": "T03U4J8HMUG",
+      "name": "Luis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UJGP0C68",
+          "U03UG32J3PC",
+          "U03UG0SFHGT",
+          "U03UG1Z21JP",
+          "U03UJGRN5E0",
+          "U03UUR571A5",
+          "U03UH397319",
+          "U03UJN29Y4C",
+          "U03UD4FEDHB",
+          "U03UG0YHAUT",
+          "U03U1FNPEUX",
+          "U03UJKJGRAQ",
+          "U03V6HMRPGQ",
+          "U03UVHCV6KB"
+        ],
+        "count": 14
+      },
+      {
+        "name": "pray",
+        "users": [
+          "U03UVHCV6KB",
+          "U03U1GHT39V",
+          "U03UG1Z21JP",
+          "U03UUR571A5",
+          "U03UH397319",
+          "U03UG0YHAUT",
+          "U03U1FNPEUX"
+        ],
+        "count": 7
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U03UUMR26Q1",
+          "U03UUR571A5",
+          "U03U1HAG9TR",
+          "U03UG0YHAUT",
+          "U03U1FNPEUX",
+          "U03UVHCV6KB"
+        ],
+        "count": 6
+      },
+      {
+        "name": "raised_hands::skin-tone-3",
+        "users": [
+          "U03U9EJR362"
+        ],
+        "count": 1
+      },
+      {
+        "name": "pray::skin-tone-3",
+        "users": [
+          "U03U9EJR362"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1::skin-tone-3",
+        "users": [
+          "U03U9EJR362"
+        ],
+        "count": 1
+      },
+      {
+        "name": "100",
+        "users": [
+          "U03UG5VFN03",
+          "U03UUR571A5",
+          "U03UH397319",
+          "U03UG0YHAUT",
+          "U03U1FNPEUX",
+          "U03UVHCV6KB"
+        ],
+        "count": 6
+      }
+    ]
+  }
+]

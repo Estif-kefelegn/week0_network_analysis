@@ -1,0 +1,596 @@
+[
+  {
+    "client_msg_id": "9f108830-6693-474f-a1ce-c8d7600b27e6",
+    "type": "message",
+    "text": "<https://code.visualstudio.com/docs/nodejs/reactjs-tutorial>",
+    "user": "U03U1HAG9TR",
+    "ts": "1664613673.718769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2qtE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://code.visualstudio.com/docs/nodejs/reactjs-tutorial"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4e4331305ef1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980783297649_4e4331305ef102cc4346_72.jpg",
+      "first_name": "Robert",
+      "real_name": "Robert Carter",
+      "display_name": "Robert Carter",
+      "team": "T03U4J8HMUG",
+      "name": "Robert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://code.visualstudio.com/docs/nodejs/reactjs-tutorial",
+        "service_icon": "https://code.visualstudio.com/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://code.visualstudio.com/docs/nodejs/reactjs-tutorial",
+        "fallback": "React JavaScript Tutorial in Visual Studio Code",
+        "text": "React JavaScript tutorial showing IntelliSense, debugging, and code navigation support in the Visual Studio Code editor.",
+        "title": "React JavaScript Tutorial in Visual Studio Code",
+        "title_link": "https://code.visualstudio.com/docs/nodejs/reactjs-tutorial",
+        "service_name": "code.visualstudio.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "78684eaa-3d46-4180-8454-28e5571f38bd",
+    "type": "message",
+    "text": "<https://youtu.be/DRXey5O--GA|https://youtu.be/DRXey5O--GA>",
+    "user": "U03UG0YHAUT",
+    "ts": "1664619292.984649",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Z/M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/DRXey5O--GA",
+                "text": "https://youtu.be/DRXey5O--GA"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Brown",
+      "display_name": "Daniel Brown",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/DRXey5O--GA",
+        "thumb_url": "https://i.ytimg.com/vi/DRXey5O--GA/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/DRXey5O--GA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"The Complete Front-End Developer Roadmap 2023\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/DRXey5O--GA",
+        "fallback": "YouTube Video: The Complete Front-End Developer Roadmap 2023",
+        "title": "The Complete Front-End Developer Roadmap 2023",
+        "title_link": "https://youtu.be/DRXey5O--GA",
+        "author_name": "CodeTopia",
+        "author_link": "https://www.youtube.com/channel/UC1JK0vX1NFj9ip7R5ViNJ7A",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "65492ea0-edf0-4791-ac5b-fd7e17fd20ac",
+    "type": "message",
+    "text": "<https://cointelegraph.com/news/what-is-the-algorand-blockchain-and-how-does-it-work|https://cointelegraph.com/news/what-is-the-algorand-blockchain-and-how-does-it-work>",
+    "user": "U03V5Q9N516",
+    "ts": "1664620556.307479",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "crL5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://cointelegraph.com/news/what-is-the-algorand-blockchain-and-how-does-it-work",
+                "text": "https://cointelegraph.com/news/what-is-the-algorand-blockchain-and-how-does-it-work"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Debra",
+      "real_name": "Debra Lawrence",
+      "display_name": "Debra Lawrence",
+      "team": "T03U4J8HMUG",
+      "name": "Debra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://cointelegraph.com/news/what-is-the-algorand-blockchain-and-how-does-it-work",
+        "image_url": "https://images.cointelegraph.com/images/1200_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjItMDMvNzdjOWNlYTEtODA3Mi00ZWZjLWJlN2UtZjMyNmI5MGRhNTEwLmpwZw==.jpg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 266124,
+        "service_icon": "https://cointelegraph.com/favicons/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://cointelegraph.com/news/what-is-the-algorand-blockchain-and-how-does-it-work",
+        "fallback": "Cointelegraph: What is the Algorand blockchain, and how does it work?",
+        "text": "Created to solve most blockchain issues, Algorand blockchain is the first to use a pure proof-of-stake consensus protocol.",
+        "title": "What is the Algorand blockchain, and how does it work?",
+        "title_link": "https://cointelegraph.com/news/what-is-the-algorand-blockchain-and-how-does-it-work",
+        "service_name": "Cointelegraph"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "54139714-0061-4434-bccd-928fa3dedb89",
+    "type": "message",
+    "text": "Algorand: A secure and efficient distributed ledger\n<https://www.sciencedirect.com/science/article/pii/S030439751930091X>",
+    "user": "U03UD4FEDHB",
+    "ts": "1664620855.385079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DMwx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Algorand: A secure and efficient distributed ledger\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.sciencedirect.com/science/article/pii/S030439751930091X"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g48fef055f8a",
+      "image_72": "https://secure.gravatar.com/avatar/48fef055f8a8b8a4c0bcfefbf5e3eec3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Michael",
+      "real_name": "Michael Gonzalez",
+      "display_name": "Michael Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Michael",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.sciencedirect.com/science/article/pii/S030439751930091X",
+        "thumb_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0304397519X00213-cov150h.gif",
+        "thumb_width": 110,
+        "thumb_height": 150,
+        "service_icon": "https://sdfestaticassets-us-east-1.sciencedirectassets.com/shared-assets/13/images/favSD.ico",
+        "id": 1,
+        "original_url": "https://www.sciencedirect.com/science/article/pii/S030439751930091X",
+        "fallback": "Algorand: A secure and efficient distributed ledger",
+        "text": "A distributed ledger is a tamperproof sequence of data that can be publicly accessed and augmented by everyone, without being maintained by a centrali\u2026",
+        "title": "Algorand: A secure and efficient distributed ledger",
+        "title_link": "https://www.sciencedirect.com/science/article/pii/S030439751930091X",
+        "service_name": "sciencedirect.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "42311800-52f6-4027-8dc2-8356c001284d",
+    "type": "message",
+    "text": "<https://web3.storage/docs/>",
+    "user": "U03UG5VFN03",
+    "ts": "1664629964.064149",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BjSp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://web3.storage/docs/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Nancy",
+      "real_name": "Nancy Craig",
+      "display_name": "Nancy Craig",
+      "team": "T03U4J8HMUG",
+      "name": "Nancy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://web3.storage/docs/",
+        "image_url": "https://web3.storage/social-card-web3storage.jpg",
+        "image_width": 400,
+        "image_height": 250,
+        "image_bytes": 40619,
+        "service_icon": "https://web3.storage/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://web3.storage/docs/",
+        "fallback": "Docs - Web3 Storage - Simple file storage with IPFS &amp; Filecoin: Web3 Storage - The simple file storage service for IPFS &amp; Filecoin.",
+        "text": "With web3.Storage you get all the benefits of decentralized storage and content addressing with the frictionless experience you expect in a modern storage solution. It\u2019s fast and it's open.",
+        "title": "Web3 Storage - The simple file storage service for IPFS &amp; Filecoin.",
+        "title_link": "https://web3.storage/docs/",
+        "service_name": "Docs - Web3 Storage - Simple file storage with IPFS &amp; Filecoin"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "79642916-9ad3-4897-bd4d-a9841197326f",
+    "type": "message",
+    "text": "<https://git-scm.com/>",
+    "user": "U03UUR571A5",
+    "ts": "1664634177.571619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xX9nV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://git-scm.com/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "03cebe27-d259-44ab-a509-fefdcd8431b3",
+    "type": "message",
+    "text": "<https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project>",
+    "user": "U03UFV7HFNF",
+    "ts": "1664635736.772029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EC6q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project",
+        "image_url": "http://blog.miguelgrinberg.com/static/cards/how-to-create-a-react--flask-project.jpg",
+        "image_width": 478,
+        "image_height": 250,
+        "image_bytes": 35981,
+        "service_icon": "https://blog.miguelgrinberg.com/static/favicon.ico",
+        "id": 1,
+        "original_url": "https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project",
+        "fallback": "How To Create a React + Flask Project",
+        "text": "One of the questions I get asked more often lately is how to create a project that combines a React frontend with a Flask backend. Instead of giving vague answers I decided to write a tutorial about\u2026",
+        "title": "How To Create a React + Flask Project",
+        "title_link": "https://blog.miguelgrinberg.com/post/how-to-create-a-react--flask-project",
+        "service_name": "blog.miguelgrinberg.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e676b030-7e6e-461b-88ff-75470858c215",
+    "type": "message",
+    "text": "<https://www.semrush.com/blog/javascript-cheat-sheet/?kw=&amp;cmp=Africa_SRCH_DSA_Blog_EN&amp;label=dsa_pagefeed&amp;Network=g&amp;Device=c&amp;utm_content=622528816534&amp;kwid=dsa-1753200736933&amp;cmpid=18364843126&amp;agpid=141057039323&amp;BU=Core&amp;extid=54841801164&amp;adpos=&amp;gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177cBe3V2CVXPnNW6CIhG1d2cXVyVLprgWnKtHCAUQ6irIgtWye3_TwaAm7gEALw_wcB|https://www.semrush.com/blog/javascript-cheat-sheet/?kw=&amp;cmp=Africa_SRCH_DSA_Blog_EN[\u2026]V2CVXPnNW6CIhG1d2cXVyVLprgWnKtHCAUQ6irIgtWye3_TwaAm7gEALw_wcB>",
+    "user": "U03U1FNPEUX",
+    "ts": "1664635951.295899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EjkJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.semrush.com/blog/javascript-cheat-sheet/?kw=&cmp=Africa_SRCH_DSA_Blog_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=622528816534&kwid=dsa-1753200736933&cmpid=18364843126&agpid=141057039323&BU=Core&extid=54841801164&adpos=&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177cBe3V2CVXPnNW6CIhG1d2cXVyVLprgWnKtHCAUQ6irIgtWye3_TwaAm7gEALw_wcB",
+                "text": "https://www.semrush.com/blog/javascript-cheat-sheet/?kw=&cmp=Africa_SRCH_DSA_Blog_EN[\u2026]V2CVXPnNW6CIhG1d2cXVyVLprgWnKtHCAUQ6irIgtWye3_TwaAm7gEALw_wcB"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.semrush.com/blog/javascript-cheat-sheet/?kw=&cmp=Africa_SRCH_DSA_Blog_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=622528816534&kwid=dsa-1753200736933&cmpid=18364843126&agpid=141057039323&BU=Core&extid=54841801164&adpos=&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177cBe3V2CVXPnNW6CIhG1d2cXVyVLprgWnKtHCAUQ6irIgtWye3_TwaAm7gEALw_wcB",
+        "image_url": "https://static.semrush.com/blog/uploads/media/77/3d/773d9f41a502d49cd5a2d3ef617820ed/javascript-cheat-sheet-sm.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 27994,
+        "service_icon": "https://static.semrush.com/semblog-next-static/favicon/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://www.semrush.com/blog/javascript-cheat-sheet/?kw=&amp;cmp=Africa_SRCH_DSA_Blog_EN&amp;label=dsa_pagefeed&amp;Network=g&amp;Device=c&amp;utm_content=622528816534&amp;kwid=dsa-1753200736933&amp;cmpid=18364843126&amp;agpid=141057039323&amp;BU=Core&amp;extid=54841801164&amp;adpos=&amp;gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177cBe3V2CVXPnNW6CIhG1d2cXVyVLprgWnKtHCAUQ6irIgtWye3_TwaAm7gEALw_wcB",
+        "fallback": "Semrush Blog: JavaScript Cheat Sheet (with Table &amp; Downloadable PDF)",
+        "text": "Review the JavaScript basics in our quick guide and grab the downloadable JS commands reference sheet.",
+        "title": "JavaScript Cheat Sheet (with Table &amp; Downloadable PDF)",
+        "title_link": "https://www.semrush.com/blog/javascript-cheat-sheet/?kw=&cmp=Africa_SRCH_DSA_Blog_EN&label=dsa_pagefeed&Network=g&Device=c&utm_content=622528816534&kwid=dsa-1753200736933&cmpid=18364843126&agpid=141057039323&BU=Core&extid=54841801164&adpos=&gclid=Cj0KCQjwyt-ZBhCNARIsAKH1177cBe3V2CVXPnNW6CIhG1d2cXVyVLprgWnKtHCAUQ6irIgtWye3_TwaAm7gEALw_wcB",
+        "service_name": "Semrush Blog"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c78b19cc-b1e6-4696-b8f7-50d5219fa5c9",
+    "type": "message",
+    "text": "<https://codesandbox.io/s/next-js-11-user-registration-and-login-example-zde4h>",
+    "user": "U03UG32J3PC",
+    "ts": "1664637563.024639",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Cv/Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://codesandbox.io/s/next-js-11-user-registration-and-login-example-zde4h"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "April",
+      "real_name": "April Lucas",
+      "display_name": "April Lucas",
+      "team": "T03U4J8HMUG",
+      "name": "April",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://codesandbox.io/s/next-js-11-user-registration-and-login-example-zde4h",
+        "ts": 1629192194,
+        "image_url": "https://codesandbox.io/api/v1/sandboxes/zde4h/screenshot.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 5576,
+        "service_icon": "https://codesandbox.io/favicon.ico",
+        "id": 1,
+        "original_url": "https://codesandbox.io/s/next-js-11-user-registration-and-login-example-zde4h",
+        "fallback": "CodeSandbox: Next.js 11 - User Registration and Login Example - CodeSandbox",
+        "text": "<https://jasonwatmore.com/post/2021/08/19/next-js-11-user-registration-and-login-tutorial-with-example-app>",
+        "title": "Next.js 11 - User Registration and Login Example - CodeSandbox",
+        "title_link": "https://codesandbox.io/s/next-js-11-user-registration-and-login-example-zde4h",
+        "service_name": "CodeSandbox"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "515c42d4-e36a-4b0c-ab6e-104005639bbc",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=lTDtuJsA74s>",
+    "user": "U03UG1Z21JP",
+    "ts": "1664641593.253199",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uTXEm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=lTDtuJsA74s"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Foley",
+      "display_name": "Jennifer Foley",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=lTDtuJsA74s",
+        "thumb_url": "https://i.ytimg.com/vi/lTDtuJsA74s/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/lTDtuJsA74s?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Demo\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 300,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=lTDtuJsA74s",
+        "fallback": "YouTube Video: Demo",
+        "title": "Demo",
+        "title_link": "https://www.youtube.com/watch?v=lTDtuJsA74s",
+        "author_name": "Blackbox",
+        "author_link": "https://www.youtube.com/channel/UCyvo99GTlzA9gQkfq2YNR_A",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "26c5bae8-79cf-4c66-bf45-e5b56cdbd179",
+    "type": "message",
+    "text": "<https://algorand.github.io/js-algorand-sdk/modules.html>",
+    "user": "U03UVHCV6KB",
+    "ts": "1664667318.101939",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VF27R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://algorand.github.io/js-algorand-sdk/modules.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://algorand.github.io/js-algorand-sdk/modules.html",
+        "id": 1,
+        "original_url": "https://algorand.github.io/js-algorand-sdk/modules.html",
+        "fallback": "algosdk",
+        "text": "Documentation for algosdk",
+        "title": "algosdk",
+        "title_link": "https://algorand.github.io/js-algorand-sdk/modules.html",
+        "service_name": "algorand.github.io"
+      }
+    ]
+  }
+]

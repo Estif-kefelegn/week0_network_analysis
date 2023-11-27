@@ -1,0 +1,477 @@
+[
+  {
+    "client_msg_id": "a9339d17-2f2a-4559-89d2-4b8207cdd307",
+    "type": "message",
+    "text": "*<!here> REMINDER*:timer_clock:  <@U03TEPYRM2P> <@U03V8LHPDME> <@U03V1AM5TFA> Today's *standup*  will start in 10min! Join the meeting with this link below.\n:point_right: <http://meet.google.com/ysb-kjdn-hpp|meet.google.com/ysb-kjdn-hpp>\n:sparkles:Be reminded that we will have a Hotseat session too, so be ready with your questions to ask the Hotseater <@U03UD4FEDHB>",
+    "user": "U03V1AM5TFA",
+    "ts": "1662018619.723179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/9V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " REMINDER",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f"
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V1AM5TFA"
+              },
+              {
+                "type": "text",
+                "text": " Today's"
+              },
+              {
+                "type": "text",
+                "text": " standup",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  will start in 10min! Join the meeting with this link below.\n"
+              },
+              {
+                "type": "emoji",
+                "name": "point_right",
+                "unicode": "1f449"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "http://meet.google.com/ysb-kjdn-hpp",
+                "text": "meet.google.com/ysb-kjdn-hpp"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "emoji",
+                "name": "sparkles",
+                "unicode": "2728"
+              },
+              {
+                "type": "text",
+                "text": "Be reminded that we will have a Hotseat session too, so be ready with your questions to ask the Hotseater "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UD4FEDHB"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "90f7e028-52d5-4992-9c57-b84bed698145",
+    "type": "message",
+    "text": "Hello Community *<!here>*! _*Standup is ongoing now,*_ kindly join now if you haven't, be reminded that  the standup's attendance plays a big role while evaluating your progress.",
+    "user": "U03V1AM5TFA",
+    "ts": "1662019544.266279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bE8eu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello Community "
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "! "
+              },
+              {
+                "type": "text",
+                "text": "Standup is ongoing now,",
+                "style": {
+                  "bold": true,
+                  "italic": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " kindly join now if you haven't, be reminded that  the standup's attendance plays a big role while evaluating your progress."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "3802eee6-a019-4a65-baae-67b081874a59",
+    "type": "message",
+    "text": "*TUTORIAL REMINDER!!*:timer_clock:  *<!here>* *<@U03TEPYRM2P>* *<@U03V8LHPDME>* *<@U03UP7V9Q57>* \n*Please note that the next session is on in the next 10min*\n\u2022 *Session:* MLFlow and DVC\n\u2022 *Time*: From 1:00 PM - 2:00 PM UTC (Login 5 min before the starting time)\n\u2022 *Platform:* Google meet. <http://meet.google.com/ysb-kjdn-hpp|meet.google.com/ysb-kjdn-hpp>",
+    "user": "U03V1AM5TFA",
+    "ts": "1662036600.385589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lAWmZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "TUTORIAL REMINDER!!",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03UP7V9Q57",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Please note that the next session is on in the next 10min",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Session: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "MLFlow and DVC"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": From 1:00 PM - 2:00 PM UTC (Login 5 min before the starting time)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Platform: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Google meet. "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://meet.google.com/ysb-kjdn-hpp",
+                    "text": "meet.google.com/ysb-kjdn-hpp"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "d810fbc1-5876-4385-87d0-c09e6868c055",
+    "type": "message",
+    "text": "*Independent challenge work Reminder!! <!here>*\n*Please note that Independent Challenge Work is  in the next 10min*\n\u2022 *Session:* Independent challenge work (You will be working independently on today's challenge)\n\u2022 *Time*: From 2:00 PM - 8:00 PM UTC.",
+    "user": "U03V1AM5TFA",
+    "ts": "1662040200.979589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jIK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Independent challenge work Reminder!! ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Please note that Independent Challenge Work is  in the next 10min",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Session: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Independent challenge work (You will be working independently on today's challenge)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": From 2:00 PM - 8:00 PM UTC."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "client_msg_id": "7d50530f-4f35-4fdd-aa79-49016dfe32cf",
+    "type": "message",
+    "text": "good one",
+    "user": "U03U93GNNVB",
+    "ts": "1667462387.949679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ppG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "good one"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Katherine",
+      "real_name": "Katherine Foster",
+      "display_name": "Katherine Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Katherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "9bfe60ce-762c-4a47-ba5a-9692c7c94e59",
+    "type": "message",
+    "text": "<https://www.linkedin.com/news/story/a-good-cv-includes-these-things-5025409/>",
+    "user": "U03U1HAG9TR",
+    "ts": "1667492240.983599",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9cb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/news/story/a-good-cv-includes-these-things-5025409/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4e4331305ef1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980783297649_4e4331305ef102cc4346_72.jpg",
+      "first_name": "Robert",
+      "real_name": "Robert Carter",
+      "display_name": "Robert Carter",
+      "team": "T03U4J8HMUG",
+      "name": "Robert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.linkedin.com/news/story/a-good-cv-includes-these-things-5025409/",
+        "thumb_url": "https://media-exp1.licdn.com/dms/image/D4D1AAQGwgliESW91kA/storylineheaderimage-shrink_400_400/0/1666801175870?e=2147483647&v=beta&t=EF8-KIxMZ_AEGuXGpFdm-s6rK5pe_3tc6pJrgkdSh08",
+        "thumb_width": 400,
+        "thumb_height": 266,
+        "service_icon": "https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/news/story/a-good-cv-includes-these-things-5025409/",
+        "fallback": "A good CV includes these things | LinkedIn",
+        "text": "What kind of CV will get you noticed? It needs to do these three things.",
+        "title": "A good CV includes these things | LinkedIn",
+        "title_link": "https://www.linkedin.com/news/story/a-good-cv-includes-these-things-5025409/",
+        "service_name": "linkedin.com"
+      }
+    ]
+  }
+]

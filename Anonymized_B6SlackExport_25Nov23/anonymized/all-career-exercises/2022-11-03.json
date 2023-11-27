@@ -1,0 +1,72 @@
+[
+  {
+    "client_msg_id": "2d377746-573b-4949-b6da-0e80679c0142",
+    "type": "message",
+    "text": "Hi Hi\n\n<@U03UUP56MDF>  <@U03UHB8CXDY> <@U03UG0YHAUT> <@U03U1GHT39V>\nPlease share your updated CV's with me.",
+    "user": "U03TT5KEYCF",
+    "ts": "1667461457.750889",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+gUve",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi Hi\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUP56MDF"
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UHB8CXDY"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UG0YHAUT"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U1GHT39V"
+              },
+              {
+                "type": "text",
+                "text": "\nPlease share your updated CV's with me."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "aae36184306b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3945210198087_aae36184306bb9e0b018_72.jpg",
+      "first_name": "Luis",
+      "real_name": "Luis Ingram",
+      "display_name": "Luis Ingram",
+      "team": "T03U4J8HMUG",
+      "name": "Luis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  }
+]

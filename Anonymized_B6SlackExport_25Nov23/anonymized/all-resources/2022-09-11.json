@@ -1,0 +1,132 @@
+[
+  {
+    "client_msg_id": "b91c29b4-22f9-4b75-a664-e1b88933fb3f",
+    "type": "message",
+    "text": "Logic Learning Machine\n<https://en.wikipedia.org/wiki/Logic_learning_machine#:~:text=Logic%20learning%20machine%20(LLM)%20is,Council%20CNR%2DIEIIT%20in%20Genoa>.",
+    "user": "U03UFV7TUTV",
+    "ts": "1662943182.314709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rn98R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Logic Learning Machine\n"
+              },
+              {
+                "type": "link",
+                "url": "https://en.wikipedia.org/wiki/Logic_learning_machine#:~:text=Logic%20learning%20machine%20(LLM)%20is,Council%20CNR%2DIEIIT%20in%20Genoa"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g2d3549811da",
+      "image_72": "https://secure.gravatar.com/avatar/2d3549811dae404f2ab1ffd6d153680c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Anthony",
+      "real_name": "Anthony Galloway",
+      "display_name": "Anthony Galloway",
+      "team": "T03U4J8HMUG",
+      "name": "Anthony",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://en.wikipedia.org/wiki/Logic_learning_machine#:~:text=Logic%20learning%20machine%20(LLM)%20is,Council%20CNR%2DIEIIT%20in%20Genoa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Kernel_Machine.svg/1200px-Kernel_Machine.svg.png",
+        "image_width": 1200,
+        "image_height": 545,
+        "image_bytes": 62969,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/wikipedia.png",
+        "id": 1,
+        "original_url": "https://en.wikipedia.org/wiki/Logic_learning_machine#:~:text=Logic%20learning%20machine%20(LLM)%20is,Council%20CNR%2DIEIIT%20in%20Genoa",
+        "fallback": "wikipedia: Logic learning machine",
+        "text": "Logic learning machine (LLM) is a machine learning method based on the generation of intelligible rules. LLM is an efficient implementation of the Switching Neural Network (SNN) paradigm, developed by Marco Muselli, Senior Researcher at the Italian National Research Council CNR-IEIIT in Genoa.\nLLM has been employed in many different sectors, including the field of medicine (orthopedic patient classification, DNA micro-array analysis  and Clinical Decision Support Systems ), financial services and supply chain management.",
+        "title": "Logic learning machine",
+        "title_link": "https://en.wikipedia.org/wiki/Logic_learning_machine#:~:text=Logic%20learning%20machine%20(LLM)%20is,Council%20CNR%2DIEIIT%20in%20Genoa",
+        "author_name": "Wikipedia",
+        "author_link": "https://en.wikipedia.org/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9c3c6f10-b4fe-46e6-a3d3-c4e91ba7d74c",
+    "type": "message",
+    "text": "*How does in-context learning work?*\n<http://ai.stanford.edu/blog/understanding-incontext/>",
+    "user": "U03UFV7TUTV",
+    "ts": "1662943661.187309",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aMKo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "How does in-context learning work?",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "http://ai.stanford.edu/blog/understanding-incontext/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g2d3549811da",
+      "image_72": "https://secure.gravatar.com/avatar/2d3549811dae404f2ab1ffd6d153680c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Anthony",
+      "real_name": "Anthony Galloway",
+      "display_name": "Anthony Galloway",
+      "team": "T03U4J8HMUG",
+      "name": "Anthony",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "http://ai.stanford.edu/blog/understanding-incontext/",
+        "ts": 1659326400,
+        "thumb_url": "http://ai.stanford.edu/blog//assets/img/posts/2022-08-01-understanding-incontext/large_img.png",
+        "thumb_width": 1610,
+        "thumb_height": 677,
+        "service_icon": "http://ai.stanford.edu/blog/assets/img/favicon-32x32.png",
+        "id": 1,
+        "original_url": "http://ai.stanford.edu/blog/understanding-incontext/",
+        "fallback": "SAIL Blog: How does in-context learning work? A framework for understanding the differences from traditional supervised learning",
+        "text": "The official Stanford AI Lab blog",
+        "title": "How does in-context learning work? A framework for understanding the differences from traditional supervised learning",
+        "title_link": "http://ai.stanford.edu/blog/understanding-incontext/",
+        "service_name": "SAIL Blog"
+      }
+    ]
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "client_msg_id": "afdb6f08-a8bc-43e2-a997-572d35bd8f6f",
+    "type": "message",
+    "text": "<https://www.vox.com/recode/23405149/ai-art-dall-e-colonialism-artificial-intelligence>\n\nAI art looks way too European",
+    "user": "U03U93GNNVB",
+    "ts": "1667239384.566959",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0C7VL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.vox.com/recode/23405149/ai-art-dall-e-colonialism-artificial-intelligence"
+              },
+              {
+                "type": "text",
+                "text": "\n\nAI art looks way too European"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Katherine",
+      "real_name": "Katherine Foster",
+      "display_name": "Katherine Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Katherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.vox.com/recode/23405149/ai-art-dall-e-colonialism-artificial-intelligence",
+        "ts": 1666191600,
+        "image_url": "https://cdn.vox-cdn.com/thumbor/Z8t_wsZdp9Q5VnR70NLYqTleqZc=/0x0:5651x2959/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24121038/GettyImages_1367519530.jpg",
+        "image_width": 478,
+        "image_height": 250,
+        "image_bytes": 153174,
+        "service_icon": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/6397047/recode_favicon-180.0.png",
+        "id": 1,
+        "original_url": "https://www.vox.com/recode/23405149/ai-art-dall-e-colonialism-artificial-intelligence",
+        "fallback": "Vox: AI art looks way too European",
+        "text": "DALL-E and other models keep making art that ignores traditions from the rest of the world.",
+        "title": "AI art looks way too European",
+        "title_link": "https://www.vox.com/recode/23405149/ai-art-dall-e-colonialism-artificial-intelligence",
+        "service_name": "Vox"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

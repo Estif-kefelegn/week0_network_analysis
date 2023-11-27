@@ -1,0 +1,360 @@
+[
+  {
+    "client_msg_id": "81663385-aa28-4362-b283-20504f888b14",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=4TUzorWZW6Y>",
+    "user": "U03V785NLSU",
+    "ts": "1667119992.557489",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EbgGU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=4TUzorWZW6Y"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Ashley",
+      "real_name": "Ashley Hamilton",
+      "display_name": "Ashley Hamilton",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=4TUzorWZW6Y",
+        "thumb_url": "https://i.ytimg.com/vi/4TUzorWZW6Y/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/4TUzorWZW6Y?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"FOAM on Ethereum: The Future of Geospatial Data\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=4TUzorWZW6Y",
+        "fallback": "YouTube Video: FOAM on Ethereum: The Future of Geospatial Data",
+        "title": "FOAM on Ethereum: The Future of Geospatial Data",
+        "title_link": "https://www.youtube.com/watch?v=4TUzorWZW6Y",
+        "author_name": "FOAM Protocol",
+        "author_link": "https://www.youtube.com/c/FOAMProtocol",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c75be2be-2fa5-43f8-b6f9-c811c9677edb",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=LKb0y8z9TJg>  A real life company implementing this week's challenge.",
+    "user": "U03V785NLSU",
+    "ts": "1667120113.048299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q4ODL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=LKb0y8z9TJg"
+              },
+              {
+                "type": "text",
+                "text": "  A real life company implementing this week's challenge."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Ashley",
+      "real_name": "Ashley Hamilton",
+      "display_name": "Ashley Hamilton",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=LKb0y8z9TJg",
+        "thumb_url": "https://i.ytimg.com/vi/LKb0y8z9TJg/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/LKb0y8z9TJg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"The Elements of FOAM Explained\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=LKb0y8z9TJg",
+        "fallback": "YouTube Video: The Elements of FOAM Explained",
+        "title": "The Elements of FOAM Explained",
+        "title_link": "https://www.youtube.com/watch?v=LKb0y8z9TJg",
+        "author_name": "FOAM Protocol",
+        "author_link": "https://www.youtube.com/c/FOAMProtocol",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "73d2ba32-0372-4050-89a7-daa9cca02564",
+    "type": "message",
+    "text": "<https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/|https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/>",
+    "user": "U03UAKATQ22",
+    "ts": "1667121294.296569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ICG8t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/",
+                "text": "https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a2d0afeb249a",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3969267243922_a2d0afeb249a9b4f3842_72.png",
+      "first_name": "Gary",
+      "real_name": "Gary Thomas",
+      "display_name": "Gary Thomas",
+      "team": "T03U4J8HMUG",
+      "name": "Gary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/",
+        "image_url": "https://www.loginradius.com/blog/static/32b53a158fcbe237c5223007d8b14857/03979/coverimage.png",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 21948,
+        "service_icon": "https://www.loginradius.com/blog/icons/icon-48x48.png?v=acc2b8a6a1419d2d2c168bdb319e4a23",
+        "id": 1,
+        "original_url": "https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/",
+        "fallback": "Build Your First Smart Contract with Ethereum &amp; Solidity | LoginRadius Blog",
+        "text": "Smart contracts are an exciting way to build decentralized applications (dapps) on a blockchain. This tutorial helps you learn and build your first smart contract using Solidity on Ethereum blockchain.",
+        "title": "Build Your First Smart Contract with Ethereum &amp; Solidity | LoginRadius Blog",
+        "title_link": "https://www.loginradius.com/blog/engineering/guest-post/ethereum-smart-contract-tutorial/",
+        "service_name": "loginradius.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "89ec64e4-c0fa-4b5f-9dc6-8c892bda0bf0",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=XUwzASyHr4Q&amp;ab_channel=WebDevSimplified>",
+    "user": "U03UVHCV6KB",
+    "ts": "1667122499.364329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7ScI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=XUwzASyHr4Q&ab_channel=WebDevSimplified"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=XUwzASyHr4Q&amp;ab_channel=WebDevSimplified",
+        "thumb_url": "https://i.ytimg.com/vi/XUwzASyHr4Q/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/XUwzASyHr4Q?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"This One Line Of Code Catches React Bugs For You\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=XUwzASyHr4Q&amp;ab_channel=WebDevSimplified",
+        "fallback": "YouTube Video: This One Line Of Code Catches React Bugs For You",
+        "title": "This One Line Of Code Catches React Bugs For You",
+        "title_link": "https://www.youtube.com/watch?v=XUwzASyHr4Q&amp;ab_channel=WebDevSimplified",
+        "author_name": "Web Dev Simplified",
+        "author_link": "https://www.youtube.com/c/WebDevSimplified",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1f08e832-bff8-4235-befd-38707ca0ed3d",
+    "type": "message",
+    "text": "Every one :\nMe when I was looking for some solution to my error and find it after one day: <https://ethereum.stackexchange.com/questions/26577/error-vm-exception-while-processing-transaction-out-of-gas>",
+    "user": "U03UVHCV6KB",
+    "ts": "1667123772.443039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H7Ce",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Every one :\nMe when I was looking for some solution to my error and find it after one day: "
+              },
+              {
+                "type": "link",
+                "url": "https://ethereum.stackexchange.com/questions/26577/error-vm-exception-while-processing-transaction-out-of-gas"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://ethereum.stackexchange.com/questions/26577/error-vm-exception-while-processing-transaction-out-of-gas",
+        "thumb_url": "https://cdn.sstatic.net/Sites/ethereum/Img/apple-touch-icon@2.png?v=fa4301ca0e6d",
+        "thumb_width": 316,
+        "thumb_height": 316,
+        "service_icon": "https://cdn.sstatic.net/Sites/ethereum/Img/apple-touch-icon.png?v=066881acff39",
+        "id": 1,
+        "original_url": "https://ethereum.stackexchange.com/questions/26577/error-vm-exception-while-processing-transaction-out-of-gas",
+        "fallback": "Ethereum Stack Exchange: Error: VM Exception while processing transaction: out of gas",
+        "text": "I am running into out of gas exception while calling this function : contractInstance.createProposal(\"ADHD\", \"Foo\", 2, {from: web3.eth.accounts[1]}) . I'm super new to ethereum and I would really",
+        "title": "Error: VM Exception while processing transaction: out of gas",
+        "title_link": "https://ethereum.stackexchange.com/questions/26577/error-vm-exception-while-processing-transaction-out-of-gas",
+        "service_name": "Ethereum Stack Exchange"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG1Z21JP"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5f0380a2-ec03-4132-bcdc-6fb3c91bc1f4",
+    "type": "message",
+    "text": "<https://www.widen.com/blog/your-auto-tagging-recipe-for-success>",
+    "user": "U03U1FNPEUX",
+    "ts": "1667163661.224579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Jjpb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.widen.com/blog/your-auto-tagging-recipe-for-success"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.widen.com/blog/your-auto-tagging-recipe-for-success",
+        "image_url": "https://www.widen.com/hubfs/blog%20graphic%20Your%20Auto-tagging%20Recipe%20for%20Success.png#keepProtocol",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 79172,
+        "id": 1,
+        "original_url": "https://www.widen.com/blog/your-auto-tagging-recipe-for-success",
+        "fallback": "Using Image Recognition Software to Streamline Your DAM Workflows | Widen",
+        "text": "DAM users can use image recognition technology to help relieve the burden of manually tagging images. Explore the available integration options.",
+        "title": "Using Image Recognition Software to Streamline Your DAM Workflows | Widen",
+        "title_link": "https://www.widen.com/blog/your-auto-tagging-recipe-for-success",
+        "service_name": "widen.com"
+      }
+    ]
+  }
+]

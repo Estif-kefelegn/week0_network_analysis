@@ -1,0 +1,1848 @@
+[
+  {
+    "client_msg_id": "29c3385e-cc3b-4578-83a6-d1d0b398116b",
+    "type": "message",
+    "text": "Example GPT-3\n<https://becominghuman.ai/text-generation-using-gpt3-781429c4169>",
+    "user": "U03UFV7TUTV",
+    "ts": "1663140408.335669",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P569Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Example GPT-3\n"
+              },
+              {
+                "type": "link",
+                "url": "https://becominghuman.ai/text-generation-using-gpt3-781429c4169"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g2d3549811da",
+      "image_72": "https://secure.gravatar.com/avatar/2d3549811dae404f2ab1ffd6d153680c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Anthony",
+      "real_name": "Anthony Galloway",
+      "display_name": "Anthony Galloway",
+      "team": "T03U4J8HMUG",
+      "name": "Anthony",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://becominghuman.ai/text-generation-using-gpt3-781429c4169",
+        "ts": 1627052876,
+        "image_url": "https://miro.medium.com/max/1024/1*nRg70W47Ref8JPSjvba-xw.jpeg",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 104443,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://becominghuman.ai/text-generation-using-gpt3-781429c4169",
+        "fallback": "Medium: Text Generation Using GPT3.",
+        "text": "Hi guys. In this blog, we are going to learn about GPT3 and how it can help us to generate text",
+        "title": "Text Generation Using GPT3.",
+        "title_link": "https://becominghuman.ai/text-generation-using-gpt3-781429c4169",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "3 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "96b54fe0-1fea-4cbf-a622-788be9f331a2",
+    "type": "message",
+    "text": "Example GPT-2\n<https://www.modeldifferently.com/en/2021/12/generaci%C3%B3n-de-fake-news-con-gpt-2/#3-text-generation-with-gpt-2>",
+    "user": "U03UFV7TUTV",
+    "ts": "1663140428.409939",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T1C",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Example GPT-2\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.modeldifferently.com/en/2021/12/generaci%C3%B3n-de-fake-news-con-gpt-2/#3-text-generation-with-gpt-2"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g2d3549811da",
+      "image_72": "https://secure.gravatar.com/avatar/2d3549811dae404f2ab1ffd6d153680c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Anthony",
+      "real_name": "Anthony Galloway",
+      "display_name": "Anthony Galloway",
+      "team": "T03U4J8HMUG",
+      "name": "Anthony",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.modeldifferently.com/en/2021/12/generaci%C3%B3n-de-fake-news-con-gpt-2/#3-text-generation-with-gpt-2",
+        "ts": 1639094400,
+        "image_url": "https://www.modeldifferently.com/modelo_generacion_texto.PNG",
+        "image_width": 512,
+        "image_height": 250,
+        "image_bytes": 26992,
+        "service_icon": "https://www.modeldifferently.com/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://www.modeldifferently.com/en/2021/12/generaci%C3%B3n-de-fake-news-con-gpt-2/#3-text-generation-with-gpt-2",
+        "fallback": "Model Differently: Text generation with GPT-2",
+        "text": "Introduction to text generation models: GPT-2 and use cases.",
+        "title": "Text generation with GPT-2",
+        "title_link": "https://www.modeldifferently.com/en/2021/12/generaci%C3%B3n-de-fake-news-con-gpt-2/#3-text-generation-with-gpt-2",
+        "service_name": "Model Differently"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "505761bb-61cd-4d13-a661-a1fb5fdd90e2",
+    "type": "message",
+    "text": "EXample OPT\n<https://www.pragnakalp.com/exploring-the-text-generation-with-opt-open-pre-trained-transformers/>",
+    "user": "U03UFV7TUTV",
+    "ts": "1663140470.635409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "k0=z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "EXample OPT\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.pragnakalp.com/exploring-the-text-generation-with-opt-open-pre-trained-transformers/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g2d3549811da",
+      "image_72": "https://secure.gravatar.com/avatar/2d3549811dae404f2ab1ffd6d153680c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Anthony",
+      "real_name": "Anthony Galloway",
+      "display_name": "Anthony Galloway",
+      "team": "T03U4J8HMUG",
+      "name": "Anthony",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.pragnakalp.com/exploring-the-text-generation-with-opt-open-pre-trained-transformers/",
+        "ts": 1655539239,
+        "image_url": "https://www.pragnakalp.com/wp-content/uploads/2022/06/exploring-the-text-generation-with-opt.jpg",
+        "image_width": 477,
+        "image_height": 250,
+        "image_bytes": 278229,
+        "service_icon": "https://www.pragnakalp.com/wp-content/uploads/2022/05/cropped-pk-color-512-180x180.png",
+        "id": 1,
+        "original_url": "https://www.pragnakalp.com/exploring-the-text-generation-with-opt-open-pre-trained-transformers/",
+        "fallback": "Pragnakalp Techlabs: AI NLP Chatbot Development Company from India: Exploring the Text Generation with OPT (Open Pre-trained Transformers)",
+        "text": "Introduction Facebook/meta AI has introduced a new large language model trained on billions of parameters called OPT (Open Pre-trained Transformers), ranging from 125M to 175B parameters. It can be used to generate creative text, solve simple math problems, answer reading comprehension questions, and address other Natural Language Processing related issues. We tried a few different \u2026 Continue reading Exploring the Text Generation with OPT (Open Pre-trained Transformers)",
+        "title": "Exploring the Text Generation with OPT (Open Pre-trained Transformers)",
+        "title_link": "https://www.pragnakalp.com/exploring-the-text-generation-with-opt-open-pre-trained-transformers/",
+        "service_name": "Pragnakalp Techlabs: AI NLP Chatbot Development Company from India",
+        "fields": [
+          {
+            "value": "Pragnakalp Techlabs",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "6 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8d2ed41d-6329-49c2-961d-3312964bf42d",
+    "type": "message",
+    "text": "<https://datascience.stackexchange.com/questions/51065/what-is-the-positional-encoding-in-the-transformer-model>",
+    "user": "U03UG32J3PC",
+    "ts": "1663140927.779899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v9VBK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://datascience.stackexchange.com/questions/51065/what-is-the-positional-encoding-in-the-transformer-model"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "April",
+      "real_name": "April Lucas",
+      "display_name": "April Lucas",
+      "team": "T03U4J8HMUG",
+      "name": "April",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://datascience.stackexchange.com/questions/51065/what-is-the-positional-encoding-in-the-transformer-model",
+        "thumb_url": "https://cdn.sstatic.net/Sites/datascience/Img/apple-touch-icon@2.png?v=04de5a808425",
+        "thumb_width": 316,
+        "thumb_height": 316,
+        "service_icon": "https://cdn.sstatic.net/Sites/datascience/Img/apple-touch-icon.png?v=5e1a482deef9",
+        "id": 1,
+        "original_url": "https://datascience.stackexchange.com/questions/51065/what-is-the-positional-encoding-in-the-transformer-model",
+        "fallback": "Data Science Stack Exchange: What is the positional encoding in the transformer model?",
+        "text": "I'm trying to read and understand the paper Attention is all you need and in it, there is a picture: I don't know what positional encoding is. by listening to some youtube videos I've found out th...",
+        "title": "What is the positional encoding in the transformer model?",
+        "title_link": "https://datascience.stackexchange.com/questions/51065/what-is-the-positional-encoding-in-the-transformer-model",
+        "service_name": "Data Science Stack Exchange"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f0534f30-188a-47ef-8bac-4a32e8910c03",
+    "type": "message",
+    "text": "<https://360digitmg.com/gpt-vs-bert>",
+    "user": "U03UJGRN5E0",
+    "ts": "1663153963.176449",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cHiG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://360digitmg.com/gpt-vs-bert"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Katie",
+      "real_name": "Katie Dickerson",
+      "display_name": "Katie Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Katie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://360digitmg.com/gpt-vs-bert",
+        "image_url": "https://360digit.b-cdn.net/uploads/blog/351.png",
+        "image_width": 360,
+        "image_height": 240,
+        "image_bytes": 14205,
+        "service_icon": "https://360digitmg.com/assets/img/favicon.png",
+        "id": 1,
+        "original_url": "https://360digitmg.com/gpt-vs-bert",
+        "fallback": "360digitmg.com: GPT vs BERT in Artificial Intelligence- 360DigiTMG",
+        "text": "GPT (Generative Pre-trained Transformer), BERT (Bidirectional Encoder Representations from Transformers) is credited as one of the earliest pre-trained algorithms to perform Natural Language Processing (NLP) tasks.",
+        "title": "GPT vs BERT in Artificial Intelligence- 360DigiTMG",
+        "title_link": "https://360digitmg.com/gpt-vs-bert",
+        "service_name": "360digitmg.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c42861c8-d7fd-4376-a0b6-a9c2ee211238",
+    "type": "message",
+    "text": "<https://docs.cohere.ai/text-classification-embeddings/?utm_campaign=onboarding&amp;utm_medium=email&amp;utm_source=intercom>",
+    "user": "U03UFV7HFNF",
+    "ts": "1663157373.128589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WSzra",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.cohere.ai/text-classification-embeddings/?utm_campaign=onboarding&utm_medium=email&utm_source=intercom"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://docs.cohere.ai/text-classification-embeddings/?utm_campaign=onboarding&utm_medium=email&utm_source=intercom",
+        "image_url": "https://docs.cohere.ai/img/share-img.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 10474,
+        "service_icon": "https://docs.cohere.ai/img/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://docs.cohere.ai/text-classification-embeddings/?utm_campaign=onboarding&amp;utm_medium=email&amp;utm_source=intercom",
+        "fallback": "Cohere API Docs: API Documentation | Cohere AI",
+        "text": "Use the API to generate completions, distill text into semantically meaningful vectors, and more. Get state-of-the-art natural language processing without the need for expensive supercomputing infrastructure.",
+        "title": "API Documentation | Cohere AI",
+        "title_link": "https://docs.cohere.ai/text-classification-embeddings/?utm_campaign=onboarding&utm_medium=email&utm_source=intercom",
+        "service_name": "Cohere API Docs"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "62b1bed8-d5e6-4276-88f9-6bc261ee6dc9",
+    "type": "message",
+    "text": "<https://stackabuse.com/transformer-token-and-position-embedding-with-keras/>",
+    "user": "U03V5Q9N516",
+    "ts": "1663157887.860779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Kqdex",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://stackabuse.com/transformer-token-and-position-embedding-with-keras/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Debra",
+      "real_name": "Debra Lawrence",
+      "display_name": "Debra Lawrence",
+      "team": "T03U4J8HMUG",
+      "name": "Debra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://stackabuse.com/transformer-token-and-position-embedding-with-keras/",
+        "ts": 1659349800,
+        "service_icon": "https://stackabuse.com/assets/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://stackabuse.com/transformer-token-and-position-embedding-with-keras/",
+        "fallback": "Stack Abuse: Transformer Token and Position Embedding with Keras",
+        "text": "There are plenty of guides explaining how transformers work, and for building an intuition on a key element of them - token and position embedding. Positional...",
+        "title": "Transformer Token and Position Embedding with Keras",
+        "title_link": "https://stackabuse.com/transformer-token-and-position-embedding-with-keras/",
+        "service_name": "Stack Abuse",
+        "fields": [
+          {
+            "value": "David Landup",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "python, machine learning, tensorflow, nlp, keras, deep learning",
+            "title": "Filed under",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f2e017bf-129f-4f01-a89a-26117037e872",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=-QH8fRhqFHM&amp;t=185s>",
+    "user": "U03UD68RQH3",
+    "ts": "1663158373.813019",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aHuP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=-QH8fRhqFHM&t=185s"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "Brady",
+      "real_name": "Brady Rhodes",
+      "display_name": "Brady Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Brady",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=-QH8fRhqFHM&amp;t=185s",
+        "thumb_url": "https://i.ytimg.com/vi/-QH8fRhqFHM/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/-QH8fRhqFHM?feature=oembed&start=185&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"The Narrated Transformer Language Model\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=-QH8fRhqFHM&amp;t=185s",
+        "fallback": "YouTube Video: The Narrated Transformer Language Model",
+        "title": "The Narrated Transformer Language Model",
+        "title_link": "https://www.youtube.com/watch?v=-QH8fRhqFHM&amp;t=185s",
+        "author_name": "Jay Alammar",
+        "author_link": "https://www.youtube.com/channel/UCmOwsoHty5PrmE-3QhUBfPQ",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UG4Q7V42",
+          "U03UG1Z21JP"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "85118bba-d713-4a86-b9b8-5de1d9734605",
+    "type": "message",
+    "text": "<https://github.com/cohere-ai/notebooks>",
+    "user": "U03UUR571A5",
+    "ts": "1663158918.298649",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TZoH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/cohere-ai/notebooks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "color": "24292f",
+        "bot_id": "B03UYH1BWQZ",
+        "app_unfurl_url": "https://github.com/cohere-ai/notebooks",
+        "is_app_unfurl": true,
+        "app_id": "A01BP7R4KNY",
+        "fallback": "cohere-ai/notebooks",
+        "text": "Code examples and jupyter notebooks for the Cohere Platform",
+        "title": "cohere-ai/notebooks",
+        "fields": [
+          {
+            "value": "51",
+            "title": "Stars",
+            "short": true
+          },
+          {
+            "value": "Jupyter Notebook",
+            "title": "Language",
+            "short": true
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UJN29Y4C",
+          "U03UFV7HFNF"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "user": "U03UJH1EQQL",
+    "ts": "1663159039.991459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "caU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Kelly",
+      "real_name": "Kelly Soto",
+      "display_name": "Kelly Soto",
+      "team": "T03U4J8HMUG",
+      "name": "Kelly",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "color": "D0D0D0",
+        "bot_id": "B03UYH1BWQZ",
+        "app_unfurl_url": "https://github.com/cohere-ai/notebooks",
+        "is_app_unfurl": true,
+        "app_id": "A01BP7R4KNY",
+        "from_url": "https://10academybatch6.slack.com/archives/C03T89PMJKG/p1663158918298649",
+        "is_share": true,
+        "fallback": "cohere-ai/notebooks",
+        "text": "Code examples and jupyter notebooks for the Cohere Platform",
+        "title": "cohere-ai/notebooks",
+        "fields": [
+          {
+            "value": "51",
+            "title": "Stars",
+            "short": true
+          },
+          {
+            "value": "Jupyter Notebook",
+            "title": "Language",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "206cc06d-33f6-4037-a560-5ce8c7a5874d",
+    "type": "message",
+    "text": "An end to end guide on how to configure the DVC along with the GCP \n<https://iterative.ai/blog/using-gcp-remotes-in-dvc|https://iterative.ai/blog/using-gcp-remotes-in-dvc>",
+    "user": "U03UG0YHAUT",
+    "ts": "1663159553.224039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "23Y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "An end to end guide on how to configure the DVC along with the GCP \n"
+              },
+              {
+                "type": "link",
+                "url": "https://iterative.ai/blog/using-gcp-remotes-in-dvc",
+                "text": "https://iterative.ai/blog/using-gcp-remotes-in-dvc"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Brown",
+      "display_name": "Daniel Brown",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://iterative.ai/blog/using-gcp-remotes-in-dvc",
+        "ts": 1657054800,
+        "image_url": "https://iterative.ai/blog/images/2022-07-06/dvc-gcp.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 363289,
+        "service_icon": "https://iterative.ai/apple-touch-icon-48x48.png?v=78541f5bcb19bcbcdc375b47b7bf2b5a",
+        "id": 1,
+        "original_url": "https://iterative.ai/blog/using-gcp-remotes-in-dvc",
+        "fallback": "Developer tools for Machine Learning | Iterative: Syncing Data to GCP Storage Buckets",
+        "text": "We're going to set up an GCP storage bucket remote in a DVC project.",
+        "title": "Syncing Data to GCP Storage Buckets",
+        "title_link": "https://iterative.ai/blog/using-gcp-remotes-in-dvc",
+        "service_name": "Developer tools for Machine Learning | Iterative"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "60b09686-6038-4b9c-86cf-9590011249e0",
+    "type": "message",
+    "text": "<https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners>",
+    "user": "U03UUR571A5",
+    "ts": "1663162240.094629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rs1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.github.com/en/actions/hosting-your-own-runners/about-self-hosted-runners"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "2dfbbde8-0e66-4dcc-9404-97d3a466d85a",
+    "type": "message",
+    "text": "<https://d2l.ai/chapter_attention-mechanisms-and-transformers/self-attention-and-positional-encoding.html>",
+    "user": "U03U1FNPEUX",
+    "ts": "1663164351.324459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "29rD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://d2l.ai/chapter_attention-mechanisms-and-transformers/self-attention-and-positional-encoding.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e9c02e80-08a7-4418-aabc-8fca2b08d903",
+    "type": "message",
+    "text": "<https://medium.com/sfu-cspmp/nlp-word-embedding-techniques-for-text-analysis-ec4e91bb886f>",
+    "user": "U03U1FNPEUX",
+    "ts": "1663164787.541409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "aBQN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/sfu-cspmp/nlp-word-embedding-techniques-for-text-analysis-ec4e91bb886f"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/sfu-cspmp/nlp-word-embedding-techniques-for-text-analysis-ec4e91bb886f",
+        "ts": 1580804495,
+        "image_url": "https://miro.medium.com/max/1200/1*Gze94VGd3PktWrDMzLPdxA.png",
+        "image_width": 521,
+        "image_height": 250,
+        "image_bytes": 157199,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/sfu-cspmp/nlp-word-embedding-techniques-for-text-analysis-ec4e91bb886f",
+        "fallback": "Medium: NLP: Word Embedding Techniques for Text Analysis",
+        "text": "Fangyu Gu, Srijeev Sarkar, Yizhou Sun, Hengzhi Wu, Kacy Wu",
+        "title": "NLP: Word Embedding Techniques for Text Analysis",
+        "title_link": "https://medium.com/sfu-cspmp/nlp-word-embedding-techniques-for-text-analysis-ec4e91bb886f",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "15 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b6aa9b45-d2ae-4f8c-b69f-52ef6cf97ae6",
+    "type": "message",
+    "text": "<https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/>",
+    "user": "U03UG32J3PC",
+    "ts": "1663165975.522889",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "emAQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "April",
+      "real_name": "April Lucas",
+      "display_name": "April Lucas",
+      "team": "T03U4J8HMUG",
+      "name": "April",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/",
+        "ts": 1574219184,
+        "thumb_url": "https://cdn.analyticsvidhya.com/wp-content/uploads/2019/11/attention_deep_learning.jpg",
+        "thumb_width": 1024,
+        "thumb_height": 576,
+        "service_icon": "https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg",
+        "id": 1,
+        "original_url": "https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/",
+        "fallback": "Analytics Vidhya: Attention Mechanism In Deep Learning | Attention Model Keras",
+        "text": "A complete guide to attention models and attention mechanisms in deep learning. Learn how to implement an attention model in python using keras.",
+        "title": "Attention Mechanism In Deep Learning | Attention Model Keras",
+        "title_link": "https://www.analyticsvidhya.com/blog/2019/11/comprehensive-guide-attention-mechanism-deep-learning/",
+        "service_name": "Analytics Vidhya",
+        "fields": [
+          {
+            "value": "american_express",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "27 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heart",
+        "users": [
+          "U03V6HMRPGQ"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1103fbde-b168-45ac-9eac-865d4b84161c",
+    "type": "message",
+    "text": "<https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/>",
+    "user": "U03UG0SFHGT",
+    "ts": "1663166041.069929",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mi1p",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "60e1cb8a7a1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953568416743_60e1cb8a7a1b6c71c2bb_72.jpg",
+      "first_name": "Willie",
+      "real_name": "Willie Yang",
+      "display_name": "Willie Yang",
+      "team": "T03U4J8HMUG",
+      "name": "Willie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/",
+        "ts": 1526667345,
+        "thumb_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png",
+        "id": 1,
+        "original_url": "https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/",
+        "fallback": "GeeksforGeeks: Python | Word Embedding using Word2Vec - GeeksforGeeks",
+        "text": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+        "title": "Python | Word Embedding using Word2Vec - GeeksforGeeks",
+        "title_link": "https://www.geeksforgeeks.org/python-word-embedding-using-word2vec/",
+        "service_name": "GeeksforGeeks"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0105b798-9674-4c3e-ad9f-ec35cf0ba1eb",
+    "type": "message",
+    "text": "<https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/#:~:text=Positional%20encoding%20describes%20the%20location,item's%20position%20in%20transformer%20models>.",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663168108.407519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+Et2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/#:~:text=Positional%20encoding%20describes%20the%20location,item's%20position%20in%20transformer%20models"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Cristian",
+      "real_name": "Cristian Wilson",
+      "display_name": "Cristian Wilson",
+      "team": "T03U4J8HMUG",
+      "name": "Cristian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "7f93acdb-6286-4b84-910c-9adbe1216957",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=dichIcUZfOw>",
+    "user": "U03UJGRN5E0",
+    "ts": "1663171674.935039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4rrMh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=dichIcUZfOw"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Katie",
+      "real_name": "Katie Dickerson",
+      "display_name": "Katie Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Katie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=dichIcUZfOw",
+        "thumb_url": "https://i.ytimg.com/vi/dichIcUZfOw/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/dichIcUZfOw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Visual Guide to Transformer Neural Networks - (Episode 1) Position Embeddings\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=dichIcUZfOw",
+        "fallback": "YouTube Video: Visual Guide to Transformer Neural Networks - (Episode 1) Position Embeddings",
+        "title": "Visual Guide to Transformer Neural Networks - (Episode 1) Position Embeddings",
+        "title_link": "https://www.youtube.com/watch?v=dichIcUZfOw",
+        "author_name": "Hedu AI",
+        "author_link": "https://www.youtube.com/c/HeduMathematicsofIntelligence",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f1e52bec-7dc3-4dd3-8b10-4c5cf248669f",
+    "type": "message",
+    "text": "<https://www.csie.ntu.edu.tw/~yvchen/doc/EMNLP20_PositionVec.pdf>",
+    "user": "U03UG5VFN03",
+    "ts": "1663171779.718079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Oqes",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.csie.ntu.edu.tw/~yvchen/doc/EMNLP20_PositionVec.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Nancy",
+      "real_name": "Nancy Craig",
+      "display_name": "Nancy Craig",
+      "team": "T03U4J8HMUG",
+      "name": "Nancy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "b52ac76d-660c-4c0d-a489-326ac3e746c6",
+    "type": "message",
+    "text": "<https://aclanthology.org/2021.emnlp-main.266.pdf>",
+    "user": "U03UG5VFN03",
+    "ts": "1663171780.760459",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7IB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://aclanthology.org/2021.emnlp-main.266.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Nancy",
+      "real_name": "Nancy Craig",
+      "display_name": "Nancy Craig",
+      "team": "T03U4J8HMUG",
+      "name": "Nancy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "1595e4b9-a3ae-479c-b632-610ff79992ad",
+    "type": "message",
+    "text": "<https://www.kdnuggets.com/2021/01/attention-mechanism-deep-learning-explained.html>",
+    "user": "U03UG5VFN03",
+    "ts": "1663171899.617779",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6nn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.kdnuggets.com/2021/01/attention-mechanism-deep-learning-explained.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Nancy",
+      "real_name": "Nancy Craig",
+      "display_name": "Nancy Craig",
+      "team": "T03U4J8HMUG",
+      "name": "Nancy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.kdnuggets.com/2021/01/attention-mechanism-deep-learning-explained.html",
+        "thumb_url": "https://www.kdnuggets.com/wp-content/uploads/Fig1-Chauhan-attention-mechanism-deep-learning-explained.jpg",
+        "thumb_width": 870,
+        "thumb_height": 614,
+        "service_icon": "https://www.kdnuggets.com/wp-content/themes/kdn17/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.kdnuggets.com/2021/01/attention-mechanism-deep-learning-explained.html",
+        "fallback": "KDnuggets: Attention mechanism in Deep Learning, Explained - KDnuggets",
+        "text": "Attention is a powerful mechanism developed to enhance the performance of the Encoder-Decoder architecture on neural network-based machine translation tasks. Learn more about how this process works and how to implement the approach into your work.",
+        "title": "Attention mechanism in Deep Learning, Explained - KDnuggets",
+        "title_link": "https://www.kdnuggets.com/2021/01/attention-mechanism-deep-learning-explained.html",
+        "service_name": "KDnuggets"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ba6edf88-09cc-48dc-9986-01317cc115ec",
+    "type": "message",
+    "text": "<https://medium.com/@angelina.yang/whats-the-difference-between-attention-and-self-attention-in-transformer-models-2846665880b6>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663173497.056239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jOr+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/@angelina.yang/whats-the-difference-between-attention-and-self-attention-in-transformer-models-2846665880b6"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Cristian",
+      "real_name": "Cristian Wilson",
+      "display_name": "Cristian Wilson",
+      "team": "T03U4J8HMUG",
+      "name": "Cristian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/@angelina.yang/whats-the-difference-between-attention-and-self-attention-in-transformer-models-2846665880b6",
+        "ts": 1658265482,
+        "image_url": "https://miro.medium.com/max/1200/0*XLOtiwU-McwmIPZW.jpeg",
+        "image_width": 255,
+        "image_height": 250,
+        "image_bytes": 128858,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/@angelina.yang/whats-the-difference-between-attention-and-self-attention-in-transformer-models-2846665880b6",
+        "fallback": "Medium: What\u2019s the Difference Between Attention and Self-attention in Transformer Models?",
+        "text": "\u201cAttention\u201d is one of the key ideas in the transformer architecture. There are a lot of deep explanations elsewhere so here we\u2019d like to\u2026",
+        "title": "What\u2019s the Difference Between Attention and Self-attention in Transformer Models?",
+        "title_link": "https://medium.com/@angelina.yang/whats-the-difference-between-attention-and-self-attention-in-transformer-models-2846665880b6",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "2 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "278e05ad-ee91-4d5c-8248-62d64bc92e8e",
+    "type": "message",
+    "text": "<https://theaisummer.com/attention/>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663173958.893259",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rBYB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://theaisummer.com/attention/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Cristian",
+      "real_name": "Cristian Wilson",
+      "display_name": "Cristian Wilson",
+      "team": "T03U4J8HMUG",
+      "name": "Cristian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://theaisummer.com/attention/",
+        "ts": 1605733200,
+        "image_url": "https://theaisummer.com/static/e9145585ddeed479c482761fe069518d/ee604/attention.png",
+        "image_width": 493,
+        "image_height": 250,
+        "image_bytes": 29658,
+        "service_icon": "https://theaisummer.com/static/b45b24c62e57511ad6ca9e436893489f/apple-icon-57x57.png",
+        "id": 1,
+        "original_url": "https://theaisummer.com/attention/",
+        "fallback": "AI Summer: How Attention works in Deep Learning: understanding the attention mechanism in sequence models | AI Summer",
+        "text": "New to Natural Language Processing? This is the ultimate beginner\u2019s guide to the attention mechanism and sequence learning to get you started",
+        "title": "How Attention works in Deep Learning: understanding the attention mechanism in sequence models | AI Summer",
+        "title_link": "https://theaisummer.com/attention/",
+        "service_name": "AI Summer"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "31eaabd7-bd14-4f29-a366-5ed193d346f8",
+    "type": "message",
+    "text": "<https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/>",
+    "user": "U03UG5VFN03",
+    "ts": "1663176408.515859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V6V",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Nancy",
+      "real_name": "Nancy Craig",
+      "display_name": "Nancy Craig",
+      "team": "T03U4J8HMUG",
+      "name": "Nancy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/",
+        "ts": 1648213107,
+        "image_url": "https://blogs.nvidia.com/wp-content/uploads/2022/03/Transformer-model-KV-x1280-FINAL.jpg",
+        "image_width": 469,
+        "image_height": 250,
+        "image_bytes": 50152,
+        "service_icon": "https://blogs.nvidia.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/",
+        "fallback": "NVIDIA Blog: What Is a Transformer Model?",
+        "text": "Transformer models apply an evolving set of mathematical techniques, called attention or self-attention, to detect subtle ways even distant data elements in a series influence and depend on each other.",
+        "title": "What Is a Transformer Model?",
+        "title_link": "https://blogs.nvidia.com/blog/2022/03/25/what-is-a-transformer-model/",
+        "service_name": "NVIDIA Blog",
+        "fields": [
+          {
+            "value": "Rick Merritt",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "12 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8f40234a-8fa5-4b32-b756-53364ff84918",
+    "type": "message",
+    "text": "<https://blog.andrewcantino.com/blog/2021/04/21/prompt-engineering-tips-and-tricks/>",
+    "user": "U03U1FNPEUX",
+    "ts": "1663182978.056289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mIkT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://blog.andrewcantino.com/blog/2021/04/21/prompt-engineering-tips-and-tricks/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://blog.andrewcantino.com/blog/2021/04/21/prompt-engineering-tips-and-tricks/",
+        "ts": 1619029800,
+        "service_icon": "https://blog.andrewcantino.com/assets/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://blog.andrewcantino.com/blog/2021/04/21/prompt-engineering-tips-and-tricks/",
+        "fallback": "andrew makes things: Prompt Engineering Tips and Tricks with GPT-3",
+        "text": "What GPT-3 Prompt Engineering is, why it matters, and some tips and tricks to help you do it well.",
+        "title": "Prompt Engineering Tips and Tricks with GPT-3",
+        "title_link": "https://blog.andrewcantino.com/blog/2021/04/21/prompt-engineering-tips-and-tricks/",
+        "service_name": "andrew makes things"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f5e2cb13-4d32-4c96-8787-b8311d37b532",
+    "type": "message",
+    "text": "<https://stackoverflow.com/questions/40216311/reading-in-environment-variables-from-an-environment-file>",
+    "user": "U03UUR571A5",
+    "ts": "1663183173.031339",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ibb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://stackoverflow.com/questions/40216311/reading-in-environment-variables-from-an-environment-file"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://stackoverflow.com/questions/40216311/reading-in-environment-variables-from-an-environment-file",
+        "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumb_width": 316,
+        "thumb_height": 316,
+        "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+        "id": 1,
+        "original_url": "https://stackoverflow.com/questions/40216311/reading-in-environment-variables-from-an-environment-file",
+        "fallback": "Stack Overflow: Reading in environment variables from an environment file",
+        "text": "I'd like to run in a local environment a Python script which is normally run in a Docker container. The docker-compose.yml specifies an env_file which looks (partially) like the following: DB_ADDR=",
+        "title": "Reading in environment variables from an environment file",
+        "title_link": "https://stackoverflow.com/questions/40216311/reading-in-environment-variables-from-an-environment-file",
+        "service_name": "Stack Overflow"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b6daae35-64f2-43ab-82a6-a89a64b516e4",
+    "type": "message",
+    "text": "<https://pypi.org/project/python-dotenv/>",
+    "user": "U03UUR571A5",
+    "ts": "1663183507.607699",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "io5K",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pypi.org/project/python-dotenv/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://pypi.org/project/python-dotenv/",
+        "image_url": "https://pypi.org/static/images/twitter.6fecba6f.jpg",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 6869,
+        "service_icon": "https://pypi.org/static/images/favicon.6a76275d.ico",
+        "id": 1,
+        "original_url": "https://pypi.org/project/python-dotenv/",
+        "fallback": "PyPI: python-dotenv",
+        "text": "Read key-value pairs from a .env file and set them as environment variables",
+        "title": "python-dotenv",
+        "title_link": "https://pypi.org/project/python-dotenv/",
+        "service_name": "PyPI"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b0c8f8c2-825e-4788-8755-fa6527dd12f6",
+    "type": "message",
+    "text": "<https://www.kaggle.com/code/abhishek/entity-extraction-model-using-bert-pytorch>",
+    "user": "U03V5Q9N516",
+    "ts": "1663217820.632869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WVN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.kaggle.com/code/abhishek/entity-extraction-model-using-bert-pytorch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Debra",
+      "real_name": "Debra Lawrence",
+      "display_name": "Debra Lawrence",
+      "team": "T03U4J8HMUG",
+      "name": "Debra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.kaggle.com/code/abhishek/entity-extraction-model-using-bert-pytorch",
+        "thumb_url": "https://storage.googleapis.com/kaggle-avatars/thumbnails/5309-kg.png",
+        "thumb_width": 100,
+        "thumb_height": 100,
+        "service_icon": "https://www.kaggle.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.kaggle.com/code/abhishek/entity-extraction-model-using-bert-pytorch",
+        "fallback": "Entity Extraction Model Using BERT &amp; PyTorch",
+        "text": "Explore and run machine learning code with Kaggle Notebooks | Using data from multiple data sources",
+        "title": "Entity Extraction Model Using BERT &amp; PyTorch",
+        "title_link": "https://www.kaggle.com/code/abhishek/entity-extraction-model-using-bert-pytorch",
+        "service_name": "kaggle.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8fe98d07-73f4-48b2-98bf-bf617156f13e",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=zMxvS7hD-Ug&amp;ab_channel=Rasa>",
+    "user": "U03V61VGQG0",
+    "ts": "1663217837.040519",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vqH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=zMxvS7hD-Ug&ab_channel=Rasa"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=zMxvS7hD-Ug&amp;ab_channel=Rasa",
+        "thumb_url": "https://i.ytimg.com/vi/zMxvS7hD-Ug/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/zMxvS7hD-Ug?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"NLP for Developers: BERT | Rasa\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=zMxvS7hD-Ug&amp;ab_channel=Rasa",
+        "fallback": "YouTube Video: NLP for Developers: BERT | Rasa",
+        "title": "NLP for Developers: BERT | Rasa",
+        "title_link": "https://www.youtube.com/watch?v=zMxvS7hD-Ug&amp;ab_channel=Rasa",
+        "author_name": "Rasa",
+        "author_link": "https://www.youtube.com/c/RasaHQ",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d70e494e-7ecf-4760-ac4a-07f09c47a871",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/transformers-89034557de14>",
+    "user": "U03V61VGQG0",
+    "ts": "1663217902.438639",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "q2/=a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/transformers-89034557de14"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/transformers-89034557de14",
+        "ts": 1606042906,
+        "image_url": "https://miro.medium.com/max/1200/0*2YfRrpQtt8TG2iuz",
+        "image_width": 445,
+        "image_height": 250,
+        "image_bytes": 145598,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/transformers-89034557de14",
+        "fallback": "Medium: Transformers",
+        "text": "Or as I like to call it Attention on Steroids. :syringe::pill:",
+        "title": "Transformers",
+        "title_link": "https://towardsdatascience.com/transformers-89034557de14",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "10 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "75c29145-8320-4113-9e1f-efe107a411ea",
+    "type": "message",
+    "text": "<https://www.techtarget.com/searchenterpriseai/definition/GPT-3>",
+    "user": "U03V61VGQG0",
+    "ts": "1663217942.761959",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wlnF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.techtarget.com/searchenterpriseai/definition/GPT-3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.techtarget.com/searchenterpriseai/definition/GPT-3",
+        "image_url": "https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png",
+        "image_width": 379,
+        "image_height": 201,
+        "image_bytes": 18052,
+        "service_icon": "https://www.techtarget.com/apple-touch-icon-144x144.png",
+        "id": 1,
+        "original_url": "https://www.techtarget.com/searchenterpriseai/definition/GPT-3",
+        "fallback": "SearchEnterpriseAI: What is GPT-3? Everything You Need to Know",
+        "text": "Learn about GPT-3, including what it can do and how it works. Review examples, benefits and risks, as well as the history and future of GPT-3.",
+        "title": "What is GPT-3? Everything You Need to Know",
+        "title_link": "https://www.techtarget.com/searchenterpriseai/definition/GPT-3",
+        "service_name": "SearchEnterpriseAI"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "52fbdfbc-e4da-41c9-8218-c908ee089d83",
+    "type": "message",
+    "text": "<https://openai.com/blog/gpt-3-apps/>",
+    "user": "U03V61VGQG0",
+    "ts": "1663218012.439709",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5f=D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://openai.com/blog/gpt-3-apps/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://openai.com/blog/gpt-3-apps/",
+        "ts": 1616698801,
+        "image_url": "https://openai.com/content/images/2021/05/gpt-3-apps-social.png",
+        "image_width": 478,
+        "image_height": 250,
+        "image_bytes": 619265,
+        "service_icon": "https://openai.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://openai.com/blog/gpt-3-apps/",
+        "fallback": "OpenAI: GPT-3 Powers the Next Generation of Apps",
+        "text": "Over 300 applications are delivering GPT-3\u2013powered search, conversation, text completion, and other advanced AI features through our API.",
+        "title": "GPT-3 Powers the Next Generation of Apps",
+        "title_link": "https://openai.com/blog/gpt-3-apps/",
+        "service_name": "OpenAI",
+        "fields": [
+          {
+            "value": "OpenAI",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "API, Announcements",
+            "title": "Filed under",
+            "short": true
+          }
+        ]
+      }
+    ]
+  }
+]

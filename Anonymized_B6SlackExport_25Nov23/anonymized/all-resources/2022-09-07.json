@@ -1,0 +1,1317 @@
+[
+  {
+    "client_msg_id": "bd562b25-2808-4653-95eb-dbbee748007e",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=UbvkhuqVqUI>",
+    "user": "U03UG1Z21JP",
+    "ts": "1662535448.769869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ds+F",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=UbvkhuqVqUI"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Foley",
+      "display_name": "Jennifer Foley",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=UbvkhuqVqUI",
+        "thumb_url": "https://i.ytimg.com/vi/UbvkhuqVqUI/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/UbvkhuqVqUI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Lets Implement LSTM RNN Models For Univariate Time Series Forecasting- Deep Learning\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=UbvkhuqVqUI",
+        "fallback": "YouTube Video: Lets Implement LSTM RNN Models For Univariate Time Series Forecasting- Deep Learning",
+        "title": "Lets Implement LSTM RNN Models For Univariate Time Series Forecasting- Deep Learning",
+        "title_link": "https://www.youtube.com/watch?v=UbvkhuqVqUI",
+        "author_name": "Krish Naik",
+        "author_link": "https://www.youtube.com/user/krishnaik06",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "93f63e77-fd3c-42ca-a16e-5da3f222bc78",
+    "type": "message",
+    "text": "<https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.ijisrt.com/assets/upload/files/IJISRT20MAY134.pdf&amp;ved=2ahUKEwjfkt_enYL6AhXY04UKHes1CuwQFnoECA0QAQ&amp;usg=AOvVaw2Fy9bEWUw75LTfhPg1-kZe|https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;url=https://www.ijisrt.com/assets/upload/files/IJISRT20MAY134.pdf&amp;ved=2ahUKEwjfkt_enYL6AhXY04UKHes1CuwQFnoECA0QAQ&amp;usg=AOvVaw2Fy9bEWUw75LTfhPg1-kZe>",
+    "user": "U03UFV7TUTV",
+    "ts": "1662538343.389849",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VPuwh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ijisrt.com/assets/upload/files/IJISRT20MAY134.pdf&ved=2ahUKEwjfkt_enYL6AhXY04UKHes1CuwQFnoECA0QAQ&usg=AOvVaw2Fy9bEWUw75LTfhPg1-kZe",
+                "text": "https://www.google.com/url?sa=t&source=web&rct=j&url=https://www.ijisrt.com/assets/upload/files/IJISRT20MAY134.pdf&ved=2ahUKEwjfkt_enYL6AhXY04UKHes1CuwQFnoECA0QAQ&usg=AOvVaw2Fy9bEWUw75LTfhPg1-kZe"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g2d3549811da",
+      "image_72": "https://secure.gravatar.com/avatar/2d3549811dae404f2ab1ffd6d153680c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Anthony",
+      "real_name": "Anthony Galloway",
+      "display_name": "Anthony Galloway",
+      "team": "T03U4J8HMUG",
+      "name": "Anthony",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "c23cf217-4a2f-4d91-9996-d03e8b60a436",
+    "type": "message",
+    "text": "<https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DatetimeIndex.html>",
+    "user": "U03UG1RTXAP",
+    "ts": "1662540007.004679",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2VYm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DatetimeIndex.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4a47bcde06a6",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3989921480247_4a47bcde06a62bb81775_72.jpg",
+      "first_name": "Carol",
+      "real_name": "Carol Kaiser",
+      "display_name": "Carol Kaiser",
+      "team": "T03U4J8HMUG",
+      "name": "Carol",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "9caf5f44-adad-4463-8478-7273e5b46c74",
+    "type": "message",
+    "text": "my favorite boy on youtube:heart::heart:",
+    "user": "U03UG1Z21JP",
+    "ts": "1662540127.335789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BrFe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "my favorite boy on youtube"
+              },
+              {
+                "type": "emoji",
+                "name": "heart",
+                "unicode": "2764-fe0f"
+              },
+              {
+                "type": "emoji",
+                "name": "heart",
+                "unicode": "2764-fe0f"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Foley",
+      "display_name": "Jennifer Foley",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662486526.840339",
+    "parent_user_id": "U03UG4Q7V42",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UG4Q7V42"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8a6a4116-28de-4adc-9c5c-7f7cec904d71",
+    "type": "message",
+    "text": "<https://code.visualstudio.com/docs/remote/wsl>'",
+    "user": "U03UUR571A5",
+    "ts": "1662540576.935619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "95Nc/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://code.visualstudio.com/docs/remote/wsl"
+              },
+              {
+                "type": "text",
+                "text": "'"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://code.visualstudio.com/docs/remote/wsl",
+        "image_url": "https://code.visualstudio.com/opengraphimg/opengraph-docs.png",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 12867,
+        "service_icon": "https://code.visualstudio.com/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://code.visualstudio.com/docs/remote/wsl",
+        "fallback": "Developing in the Windows Subsystem for Linux with Visual Studio Code",
+        "text": "Using Visual Studio Code Remote Development with the Windows Subsystem for Linux (WSL)",
+        "title": "Developing in the Windows Subsystem for Linux with Visual Studio Code",
+        "title_link": "https://code.visualstudio.com/docs/remote/wsl",
+        "service_name": "code.visualstudio.com"
+      }
+    ],
+    "thread_ts": "1662540576.935619",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1662541909.206289",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03UUR571A5"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662540696.275839"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1662540736.894949"
+      },
+      {
+        "user": "U03UUR571A5",
+        "ts": "1662541909.206289"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d23b4ec5-dd40-4a71-91c1-eed854139956",
+    "type": "message",
+    "text": "where is this WSL environment are files stored, like on the hard drive?",
+    "user": "U03UVHCV6KB",
+    "ts": "1662540696.275839",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2v3v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "where is this WSL environment are files stored, like on the hard drive?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UVHCV6KB",
+      "ts": "1662540773.000000"
+    },
+    "thread_ts": "1662540576.935619",
+    "parent_user_id": "U03UUR571A5"
+  },
+  {
+    "client_msg_id": "9a2fa8e5-4166-4f17-8542-15ca2747ea6c",
+    "type": "message",
+    "text": "<@U03UUR571A5> also thanks I think this will solve many of our problems, thank you, will definitely check it out",
+    "user": "U03UVHCV6KB",
+    "ts": "1662540736.894949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l68",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UUR571A5"
+              },
+              {
+                "type": "text",
+                "text": " also thanks I think this will solve many of our problems, thank you, will definitely check it out"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662540576.935619",
+    "parent_user_id": "U03UUR571A5"
+  },
+  {
+    "client_msg_id": "68f80bdf-221e-4467-9049-c5dc454f6038",
+    "type": "message",
+    "text": "the best:pinched_fingers:",
+    "user": "U03UG4Q7V42",
+    "ts": "1662541565.499959",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ip/pI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "the best"
+              },
+              {
+                "type": "emoji",
+                "name": "pinched_fingers",
+                "unicode": "1f90c"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Phillip",
+      "real_name": "Phillip Atkins",
+      "display_name": "Phillip Atkins",
+      "team": "T03U4J8HMUG",
+      "name": "Phillip",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662486526.840339",
+    "parent_user_id": "U03UG4Q7V42"
+  },
+  {
+    "client_msg_id": "e532aea7-f4e8-43c2-8ad2-d39bce3379e3",
+    "type": "message",
+    "text": "<https://www.howtogeek.com/426749/how-to-access-your-linux-wsl-files-in-windows-10/>",
+    "user": "U03UUR571A5",
+    "ts": "1662541909.206289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Qdsmu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.howtogeek.com/426749/how-to-access-your-linux-wsl-files-in-windows-10/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.howtogeek.com/426749/how-to-access-your-linux-wsl-files-in-windows-10/",
+        "image_url": "https://www.howtogeek.com/wp-content/uploads/2019/07/Tux-on-Windows-10-Default-Desktop.png?height=200p&trim=2,2,2,2",
+        "image_width": 446,
+        "image_height": 250,
+        "image_bytes": 1413445,
+        "service_icon": "https://www.howtogeek.com/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://www.howtogeek.com/426749/how-to-access-your-linux-wsl-files-in-windows-10/",
+        "fallback": "How-To Geek: How to Access Your Linux (WSL) Files in Windows 10",
+        "text": "Windows 10\u2019s May 2019 Update introduced an easy, safe, and officially supported way to access and work with your Linux files from within File Explorer and other applications. Here\u2019s how to get at your Windows Subsystem for Linux (WSL) files.",
+        "title": "How to Access Your Linux (WSL) Files in Windows 10",
+        "title_link": "https://www.howtogeek.com/426749/how-to-access-your-linux-wsl-files-in-windows-10/",
+        "service_name": "How-To Geek"
+      }
+    ],
+    "thread_ts": "1662540576.935619",
+    "parent_user_id": "U03UUR571A5",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0d215188-1127-470c-a200-6fdf829b6eea",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=t4eFjyJWmqQ>",
+    "user": "U03UUR571A5",
+    "ts": "1662541970.487219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t9l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=t4eFjyJWmqQ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=t4eFjyJWmqQ",
+        "thumb_url": "https://i.ytimg.com/vi/t4eFjyJWmqQ/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/t4eFjyJWmqQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"LIVE \ud83d\udd34: WSL and VS Code: code on Linux on a Windows laptop \ud83d\udcbb\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=t4eFjyJWmqQ",
+        "fallback": "YouTube Video: LIVE \ud83d\udd34: WSL and VS Code: code on Linux on a Windows laptop \ud83d\udcbb",
+        "title": "LIVE \ud83d\udd34: WSL and VS Code: code on Linux on a Windows laptop \ud83d\udcbb",
+        "title_link": "https://www.youtube.com/watch?v=t4eFjyJWmqQ",
+        "author_name": "Visual Studio Code",
+        "author_link": "https://www.youtube.com/c/Code",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "13071620-9c69-448d-a407-3207df29e87d",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=D8CFPyi4ai4>",
+    "user": "U03UG1Z21JP",
+    "ts": "1662543126.945029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "v1Cw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=D8CFPyi4ai4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Foley",
+      "display_name": "Jennifer Foley",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=D8CFPyi4ai4",
+        "thumb_url": "https://i.ytimg.com/vi/D8CFPyi4ai4/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/D8CFPyi4ai4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Time Series Modeling using Facebook Prophet\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=D8CFPyi4ai4",
+        "fallback": "YouTube Video: Time Series Modeling using Facebook Prophet",
+        "title": "Time Series Modeling using Facebook Prophet",
+        "title_link": "https://www.youtube.com/watch?v=D8CFPyi4ai4",
+        "author_name": "AIEngineering",
+        "author_link": "https://www.youtube.com/c/AIEngineeringLife",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "16dbd6e6-caf7-4c68-9406-16d6ce212748",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=kLKBcPonMYw|https://www.youtube.com/watch?v=kLKBcPonMYw>",
+    "user": "U03UG0YHAUT",
+    "ts": "1662550071.588189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u/I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=kLKBcPonMYw",
+                "text": "https://www.youtube.com/watch?v=kLKBcPonMYw"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Brown",
+      "display_name": "Daniel Brown",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=kLKBcPonMYw",
+        "thumb_url": "https://i.ytimg.com/vi/kLKBcPonMYw/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/kLKBcPonMYw?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Versioning Data with DVC (Hands-On Tutorial!)\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=kLKBcPonMYw",
+        "fallback": "YouTube Video: Versioning Data with DVC (Hands-On Tutorial!)",
+        "title": "Versioning Data with DVC (Hands-On Tutorial!)",
+        "title_link": "https://www.youtube.com/watch?v=kLKBcPonMYw",
+        "author_name": "DVCorg",
+        "author_link": "https://www.youtube.com/channel/UC37rp97Go-xIX3aNFVHhXfQ",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UG32J3PC",
+          "U03UG0SFHGT"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3123d009-731c-4d83-9bf6-01c6982b54c3",
+    "type": "message",
+    "text": "<https://lalorosas.com/blog/github-colab-drive>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1662554059.257999",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qTk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://lalorosas.com/blog/github-colab-drive"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Cristian",
+      "real_name": "Cristian Wilson",
+      "display_name": "Cristian Wilson",
+      "team": "T03U4J8HMUG",
+      "name": "Cristian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://lalorosas.com/blog/github-colab-drive",
+        "thumb_url": "http://static1.squarespace.com/static/5a8198e27131a520b23e7c02/5a81994f53450a49815b2ea2/5cb49529f4e1fcb61de0ee11/1589905155891/9536E2EA-D58D-41CE-9122-B8B1D2C228BA.png?format=1500w",
+        "thumb_width": 800,
+        "thumb_height": 1200,
+        "service_icon": "https://images.squarespace-cdn.com/content/v1/5a8198e27131a520b23e7c02/1551817408172-3OSG3M1BDTI0P54979GE/favicon.ico?format=100w",
+        "id": 1,
+        "original_url": "https://lalorosas.com/blog/github-colab-drive",
+        "fallback": "Eduardo Rosas: Eduardo Rosas - Cloning a GitHub repo into Drive from Google Colab",
+        "text": "I recently discovered Google Colab, an amazing tools for Data Scientist to experiment and learn. I\u2019m no Data Scientist, but I\u2019ve been using Google Colab to learn Machine Learning, and since I have a few repos on my GitHub that contain some Python Notebooks, I figured I\u2019d clone some and use Google Co",
+        "title": "Eduardo Rosas - Cloning a GitHub repo into Drive from Google Colab",
+        "title_link": "https://lalorosas.com/blog/github-colab-drive",
+        "service_name": "Eduardo Rosas"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ebfdaa81-37f6-40c1-862c-a5dba7862cc9",
+    "type": "message",
+    "text": "<https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d>",
+    "user": "U03UG0SFHGT",
+    "ts": "1662554891.917319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d8UO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "60e1cb8a7a1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953568416743_60e1cb8a7a1b6c71c2bb_72.jpg",
+      "first_name": "Willie",
+      "real_name": "Willie Yang",
+      "display_name": "Willie Yang",
+      "team": "T03U4J8HMUG",
+      "name": "Willie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d",
+        "ts": 1633798375,
+        "image_url": "https://miro.medium.com/max/720/1*mM0p_SF47QA74232hkjjNw.png",
+        "image_width": 288,
+        "image_height": 250,
+        "image_bytes": 48619,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d",
+        "fallback": "Medium: How to use Google Colab with GitHub via Google Drive",
+        "text": "\u2026 we will be discussing on how Google Colab can be used with GitHub via Google Drive for our Data science, Machine Learning projects\u00a0\u2026",
+        "title": "How to use Google Colab with GitHub via Google Drive",
+        "title_link": "https://medium.com/analytics-vidhya/how-to-use-google-colab-with-github-via-google-drive-68efb23a42d",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "6 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a6af43fe-65be-479d-9fda-759a9670ac1b",
+    "type": "message",
+    "text": "Handling Time Series Data:\n<https://pandas.pydata.org/pandas-docs/dev/getting_started/intro_tutorials/09_timeseries.html>",
+    "user": "U03U1HAG9TR",
+    "ts": "1662556035.479409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4KH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Handling Time Series Data:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://pandas.pydata.org/pandas-docs/dev/getting_started/intro_tutorials/09_timeseries.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4e4331305ef1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980783297649_4e4331305ef102cc4346_72.jpg",
+      "first_name": "Robert",
+      "real_name": "Robert Carter",
+      "display_name": "Robert Carter",
+      "team": "T03U4J8HMUG",
+      "name": "Robert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "88670d31-d63e-4455-a585-a92244190557",
+    "type": "message",
+    "text": "<https://machinelearningmastery.com/weight-initialization-for-deep-learning-neural-networks/>",
+    "user": "U03U1GHT39V",
+    "ts": "1662558520.575729",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "G=0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://machinelearningmastery.com/weight-initialization-for-deep-learning-neural-networks/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f5bb15f03854",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965163973445_f5bb15f03854384b8288_72.jpg",
+      "first_name": "Joseph",
+      "real_name": "Joseph Diaz",
+      "display_name": "Joseph Diaz",
+      "team": "T03U4J8HMUG",
+      "name": "Joseph",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "4d7c9360-473b-48e7-9dff-0c2223ab18ed",
+    "type": "message",
+    "text": "<https://www.tensorflow.org/tutorials/structured_data/time_series>",
+    "user": "U03UG1Z21JP",
+    "ts": "1662558591.122789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yN35G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.tensorflow.org/tutorials/structured_data/time_series"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Foley",
+      "display_name": "Jennifer Foley",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.tensorflow.org/tutorials/structured_data/time_series",
+        "image_url": "https://www.tensorflow.org/images/tf_logo_social.png",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 17046,
+        "service_icon": "https://www.gstatic.com/devrel-devsite/prod/v17bab36d69ae03fcc913f41eaedd7c01378ceed3d66f27cd213f7054697e46ba/tensorflow/images/apple-touch-icon-180x180.png",
+        "id": 1,
+        "original_url": "https://www.tensorflow.org/tutorials/structured_data/time_series",
+        "fallback": "TensorFlow: Time series forecasting \u00a0|\u00a0 TensorFlow Core",
+        "title": "Time series forecasting \u00a0|\u00a0 TensorFlow Core",
+        "title_link": "https://www.tensorflow.org/tutorials/structured_data/time_series",
+        "service_name": "TensorFlow"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2deaff9a-59a8-4a6b-9432-92a8b6a5bab0",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/5-machine-learning-techniques-for-sales-forecasting-598e4984b109>",
+    "user": "U03UUR571A5",
+    "ts": "1662582474.356219",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PTty",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/5-machine-learning-techniques-for-sales-forecasting-598e4984b109"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/5-machine-learning-techniques-for-sales-forecasting-598e4984b109",
+        "ts": 1589471868,
+        "image_url": "https://miro.medium.com/max/1194/1*2KDZPs9U5Auv2Cje3QdOBA.png",
+        "image_width": 345,
+        "image_height": 250,
+        "image_bytes": 107523,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/5-machine-learning-techniques-for-sales-forecasting-598e4984b109",
+        "fallback": "Medium: 5 Machine Learning Techniques for Sales Forecasting",
+        "text": "Comparing Linear Regression, Random Forest Regression, XGBoost, LSTMs, and ARIMA Time Series Forecasting",
+        "title": "5 Machine Learning Techniques for Sales Forecasting",
+        "title_link": "https://towardsdatascience.com/5-machine-learning-techniques-for-sales-forecasting-598e4984b109",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "8 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0e43e5a0-5bd2-43f5-a3c9-2855b2b9a387",
+    "type": "message",
+    "text": "<https://stackoverflow.com/questions/66753829/how-to-move-workspacea-simple-project-from-windows-file-system-mnt-to-linu>",
+    "user": "U03UD5B7C3X",
+    "ts": "1662583457.344549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bKPT=",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://stackoverflow.com/questions/66753829/how-to-move-workspacea-simple-project-from-windows-file-system-mnt-to-linu"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gb4893f68d1b",
+      "image_72": "https://secure.gravatar.com/avatar/b4893f68d1b3098aa61b283721cedfbb.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "Elizabeth",
+      "real_name": "Elizabeth Hall",
+      "display_name": "Elizabeth Hall",
+      "team": "T03U4J8HMUG",
+      "name": "Elizabeth",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://stackoverflow.com/questions/66753829/how-to-move-workspacea-simple-project-from-windows-file-system-mnt-to-linu",
+        "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumb_width": 316,
+        "thumb_height": 316,
+        "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+        "id": 1,
+        "original_url": "https://stackoverflow.com/questions/66753829/how-to-move-workspacea-simple-project-from-windows-file-system-mnt-to-linu",
+        "fallback": "Stack Overflow: how to move workspace(a simple project) from windows file system (/mnt/) to linux (~/home)",
+        "text": "I am developing a Django project (nothing) and trying to use using WSL2. so if I use the Ubuntu Terminal from Windows to create a project and try running it in VScode, I got this little message, ...",
+        "title": "how to move workspace(a simple project) from windows file system (/mnt/) to linux (~/home)",
+        "title_link": "https://stackoverflow.com/questions/66753829/how-to-move-workspacea-simple-project-from-windows-file-system-mnt-to-linu",
+        "service_name": "Stack Overflow"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "682cf2d9-ead8-42ef-8886-d37263ff07f1",
+    "type": "message",
+    "text": "<https://vm.tiktok.com/ZMNKxLM6h/|https://vm.tiktok.com/ZMNKxLM6h/>",
+    "user": "U03UJN29Y4C",
+    "ts": "1662614086.488139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "l=MJr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://vm.tiktok.com/ZMNKxLM6h/",
+                "text": "https://vm.tiktok.com/ZMNKxLM6h/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Michelle",
+      "real_name": "Michelle Lewis",
+      "display_name": "Michelle Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Michelle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.tiktok.com/@gianluca.mauro/video/7079714935692971270?_r=1&_d=secCgYIASAHKAESPgo8y3WNWElJol39hx2ikLAn8ByAYIaAVgFixlYrFjUHi9xKmJvu9t9ibiAnJ0ZppU73kSKWCkHstWHZtxQwGgA%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAAOJpR6tY2I08AY9bvsMxrfT98HZVjJlpY2oLOVi7ezRE0r2mpxKSERkCAj9Akwt1P&share_app_name=musically&share_item_id=7079714935692971270&share_link_id=f94e0cef-51d4-484f-8402-f42a7627189f&source=h5_m&timestamp=1662613987&u_code=dg21a58f26il4m&user_id=6905072174668907525&utm_campaign=client_share&utm_medium=android&utm_source=more",
+        "thumb_url": "https://p16-sign-va.tiktokcdn.com/tos-maliva-p-0068/81dc1ebbe2e54cb6b485ef25a909a6ee~tplv-dmt-logom:tos-useast2a-v-0068/0e34fc6be3c14c1ea41bc6d5d802de09.image?x-expires=1662634800&x-signature=BolSUi1oLlaaunXpCtqIxXYacH8%3D",
+        "thumb_width": 1080,
+        "thumb_height": 1920,
+        "id": 1,
+        "original_url": "https://vm.tiktok.com/ZMNKxLM6h/",
+        "fallback": "TikTok Video: MY #CAREERSTORY PART 2: How I got my first #job in #AI. #datascience #softwareengineer #career",
+        "text": "@gianluca.mauro MY #CAREERSTORY PART 2: How I got my first #job in AI. #datascience #softwareengineer #career &#9836; original sound - Gianluca Mauro",
+        "title": "MY #CAREERSTORY PART 2: How I got my first #job in #AI. #datascience #softwareengineer #career",
+        "title_link": "https://www.tiktok.com/@gianluca.mauro/video/7079714935692971270?_r=1&_d=secCgYIASAHKAESPgo8y3WNWElJol39hx2ikLAn8ByAYIaAVgFixlYrFjUHi9xKmJvu9t9ibiAnJ0ZppU73kSKWCkHstWHZtxQwGgA%3D&language=en&preview_pb=0&sec_user_id=MS4wLjABAAAAOJpR6tY2I08AY9bvsMxrfT98HZVjJlpY2oLOVi7ezRE0r2mpxKSERkCAj9Akwt1P&share_app_name=musically&share_item_id=7079714935692971270&share_link_id=f94e0cef-51d4-484f-8402-f42a7627189f&source=h5_m&timestamp=1662613987&u_code=dg21a58f26il4m&user_id=6905072174668907525&utm_campaign=client_share&utm_medium=android&utm_source=more",
+        "author_name": "Gianluca Mauro",
+        "author_link": "https://www.tiktok.com/@gianluca.mauro",
+        "service_name": "TikTok",
+        "service_url": "https://www.tiktok.com/"
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "A simple guide for the week's career exercise",
+    "files": [
+      {
+        "id": "F041HPK366P",
+        "created": 1662618082,
+        "timestamp": 1662618082,
+        "name": "Screen Shot 2022-09-08 at 7.19.01 AM.png",
+        "title": "Screen Shot 2022-09-08 at 7.19.01 AM.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UJN29Y4C",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 133552,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F041HPK366P/screen_shot_2022-09-08_at_7.19.01_am.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F041HPK366P/download/screen_shot_2022-09-08_at_7.19.01_am.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041HPK366P-8f97f89ff3/screen_shot_2022-09-08_at_7.19.01_am_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041HPK366P-8f97f89ff3/screen_shot_2022-09-08_at_7.19.01_am_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041HPK366P-8f97f89ff3/screen_shot_2022-09-08_at_7.19.01_am_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 202,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041HPK366P-8f97f89ff3/screen_shot_2022-09-08_at_7.19.01_am_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 269,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041HPK366P-8f97f89ff3/screen_shot_2022-09-08_at_7.19.01_am_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041HPK366P-8f97f89ff3/screen_shot_2022-09-08_at_7.19.01_am_720.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_720_w": 720,
+        "thumb_720_h": 404,
+        "thumb_800": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041HPK366P-8f97f89ff3/screen_shot_2022-09-08_at_7.19.01_am_800.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_800_w": 800,
+        "thumb_800_h": 448,
+        "thumb_960": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041HPK366P-8f97f89ff3/screen_shot_2022-09-08_at_7.19.01_am_960.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_960_w": 960,
+        "thumb_960_h": 538,
+        "thumb_1024": "https://files.slack.com/files-tmb/T03U4J8HMUG-F041HPK366P-8f97f89ff3/screen_shot_2022-09-08_at_7.19.01_am_1024.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 574,
+        "image_exif_rotation": 1,
+        "original_w": 1124,
+        "original_h": 630,
+        "thumb_tiny": "AwAaADDSY45JxTd4/vH8qVxkdFP1qHHJ4A+lAE3X+KhmCDJ5qNTg5Kj8BT2w/BDUAJ5y+h/KnLIGPGab5K+rfnTlQKc5J+tAA2McrupiJyTjbT/4hS0AIFI/iNOppoHWgCGRCXPysealiBC8gj606kWgD//Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03UJN29Y4C/F041HPK366P/screen_shot_2022-09-08_at_7.19.01_am.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F041HPK366P-405445a5b2",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UJN29Y4C",
+    "display_as_bot": false,
+    "ts": "1662618089.387919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PnQUz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "A simple guide for the week's career exercise"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "client_msg_id": "242eb72c-4846-4572-a347-c87ff5c74538",
+    "thread_ts": "1662618089.387919",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1662625658.058949",
+    "reply_users": [
+      "U03U93GNNVB",
+      "U03UJN29Y4C",
+      "U03UH397319"
+    ],
+    "replies": [
+      {
+        "user": "U03U93GNNVB",
+        "ts": "1662618226.001509"
+      },
+      {
+        "user": "U03UJN29Y4C",
+        "ts": "1662618645.923439"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1662625658.058949"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV",
+          "U03U1FNPEUX",
+          "U03UG4Q7V42"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "53e3768a-6338-4d56-bbc5-1e80194c244e",
+    "type": "message",
+    "text": "QFT is so useful",
+    "user": "U03U93GNNVB",
+    "ts": "1662618226.001509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EQw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "QFT is so useful"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a49779ad093d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3994045204528_a49779ad093d4fc39a87_72.jpg",
+      "first_name": "Katherine",
+      "real_name": "Katherine Foster",
+      "display_name": "Katherine Foster",
+      "team": "T03U4J8HMUG",
+      "name": "Katherine",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662618089.387919",
+    "parent_user_id": "U03UJN29Y4C"
+  },
+  {
+    "client_msg_id": "840840df-209e-4bb6-88bc-a4619bfc8931",
+    "type": "message",
+    "text": "Undeniably useful",
+    "user": "U03UJN29Y4C",
+    "ts": "1662618645.923439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bb3X",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Undeniably useful"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Michelle",
+      "real_name": "Michelle Lewis",
+      "display_name": "Michelle Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Michelle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1662618089.387919",
+    "parent_user_id": "U03UJN29Y4C"
+  }
+]

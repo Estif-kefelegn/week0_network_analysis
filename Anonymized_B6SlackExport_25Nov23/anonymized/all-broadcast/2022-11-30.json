@@ -1,0 +1,57 @@
+[
+  {
+    "client_msg_id": "5fea8b68-d256-457d-9dc7-089a58f6b4c2",
+    "type": "message",
+    "text": "Hey <!channel>, can everyone work on deployment of the Algorand's web3 project? Please reply back to this thread if you have any question or need assistance on deploying the application.",
+    "user": "U03UKL27B0R",
+    "ts": "1669840709.589139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "B2jmB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ", can everyone work on deployment of the Algorand's web3 project? Please reply back to this thread if you have any question or need assistance on deploying the application."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Brittany",
+      "real_name": "Brittany Garcia",
+      "display_name": "Brittany Garcia",
+      "team": "T03U4J8HMUG",
+      "name": "Brittany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG5VFN03"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

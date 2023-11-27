@@ -1,0 +1,619 @@
+[
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529401.367139",
+    "user": "U03TEPYRM2P",
+    "text": "<@U03TEPYRM2P> has joined the channel"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.070509",
+    "user": "U03UD68RQH3",
+    "text": "<@U03UD68RQH3> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.135229",
+    "user": "U03V6HMRPGQ",
+    "text": "<@U03V6HMRPGQ> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.195009",
+    "user": "U03UJN29Y4C",
+    "text": "<@U03UJN29Y4C> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.257569",
+    "user": "U03UD63A8PP",
+    "text": "<@U03UD63A8PP> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.370219",
+    "user": "U03U1FNPEUX",
+    "text": "<@U03U1FNPEUX> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.432129",
+    "user": "U03UGB3T3MY",
+    "text": "<@U03UGB3T3MY> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.536799",
+    "user": "U03UP7V9Q57",
+    "text": "<@U03UP7V9Q57> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.597269",
+    "user": "U03V8LHPDME",
+    "text": "<@U03V8LHPDME> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.652579",
+    "user": "U03UJGRN5E0",
+    "text": "<@U03UJGRN5E0> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.728029",
+    "user": "U03V1AM5TFA",
+    "text": "<@U03V1AM5TFA> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.785459",
+    "user": "U03T89ACUUW",
+    "text": "<@U03T89ACUUW> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.865379",
+    "user": "U03UJKJGRAQ",
+    "text": "<@U03UJKJGRAQ> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.926589",
+    "user": "U03UVHCV6KB",
+    "text": "<@U03UVHCV6KB> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529441.995289",
+    "user": "U03U1GHT39V",
+    "text": "<@U03U1GHT39V> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.056139",
+    "user": "U03U1HAG9TR",
+    "text": "<@U03U1HAG9TR> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.112189",
+    "user": "U03UG5VFN03",
+    "text": "<@U03UG5VFN03> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.181869",
+    "user": "U03UJGFG2HJ",
+    "text": "<@U03UJGFG2HJ> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.248179",
+    "user": "U03U4GULU3Y",
+    "text": "<@U03U4GULU3Y> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.310969",
+    "user": "U03UG4Q7V42",
+    "text": "<@U03UG4Q7V42> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.367989",
+    "user": "U03U9DB7REG",
+    "text": "<@U03U9DB7REG> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.428839",
+    "user": "U03UUR571A5",
+    "text": "<@U03UUR571A5> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.486129",
+    "user": "U03UAKATQ22",
+    "text": "<@U03UAKATQ22> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.531469",
+    "user": "U03UG1Z21JP",
+    "text": "<@U03UG1Z21JP> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.593959",
+    "user": "U03UKL27B0R",
+    "text": "<@U03UKL27B0R> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.656059",
+    "user": "U03UFV7HFNF",
+    "text": "<@U03UFV7HFNF> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.731859",
+    "user": "U03UD4FEDHB",
+    "text": "<@U03UD4FEDHB> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.792149",
+    "user": "U03TX2VN6H5",
+    "text": "<@U03TX2VN6H5> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.868829",
+    "user": "U03U93GNNVB",
+    "text": "<@U03U93GNNVB> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.931689",
+    "user": "U03UUMR26Q1",
+    "text": "<@U03UUMR26Q1> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.950659",
+    "user": "U03UL5LSTG9",
+    "text": "<@U03UL5LSTG9> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529442.992029",
+    "user": "U03UYNR4TS4",
+    "text": "<@U03UYNR4TS4> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.021679",
+    "user": "U03U9EJR362",
+    "text": "<@U03U9EJR362> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.071779",
+    "user": "U03UJH1EQQL",
+    "text": "<@U03UJH1EQQL> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.082629",
+    "user": "U03U1J51VFZ",
+    "text": "<@U03U1J51VFZ> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.134169",
+    "user": "U03UUP56MDF",
+    "text": "<@U03UUP56MDF> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.146699",
+    "user": "U03UH397319",
+    "text": "<@U03UH397319> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.263919",
+    "user": "U03UG0SFHGT",
+    "text": "<@U03UG0SFHGT> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.345839",
+    "user": "U03UDBUL7CL",
+    "text": "<@U03UDBUL7CL> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.418099",
+    "user": "U03TT5KEYCF",
+    "text": "<@U03TT5KEYCF> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.484099",
+    "user": "U03V785NLSU",
+    "text": "<@U03V785NLSU> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.544209",
+    "user": "U03UG0YHAUT",
+    "text": "<@U03UG0YHAUT> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.607159",
+    "user": "U03UJGP0C68",
+    "text": "<@U03UJGP0C68> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.665839",
+    "user": "U03U1FQKEMV",
+    "text": "<@U03U1FQKEMV> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.690559",
+    "user": "U03UG32J3PC",
+    "text": "<@U03UG32J3PC> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.735629",
+    "user": "U03UUS0MZCZ",
+    "text": "<@U03UUS0MZCZ> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.778779",
+    "user": "U03V5Q9N516",
+    "text": "<@U03V5Q9N516> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.807419",
+    "user": "U03UDKKESB1",
+    "text": "<@U03UDKKESB1> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.845949",
+    "user": "U03UD5B7C3X",
+    "text": "<@U03UD5B7C3X> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.905839",
+    "user": "U03UUN8M4RX",
+    "text": "<@U03UUN8M4RX> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.934239",
+    "user": "U03V61VGQG0",
+    "text": "<@U03V61VGQG0> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.961349",
+    "user": "U03UHB8CXDY",
+    "text": "<@U03UHB8CXDY> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "type": "message",
+    "subtype": "channel_join",
+    "ts": "1663529443.993859",
+    "user": "U03UFV7TUTV",
+    "text": "<@U03UFV7TUTV> has joined the channel",
+    "inviter": "U03TEPYRM2P"
+  },
+  {
+    "client_msg_id": "cf234327-1ae2-4463-84ae-e92c7f96119a",
+    "type": "message",
+    "text": "<!channel> Good luck and God speed everyone!",
+    "user": "U03UVHCV6KB",
+    "ts": "1663538523.789899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=oB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Good luck and God speed everyone!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "58e09a96-9c14-48ca-ab10-68b951a64df7",
+    "type": "message",
+    "text": "---------------IMPORTANT----------------\nHi all, please generate ssh key, and copy your public key with your basic information in the following form: <https://forms.gle/ggTVsHfanfKTYJYa7>\n\nWe will use this ssh public keys to give you ssh access to a cloud instance",
+    "user": "U03UUN8M4RX",
+    "ts": "1663559561.823579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KXK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "---------------IMPORTANT----------------\nHi all, please generate ssh key, and copy your public key with your basic information in the following form: "
+              },
+              {
+                "type": "link",
+                "url": "https://forms.gle/ggTVsHfanfKTYJYa7"
+              },
+              {
+                "type": "text",
+                "text": "\n\nWe will use this ssh public keys to give you ssh access to a cloud instance"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc5543c34cbf",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965164038549_bc5543c34cbf4cc3f27d_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Myers",
+      "display_name": "Eric Myers",
+      "team": "T03U4J8HMUG",
+      "name": "Eric",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03UUN8M4RX",
+      "ts": "1663574425.000000"
+    },
+    "attachments": [
+      {
+        "from_url": "https://forms.gle/ggTVsHfanfKTYJYa7",
+        "image_url": "https://lh3.googleusercontent.com/S-10-3GMc1xC6jiFZnLPi2gSWGewmPe4XoISMJRF4IxULjdeGRn_ma_FwV7OlkaaNcxOCU5ZFio",
+        "image_width": 333,
+        "image_height": 250,
+        "image_bytes": 42541,
+        "service_icon": "http://ssl.gstatic.com/docs/forms/device_home/ios_120.png",
+        "id": 1,
+        "original_url": "https://forms.gle/ggTVsHfanfKTYJYa7",
+        "fallback": "Google Docs: B6 Trainees Public ssh_key",
+        "text": "Please generate an ssh key pair (private and public) and copy the content of the public key in this form. An ssh key pair contains the following * private key - the most sensitive part of the ssh key pari. It must not be exposed to any outsider, must reside only in your computer. DON'T SHARE THIS FILE WITH ANYONE * public key - you share this file or the content inside the file to admins to allow you access their server. The content of the public key is what you are asked to share in this form You can follow this guide to generate ssh key pair Creating and Using SSH Keys for AWS | Media Temple Community",
+        "title": "B6 Trainees Public ssh_key",
+        "title_link": "https://forms.gle/ggTVsHfanfKTYJYa7",
+        "service_name": "Google Docs"
+      }
+    ],
+    "thread_ts": "1663559561.823579",
+    "reply_count": 8,
+    "reply_users_count": 5,
+    "latest_reply": "1663614547.856419",
+    "reply_users": [
+      "U03UG32J3PC",
+      "U03U9EJR362",
+      "U03T89ACUUW",
+      "U03UH397319",
+      "U03UG1Z21JP"
+    ],
+    "replies": [
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1663571508.976699"
+      },
+      {
+        "user": "U03U9EJR362",
+        "ts": "1663572441.387079"
+      },
+      {
+        "user": "U03T89ACUUW",
+        "ts": "1663573851.640429"
+      },
+      {
+        "user": "U03U9EJR362",
+        "ts": "1663573948.803249"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1663574824.022769"
+      },
+      {
+        "user": "U03UG32J3PC",
+        "ts": "1663574851.592669"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1663574904.480459"
+      },
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1663614547.856419"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "bb7febb8-de2c-4c44-aff8-df03c4ff16cc",
+    "type": "message",
+    "text": "----------------------------------------------------",
+    "user": "U03UUN8M4RX",
+    "ts": "1663559586.241829",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uMi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "----------------------------------------------------"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "bc5543c34cbf",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965164038549_bc5543c34cbf4cc3f27d_72.png",
+      "first_name": "Eric",
+      "real_name": "Eric Myers",
+      "display_name": "Eric Myers",
+      "team": "T03U4J8HMUG",
+      "name": "Eric",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "client_msg_id": "dc81f0b6-b9ea-47f5-9615-736bd61f902e",
+    "type": "message",
+    "text": "My fellow trainees\n\nI would kindly like to request your review of my blog post for this week's challenge and give me feedbacks.\n<https://medium.com/@rasfish5/web3-and-the-algorand-blockchain-network-6a7dee5354d5>\n\nThanks in advance for your time.",
+    "user": "U03UVHCV6KB",
+    "ts": "1664727755.416949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jMw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "My fellow trainees\n\nI would kindly like to request your review of my blog post for this week's challenge and give me feedbacks.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/@rasfish5/web3-and-the-algorand-blockchain-network-6a7dee5354d5"
+              },
+              {
+                "type": "text",
+                "text": "\n\nThanks in advance for your time."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/@rasfish5/web3-and-the-algorand-blockchain-network-6a7dee5354d5",
+        "ts": 1664656940,
+        "image_url": "https://miro.medium.com/max/621/0*qOo7XIs7EWwRHFa1",
+        "image_width": 528,
+        "image_height": 250,
+        "image_bytes": 16077,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/@rasfish5/web3-and-the-algorand-blockchain-network-6a7dee5354d5",
+        "fallback": "Medium: Web3 and the Algorand blockchain network",
+        "text": "A short summary",
+        "title": "Web3 and the Algorand blockchain network",
+        "title_link": "https://medium.com/@rasfish5/web3-and-the-algorand-blockchain-network-6a7dee5354d5",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "10 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1664727755.416949",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1664738827.320959",
+    "reply_users": [
+      "U03V6HMRPGQ"
+    ],
+    "replies": [
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1664738827.320959"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG32J3PC",
+          "U03V6HMRPGQ"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "BA08DD0B-2808-4833-97F9-26CE043E58E2",
+    "type": "message",
+    "text": "Really good job :clap: you nailed it",
+    "user": "U03V6HMRPGQ",
+    "ts": "1664738827.320959",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fRXr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Really "
+              },
+              {
+                "type": "text",
+                "text": "good"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "job"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "emoji",
+                "name": "clap",
+                "unicode": "1f44f"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "you"
+              },
+              {
+                "type": "text",
+                "text": " nailed "
+              },
+              {
+                "type": "text",
+                "text": "it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Cristian",
+      "real_name": "Cristian Wilson",
+      "display_name": "Cristian Wilson",
+      "team": "T03U4J8HMUG",
+      "name": "Cristian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664727755.416949",
+    "parent_user_id": "U03UVHCV6KB",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

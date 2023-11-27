@@ -1,0 +1,992 @@
+[
+  {
+    "client_msg_id": "70543a46-7fc5-4457-9dc8-ddfbd1db0596",
+    "type": "message",
+    "text": "<https://dev.to/streaming-audio-podcast/build-a-data-streaming-app-with-apache-kafka-and-js-coding-in-motion>",
+    "user": "U03UJH1EQQL",
+    "ts": "1665054849.773139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9duP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://dev.to/streaming-audio-podcast/build-a-data-streaming-app-with-apache-kafka-and-js-coding-in-motion"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Kelly",
+      "real_name": "Kelly Soto",
+      "display_name": "Kelly Soto",
+      "team": "T03U4J8HMUG",
+      "name": "Kelly",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://dev.to/streaming-audio-podcast/build-a-data-streaming-app-with-apache-kafka-and-js-coding-in-motion",
+        "service_icon": "https://res.cloudinary.com/practicaldev/image/fetch/s--gDM0_LTS--/c_limit,f_png,fl_progressive,q_80,w_180/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
+        "id": 1,
+        "original_url": "https://dev.to/streaming-audio-podcast/build-a-data-streaming-app-with-apache-kafka-and-js-coding-in-motion",
+        "fallback": "DEV Community \ud83d\udc69\ud83d\udcbb\ud83d\udc68\ud83d\udcbb: Build a Data Streaming App with Apache Kafka and JS - Coding in Motion",
+        "text": "Coding is inherently enjoyable and experimental. With the goal of bringing fun into programming, Kris Jenkins (Senior Developer Advocate,...",
+        "title": "Build a Data Streaming App with Apache Kafka and JS - Coding in Motion",
+        "title_link": "https://dev.to/streaming-audio-podcast/build-a-data-streaming-app-with-apache-kafka-and-js-coding-in-motion",
+        "service_name": "DEV Community \ud83d\udc69\ud83d\udcbb\ud83d\udc68\ud83d\udcbb"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7ec80a9a-ef04-467b-9d11-3a176cbb2177",
+    "type": "message",
+    "text": "<https://sparkbyexamples.com/pyspark-tutorial/>",
+    "user": "U03UUR571A5",
+    "ts": "1665062777.037009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xmh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://sparkbyexamples.com/pyspark-tutorial/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "f71254a9-12fe-4cfe-a65d-c374bb342ef1",
+    "type": "message",
+    "text": "<https://intellipaat.com/blog/tutorial/spark-tutorial/spark-architecture/>",
+    "user": "U03UUR571A5",
+    "ts": "1665062784.169129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Wb=eE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://intellipaat.com/blog/tutorial/spark-tutorial/spark-architecture/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://intellipaat.com/blog/tutorial/spark-tutorial/spark-architecture/",
+        "thumb_url": "https://intellipaat.com/mediaFiles/2017/02/Spark-Arch.jpg",
+        "thumb_width": 1667,
+        "thumb_height": 473,
+        "service_icon": "https://intellipaat.com/blog/wp-content/themes/intellipaat-blog-new/images/favicon1.png",
+        "id": 1,
+        "original_url": "https://intellipaat.com/blog/tutorial/spark-tutorial/spark-architecture/",
+        "fallback": "Intellipaat Blog: Apache Spark Architecture - From Basics to Advance",
+        "text": "Apache Spark architecture and Spark framework are explained in this Apache Spark tutorial. Also, get to know how the Spark core works.",
+        "title": "Apache Spark Architecture - From Basics to Advance",
+        "title_link": "https://intellipaat.com/blog/tutorial/spark-tutorial/spark-architecture/",
+        "service_name": "Intellipaat Blog"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "abda18ae-a616-4ace-b7ee-cdb75eaeb460",
+    "type": "message",
+    "text": "this may help: <https://sparkbyexamples.com/pyspark/install-pyspark-in-anaconda-jupyter-notebook/>",
+    "user": "U03UJH1EQQL",
+    "ts": "1665065984.818179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZDl1j",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this may help: "
+              },
+              {
+                "type": "link",
+                "url": "https://sparkbyexamples.com/pyspark/install-pyspark-in-anaconda-jupyter-notebook/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Kelly",
+      "real_name": "Kelly Soto",
+      "display_name": "Kelly Soto",
+      "team": "T03U4J8HMUG",
+      "name": "Kelly",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "b147e55b-6c74-44cb-8855-878a6953eaa4",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=OCBZtgQGt1I>",
+    "user": "U03UUR571A5",
+    "ts": "1665066868.467059",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jLo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=OCBZtgQGt1I"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=OCBZtgQGt1I",
+        "thumb_url": "https://i.ytimg.com/vi/OCBZtgQGt1I/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/OCBZtgQGt1I?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Open AI\u2019s Whisper is Amazing!\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=OCBZtgQGt1I",
+        "fallback": "YouTube Video: Open AI\u2019s Whisper is Amazing!",
+        "title": "Open AI\u2019s Whisper is Amazing!",
+        "title_link": "https://www.youtube.com/watch?v=OCBZtgQGt1I",
+        "author_name": "sentdex",
+        "author_link": "https://www.youtube.com/c/sentdex",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "513cbc9e-916b-4274-bb04-7f56f2d2d75a",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=R873BlNVUB4&amp;t=163s>",
+    "user": "U03UD68RQH3",
+    "ts": "1665069935.040229",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UMwnj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=R873BlNVUB4&t=163s"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "Brady",
+      "real_name": "Brady Rhodes",
+      "display_name": "Brady Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Brady",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=R873BlNVUB4&amp;t=163s",
+        "thumb_url": "https://i.ytimg.com/vi/R873BlNVUB4/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/R873BlNVUB4?feature=oembed&start=163&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Apache Kafka Crash Course\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=R873BlNVUB4&amp;t=163s",
+        "fallback": "YouTube Video: Apache Kafka Crash Course",
+        "title": "Apache Kafka Crash Course",
+        "title_link": "https://www.youtube.com/watch?v=R873BlNVUB4&amp;t=163s",
+        "author_name": "Hussein Nasser",
+        "author_link": "https://www.youtube.com/c/HusseinNasser-software-engineering",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6b9bb013-78da-4131-a70d-8cc5a81dd6fb",
+    "type": "message",
+    "text": "<https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html>",
+    "user": "U03UH397319",
+    "ts": "1665075413.296979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Am2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Brenda",
+      "real_name": "Brenda Hernandez",
+      "display_name": "Brenda Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Brenda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html",
+        "image_url": "https://images.techhive.com/images/article/2014/11/texture_stock_bokeh_014_by_redwolf518stock-100532830-large.jpg?auto=webp&quality=85,70",
+        "image_width": 374,
+        "image_height": 250,
+        "image_bytes": 137423,
+        "service_icon": "https://idge.staticworld.net/ifw/IFW_logo_social_300x300.png",
+        "id": 1,
+        "original_url": "https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html",
+        "fallback": "InfoWorld: What is Apache Spark? The big data platform that crushed Hadoop",
+        "text": "Fast, flexible, and developer-friendly, Apache Spark is the leading platform for large-scale SQL, batch processing, stream processing, and machine learning",
+        "title": "What is Apache Spark? The big data platform that crushed Hadoop",
+        "title_link": "https://www.infoworld.com/article/3236869/what-is-apache-spark-the-big-data-platform-that-crushed-hadoop.html",
+        "service_name": "InfoWorld"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "da120507-d475-43ec-b922-d228e46a93de",
+    "type": "message",
+    "text": "<https://blogit.michelin.io/kafka-to-delta-lake-using-apache-spark-streaming-avro/>",
+    "user": "U03UH397319",
+    "ts": "1665076487.096809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EIQcd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://blogit.michelin.io/kafka-to-delta-lake-using-apache-spark-streaming-avro/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Brenda",
+      "real_name": "Brenda Hernandez",
+      "display_name": "Brenda Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Brenda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "a5299ce4-738c-4091-9c55-e4e2acfe9db8",
+    "type": "message",
+    "text": "<https://www.kai-waehner.de/blog/2020/08/07/apache-kafka-handling-large-messages-and-files-for-image-video-audio-processing/>",
+    "user": "U03UUR571A5",
+    "ts": "1665089290.826619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dFIf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.kai-waehner.de/blog/2020/08/07/apache-kafka-handling-large-messages-and-files-for-image-video-audio-processing/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.kai-waehner.de/blog/2020/08/07/apache-kafka-handling-large-messages-and-files-for-image-video-audio-processing/",
+        "ts": 1596790012,
+        "image_url": "https://www.kai-waehner.de/wp-content/uploads/2020/08/Apache-Kafka-for-Large-Messages-like-Audio-Video-Image-Files.jpg",
+        "image_width": 332,
+        "image_height": 250,
+        "image_bytes": 50720,
+        "service_icon": "https://www.kai-waehner.de/wp-content/uploads/2020/01/cropped-favicon-180x180.png",
+        "id": 1,
+        "original_url": "https://www.kai-waehner.de/blog/2020/08/07/apache-kafka-handling-large-messages-and-files-for-image-video-audio-processing/",
+        "fallback": "Kai Waehner: Handling Large Messages with Apache Kafka (CSV, XML, Image, Video, Audio, Files) - Kai Waehner",
+        "text": "Blog about architectures, best practices and use cases for data streaming, analytics, hybrid cloud infrastructure, internet of things, crypto, and more",
+        "title": "Handling Large Messages with Apache Kafka (CSV, XML, Image, Video, Audio, Files) - Kai Waehner",
+        "title_link": "https://www.kai-waehner.de/blog/2020/08/07/apache-kafka-handling-large-messages-and-files-for-image-video-audio-processing/",
+        "service_name": "Kai Waehner",
+        "fields": [
+          {
+            "value": "Kai Waehner",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "19 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "28aec051-6ddc-44e3-adfb-3a7b7343336c",
+    "type": "message",
+    "text": "<https://github.com/mdn/dom-examples/tree/main/media/web-dictaphone>",
+    "user": "U03UUR571A5",
+    "ts": "1665090175.983379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cYd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/mdn/dom-examples/tree/main/media/web-dictaphone"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "28482169-62a9-40c7-b564-5a869eef609b",
+    "type": "message",
+    "text": "<https://www.stackchief.com/questions/What%20is%20Kafka%20Consumer%20Group%20ID%3F>",
+    "user": "U03U1FNPEUX",
+    "ts": "1665090560.333349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q7SrU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.stackchief.com/questions/What%20is%20Kafka%20Consumer%20Group%20ID%3F"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.stackchief.com/questions/What%20is%20Kafka%20Consumer%20Group%20ID%3F",
+        "service_icon": "https://www.stackchief.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.stackchief.com/questions/What%20is%20Kafka%20Consumer%20Group%20ID%3F",
+        "fallback": "StackChief",
+        "text": "What is Kafka Consumer Group ID?",
+        "title": "StackChief",
+        "title_link": "https://www.stackchief.com/questions/What%20is%20Kafka%20Consumer%20Group%20ID%3F",
+        "service_name": "stackchief.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "25d6aee8-6b96-47e1-a70f-15908213c44d",
+    "type": "message",
+    "text": "<https://kafka-python.readthedocs.io/en/master/>",
+    "user": "U03U1FNPEUX",
+    "ts": "1665092435.075419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cTxKp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://kafka-python.readthedocs.io/en/master/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "516dcc64-3862-4b63-83b7-90f4b695bf4f",
+    "type": "message",
+    "text": "<https://levelup.gitconnected.com/build-flask-apis-using-socketio-to-produce-consume-kafka-messages-95a15df2d1bc|https://levelup.gitconnected.com/build-flask-apis-using-socketio-to-produce-consume-kafka-messages-95a15df2d1bc>",
+    "user": "U03UG0YHAUT",
+    "ts": "1665097078.967089",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YDGO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://levelup.gitconnected.com/build-flask-apis-using-socketio-to-produce-consume-kafka-messages-95a15df2d1bc",
+                "text": "https://levelup.gitconnected.com/build-flask-apis-using-socketio-to-produce-consume-kafka-messages-95a15df2d1bc"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Brown",
+      "display_name": "Daniel Brown",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://levelup.gitconnected.com/build-flask-apis-using-socketio-to-produce-consume-kafka-messages-95a15df2d1bc",
+        "ts": 1614264528,
+        "image_url": "https://miro.medium.com/max/1200/1*Cq2Mu4HPR48VJpmtYeeaXA.png",
+        "image_width": 824,
+        "image_height": 250,
+        "image_bytes": 74781,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://levelup.gitconnected.com/build-flask-apis-using-socketio-to-produce-consume-kafka-messages-95a15df2d1bc",
+        "fallback": "Medium: Build Flask APIs using SocketIO to Produce/Consume Kafka Messages",
+        "text": "Expose your Docker based Kafka clusters via python Flask sockets to produce/consume messages in a HTML page",
+        "title": "Build Flask APIs using SocketIO to Produce/Consume Kafka Messages",
+        "title_link": "https://levelup.gitconnected.com/build-flask-apis-using-socketio-to-produce-consume-kafka-messages-95a15df2d1bc",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "5 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6b87f919-d9ec-4021-a51e-9a67839bb33c",
+    "type": "message",
+    "text": "<https://stackoverflow.com/questions/40037657/how-to-include-bootstrap-css-and-js-in-reactjs-app|https://stackoverflow.com/questions/40037657/how-to-include-bootstrap-css-and-js-in-reactjs-app>",
+    "user": "U03UG0YHAUT",
+    "ts": "1665097095.724579",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7f9Ct",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://stackoverflow.com/questions/40037657/how-to-include-bootstrap-css-and-js-in-reactjs-app",
+                "text": "https://stackoverflow.com/questions/40037657/how-to-include-bootstrap-css-and-js-in-reactjs-app"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Brown",
+      "display_name": "Daniel Brown",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://stackoverflow.com/questions/40037657/how-to-include-bootstrap-css-and-js-in-reactjs-app",
+        "thumb_url": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded",
+        "thumb_width": 316,
+        "thumb_height": 316,
+        "service_icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png?v=c78bd457575a",
+        "id": 1,
+        "original_url": "https://stackoverflow.com/questions/40037657/how-to-include-bootstrap-css-and-js-in-reactjs-app",
+        "fallback": "Stack Overflow: How to include bootstrap css and js in reactjs app?",
+        "text": "I am new to ReactJS, I want to include bootstrap in my React app I have installed bootstrap by npm install bootstrap --save Now, want to load bootstrap CSS and JS in my React app. I am using webpack.",
+        "title": "How to include bootstrap css and js in reactjs app?",
+        "title_link": "https://stackoverflow.com/questions/40037657/how-to-include-bootstrap-css-and-js-in-reactjs-app",
+        "service_name": "Stack Overflow"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "084a1696-1675-4149-9235-289f5cae8f53",
+    "type": "message",
+    "text": "<https://github.com/Stack-Box/stackbox-tutorials|https://github.com/Stack-Box/stackbox-tutorials>",
+    "user": "U03UG0YHAUT",
+    "ts": "1665097110.199019",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M8XV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/Stack-Box/stackbox-tutorials",
+                "text": "https://github.com/Stack-Box/stackbox-tutorials"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Brown",
+      "display_name": "Daniel Brown",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "color": "24292f",
+        "bot_id": "B03UYH1BWQZ",
+        "app_unfurl_url": "https://github.com/Stack-Box/stackbox-tutorials",
+        "is_app_unfurl": true,
+        "app_id": "A01BP7R4KNY",
+        "fallback": "strangest-quark/stackbox-tutorials",
+        "title": "strangest-quark/stackbox-tutorials",
+        "fields": [
+          {
+            "value": "16",
+            "title": "Stars",
+            "short": true
+          },
+          {
+            "value": "HTML",
+            "title": "Language",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "62cbdc73-27a5-422b-81ec-78ad3170d00c",
+    "type": "message",
+    "text": "<https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/#prerequisite>",
+    "user": "U03V61VGQG0",
+    "ts": "1665118805.286589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=00",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/#prerequisite"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/#prerequisite",
+        "image_url": "https://jacobcelestine.com/assets/img/pyspark_colab_emr.jpg",
+        "image_width": 429,
+        "image_height": 250,
+        "image_bytes": 852006,
+        "service_icon": "https://jacobcelestine.com/assets/icons/favicon.ico",
+        "id": 1,
+        "original_url": "https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/#prerequisite",
+        "fallback": "Introduction to Google Colab, PySpark and EC2 Instances",
+        "text": "A tutorial that helps Big Data Engineers ramp up faster by getting familiar with PySpark dataframes and functions. It also covers topics like EMR sizing, Google Colaboratory, fine-tuning PySpark jobs, and much more.",
+        "title": "Introduction to Google Colab, PySpark and EC2 Instances",
+        "title_link": "https://jacobcelestine.com/knowledge_repo/colab_and_pyspark/#prerequisite",
+        "service_name": "jacobcelestine.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d44e712e-c754-47da-8b08-8a033952332f",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=zVgPNjSjua0&amp;ab_channel=AzarudeenShahul>",
+    "user": "U03V61VGQG0",
+    "ts": "1665118901.357199",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "thTS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=zVgPNjSjua0&ab_channel=AzarudeenShahul"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=zVgPNjSjua0&amp;ab_channel=AzarudeenShahul",
+        "thumb_url": "https://i.ytimg.com/vi/zVgPNjSjua0/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/zVgPNjSjua0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Spark Streaming | Spark + Kafka Integration with Demo | Using PySpark | Session - 3 | LearntoSpark\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=zVgPNjSjua0&amp;ab_channel=AzarudeenShahul",
+        "fallback": "YouTube Video: Spark Streaming | Spark + Kafka Integration with Demo | Using PySpark | Session - 3 | LearntoSpark",
+        "title": "Spark Streaming | Spark + Kafka Integration with Demo | Using PySpark | Session - 3 | LearntoSpark",
+        "title_link": "https://www.youtube.com/watch?v=zVgPNjSjua0&amp;ab_channel=AzarudeenShahul",
+        "author_name": "Azarudeen Shahul",
+        "author_link": "https://www.youtube.com/c/AzarudeenShahul",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5a69ea4e-997d-46a5-8b25-13173c51a3e4",
+    "type": "message",
+    "text": "<https://github.com/vectordotdev/content-old/blob/master/posts/hello-world-in-kafka-using-python.md>",
+    "user": "U03UG32J3PC",
+    "ts": "1665125145.806739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YqF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/vectordotdev/content-old/blob/master/posts/hello-world-in-kafka-using-python.md"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "April",
+      "real_name": "April Lucas",
+      "display_name": "April Lucas",
+      "team": "T03U4J8HMUG",
+      "name": "April",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://slack.github.com/static/img/favicon-neutral.png",
+        "color": "24292f",
+        "bot_id": "B03UYH1BWQZ",
+        "app_unfurl_url": "https://github.com/vectordotdev/content-old/blob/master/posts/hello-world-in-kafka-using-python.md",
+        "is_app_unfurl": true,
+        "app_id": "A01BP7R4KNY",
+        "fallback": "<https://github.com/vectordotdev/content-old/blob/master/posts/hello-world-in-kafka-using-python.md | hello-world-in-kafka-using-python.md>",
+        "text": "*Hello world in Kafka using Python*\n\nHowdy! Welcome to blog series by <https://timber.io|Timber.io> on various tools and technologies.\n\nThis blog is for you if you've,\n\n\u2022 Ever marvelled what is Kafka?\n\u2022 Heard of streaming/queueing/messaging systems but wondering why should one use it?\n\u2022 What are the true benefits of using them?\n\u2022 How would it fit with your current backend architecture?\n\u2022 You might just be eager to get started with using Kafka!\n\n_Just a disclaimer: we're a logging company here @ Timber. We'd love it if you tried out our product (it's seriously great!), but that's all we're going to advertise our product ... you guys came here to learn about Kafka and this guide won't disappoint._\n\n*What is this blog about ?*\n\nYou might have got a hint of it already. This blog is about understanding what is Kafka, apprehending the need for a tool like Kafka and then getting started with it using Python. We're believers that the best way to learn something is to do it, so get out your terminal and your favorite code editor and get ready.\n\n* * *\n\n*What is Kafka? Why should one use it?*\n\nIn short, Kafka is a distributed streaming platform.\n\n&gt; Oh wait! What does that even mean?\n\nImagine that you have a simple web application which consists of an interative UI, a web server and a database.\n\n&lt;../images/kafka-image-one.jpg|Simple Architecture&gt;\n\nYou need to record all the events such as clicks, requests, impressions and searches that take place on your web application and store them for computation, reporting and analysis, each of which is done by separate applications or services. A simple solution would be to store the data in your database and connect all other applications and services to your database.\n\n&lt;../images/kafka-image-two.jpg|Simple Architecture&gt;\n\nThis might look simple, but you're not finished. There are multiple challenges that can arise.\n\n1. Events like clicks, requests, impressions and searches results in high frequency interaction/requests or data flow to your webserver and your primary database may not be equipped to scale seamlessly. This could introduce high latencies as more and more events pour in to the server.\n2. If you go ahead and store high frequency data in database systems like SQL or Mongo, it would be hard to introduce and reconstruct a new system or a database on all of the historical data. You lose the flexibility to extend the capabilities of your system by introducing new techologies.\n3. What if you have data processing systems in place to process these events to gain deeper insights? Since these systems wouldn't be capable of handling high frequency reads and you wouldn't have access to the true source of data it is practically impossible to experiment with various data processing, machine learning algorithms on all of the data.\n4. Each application can follow their own data formats, which means that you will need systems for data transformations when there is exchange of data across these applications.\n\nAll these problems can be better addressed by bringing a streaming platform like Kafka into the picture. A streaming platform is a system that can perform the following:\n\n1. Store huge amount of data that can be persistent, checksummed and replicated for fault tolerance\n2. Process continuous flow of data (data streams) in real time across systems\n3. Allow applications to publish data or data streams independently and agnostic to the application / service consuming it\n\n&gt; Interesting! How different or similar is it from traditional databases?\n\nAlthough Kafka can store persistent data, it is NOT a database.\n\nKafka not only allows applications to push or pull continuous flow of data, but also deals with processing them to build and support real time applications. This is different than performing CRUD operations on passive data or running queries on traditional databases.\n\n&gt; That sounds convincing! But how does Kafka solve the above mentioned challenges and why would one need a system like this?\n\nKafka is a distributed platform and built for scale, which means it can handle sky-high frequency reads and writes &amp; store huge volumes of data. It ensures that the data is always reliable. It also supports strong mechanisms for recovery from failures. Here are some of key aspects on why one should be using Kafka:\n\n*1. Simplify the backend architecture*\n\nLook at how a complex architecture can be simplified and streamlined with the help of Kafka\n\n&lt;../images/kafka-image-three.jpg|Simple Architecture&gt;\n\n*2. Universal pipeline of data*\n\nAs you can see above, Kafka acts as a universal data pipeline across multiple applications and services. This gives us two advantages. The first one is data integration. We have all the data from all different systems residing at a single place making Kafka a true source of data. Any application can push data to this platform which can later be pulled by another application. This also gives us our next advantage which is ease in exchanging data across applications. Since, we have all the data at one place, we can standardise the data format that we will be using for the plaform which can reduce our data transformations.\n\n*3. Connects to existing systems*\n\nAlthough, Kafka allows you to have a standard data format, it does not mean that applications do not require data transformations. It allows us to reduce the overall number of data transformations in our architecture, but there might be cases when we require transformations. Consider the example of connecting a legacy system to your architecture which does not know about Kafka? In such cases, Kafka offers a framework called Kafka Connect for us to connect to existing systems maintaining the universal data pipeline.\n\n*4. Process data in real-time*\n\nA real time application usually requires continuous flow of data which can be processed immediately or within the current span of time with reduced latency. Kafka Streams makes it possible for us to build, package and deploy such applications without any need for separate stream processors or heavy and expensive infrastructure.\n\nAll these features allow Kafka to become the true source of data or a universal pipeline of data for your architecture. This will enable you to easily add new services and applications to your existing infrastructure or even allow you to rebuild existing databases or migrate legacy systems with less time and effort.\n\n*Getting Started with Kafka*\n*Installation*\n\nInstalling Kafka is a fairly simple process. Just follow the given steps below:\n\n1. Download the latest 1.1.0 release of <https://www.apache.org/dyn/closer.cgi?path=/kafka/1.1.0/kafka_2.11-1.1.0.tgz|Kafka>\n2. Un-tar the download using the following command:  \n    `tar -xzf kafka_2.11-1.1.0.tgz`\n3. cd to kafka directory to start working with it:  \n    `cd kafka_2.11-1.1.0`\n\n*Starting the Server*\n\nKafka makes use something called ZooKeeper which is a centralized service for a distributed environment like Kafka. It offers configuration service, synchronisation service, and a naming registry for large distributed systems. You can read more about it <https://zookeeper.apache.org/|here>.\n\nThus, we need to first start the ZooKeeper server followed by the Kafka server. This can be achieved using the following commands:\n\n```\n# Start ZooKeeper Server\nbin/zookeeper-server-start.sh config/zookeeper.properties\n\n# Start Kafka Server\nbin/kafka-server-start.sh config/server.properties\n```\n\n*Understanding Kafka*\n\nHere is a quick introduction to some of the core concepts of Kafka architecture:\n\n1. Kafka is run as a cluster on one or more servers\n2. Kafka stores streams of records in categories called `topics`. Each record consists of a key, value and a timestamp\n3. Kafka works on the publish-subscribe pattern. Thus, it allows some of the applications to act as `producers` and publish the records to Kafka topics. Similarly, it allows some of the applications to act as `consumers` and subscribe to Kafka topics and proces\u2026",
+        "title": "<https://github.com/vectordotdev/content-old/blob/master/posts/hello-world-in-kafka-using-python.md | hello-world-in-kafka-using-python.md>",
+        "footer": "<https://github.com/vectordotdev/content-old|vectordotdev/content-old>",
+        "mrkdwn_in": [
+          "text"
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "667e3d1f-80b7-4bea-b69b-4171513e3169",
+    "type": "message",
+    "text": "<https://hevodata.com/learn/spark-streaming-and-kafka-integration/>",
+    "user": "U03UHB8CXDY",
+    "ts": "1665125962.005919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DaHZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hevodata.com/learn/spark-streaming-and-kafka-integration/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Yvonne",
+      "real_name": "Yvonne Gonzalez",
+      "display_name": "Yvonne Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Yvonne",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "client_msg_id": "b1244e71-6fa9-40a1-8051-5d0c614a29d5",
+    "type": "message",
+    "text": "<https://www.youtube.com/shorts/dCsmH5BfpdQ>",
+    "user": "U03UUR571A5",
+    "ts": "1665053279.914729",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RikOL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/shorts/dCsmH5BfpdQ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/shorts/dCsmH5BfpdQ",
+        "thumb_url": "https://i.ytimg.com/vi/dCsmH5BfpdQ/hq2.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "image_url": "https://i.ytimg.com/vi/dCsmH5BfpdQ/hq2.jpg",
+        "image_width": 480,
+        "image_height": 360,
+        "image_bytes": 7352,
+        "service_icon": "https://www.youtube.com/s/desktop/e436da45/img/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.youtube.com/shorts/dCsmH5BfpdQ",
+        "fallback": "YouTube: No calculator required",
+        "title": "No calculator required",
+        "title_link": "https://www.youtube.com/shorts/dCsmH5BfpdQ",
+        "service_name": "YouTube"
+      }
+    ],
+    "thread_ts": "1665053279.914729",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1665055187.516929",
+    "reply_users": [
+      "U03UJGP0C68"
+    ],
+    "replies": [
+      {
+        "user": "U03UJGP0C68",
+        "ts": "1665055187.516929"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UJGP0C68"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a0725c01-b597-4f7a-923f-85d792fb774b",
+    "type": "message",
+    "text": "wow .. I didnt know that...it works haha",
+    "user": "U03UJGP0C68",
+    "ts": "1665055187.516929",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mQP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "wow .. I didnt know that...it works haha"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Judith",
+      "real_name": "Judith Bolton",
+      "display_name": "Judith Bolton",
+      "team": "T03U4J8HMUG",
+      "name": "Judith",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665053279.914729",
+    "parent_user_id": "U03UUR571A5",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UUR571A5"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e01ecd95-4357-4b85-8ddd-498d47b84430",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=OCBZtgQGt1I>",
+    "user": "U03UUR571A5",
+    "ts": "1665066830.889329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E0y86",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=OCBZtgQGt1I"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=OCBZtgQGt1I",
+        "thumb_url": "https://i.ytimg.com/vi/OCBZtgQGt1I/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/OCBZtgQGt1I?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Open AI\u2019s Whisper is Amazing!\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=OCBZtgQGt1I",
+        "fallback": "YouTube Video: Open AI\u2019s Whisper is Amazing!",
+        "title": "Open AI\u2019s Whisper is Amazing!",
+        "title_link": "https://www.youtube.com/watch?v=OCBZtgQGt1I",
+        "author_name": "sentdex",
+        "author_link": "https://www.youtube.com/c/sentdex",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

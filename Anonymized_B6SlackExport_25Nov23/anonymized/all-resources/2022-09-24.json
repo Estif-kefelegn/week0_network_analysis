@@ -1,0 +1,524 @@
+[
+  {
+    "client_msg_id": "04e94bc0-40fb-4756-9f4a-c4b04f05c957",
+    "type": "message",
+    "text": "<https://www.astronomer.io/guides/airflow-dbt/>",
+    "user": "U03UJGRN5E0",
+    "ts": "1664017773.371999",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CTMaW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.astronomer.io/guides/airflow-dbt/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Katie",
+      "real_name": "Katie Dickerson",
+      "display_name": "Katie Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Katie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.astronomer.io/guides/airflow-dbt/",
+        "image_url": "https://www.astronomer.io/assets/images/astronomer-og.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 16784,
+        "service_icon": "https://www.astronomer.io/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.astronomer.io/guides/airflow-dbt/",
+        "fallback": "Integrating Airflow and dbt - Airflow Guides",
+        "text": "Running dbt models in your Airflow DAGs.",
+        "title": "Integrating Airflow and dbt - Airflow Guides",
+        "title_link": "https://www.astronomer.io/guides/airflow-dbt/",
+        "service_name": "astronomer.io"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "F32DD1D0-648C-4876-B56F-9CAA8769B3B6",
+    "type": "message",
+    "text": "<https://redash.io/help/open-source/admin-guide/env-vars-settings|https://redash.io/help/open-source/admin-guide/env-vars-settings>",
+    "user": "U03V61VGQG0",
+    "ts": "1664020661.009389",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WGf6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://redash.io/help/open-source/admin-guide/env-vars-settings",
+                "text": "https://redash.io/help/open-source/admin-guide/env-vars-settings"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://redash.io/help/open-source/admin-guide/env-vars-settings",
+        "image_url": "https://redash.io/assets/images/social-facebook-1200x630.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 125761,
+        "service_icon": "https://redash.io/assets/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://redash.io/help/open-source/admin-guide/env-vars-settings",
+        "fallback": "Environment Variables Settings",
+        "title": "Environment Variables Settings",
+        "title_link": "https://redash.io/help/open-source/admin-guide/env-vars-settings",
+        "service_name": "redash.io"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "D6478A28-58AF-45EA-9F44-D4294875AC8E",
+    "type": "message",
+    "text": "<https://juangesino.medium.com/setup-dbt-using-docker-7b39df6c6af4|https://juangesino.medium.com/setup-dbt-using-docker-7b39df6c6af4>",
+    "user": "U03V61VGQG0",
+    "ts": "1664020681.725529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mKg8q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://juangesino.medium.com/setup-dbt-using-docker-7b39df6c6af4",
+                "text": "https://juangesino.medium.com/setup-dbt-using-docker-7b39df6c6af4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://juangesino.medium.com/setup-dbt-using-docker-7b39df6c6af4",
+        "ts": 1651337976,
+        "image_url": "https://miro.medium.com/max/1200/1*vCxtXemoLHPHTU2ZayKGig.jpeg",
+        "image_width": 376,
+        "image_height": 250,
+        "image_bytes": 319734,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://juangesino.medium.com/setup-dbt-using-docker-7b39df6c6af4",
+        "fallback": "Medium: A Dockerized dbt Workflow",
+        "text": "How to setup dbt using docker containers with an RPC server for Dagster",
+        "title": "A Dockerized dbt Workflow",
+        "title_link": "https://juangesino.medium.com/setup-dbt-using-docker-7b39df6c6af4",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "5 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9E1251E2-B74E-4906-B3F1-E5405B66DBCC",
+    "type": "message",
+    "text": "<https://redash.io/help/open-source/setup|https://redash.io/help/open-source/setup>",
+    "user": "U03V61VGQG0",
+    "ts": "1664020715.288589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zAV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://redash.io/help/open-source/setup",
+                "text": "https://redash.io/help/open-source/setup"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://redash.io/help/open-source/setup",
+        "image_url": "https://redash.io/assets/images/social-facebook-1200x630.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 125761,
+        "service_icon": "https://redash.io/assets/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://redash.io/help/open-source/setup",
+        "fallback": "Setting up a Redash Instance",
+        "title": "Setting up a Redash Instance",
+        "title_link": "https://redash.io/help/open-source/setup",
+        "service_name": "redash.io"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3A14165C-3179-46C4-8E2A-41026134A628",
+    "type": "message",
+    "text": "<https://github.com/JoachimLandtmeters/pNEUMA_mastersproject|https://github.com/JoachimLandtmeters/pNEUMA_mastersproject>",
+    "user": "U03V61VGQG0",
+    "ts": "1664020732.537729",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R/TZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/JoachimLandtmeters/pNEUMA_mastersproject",
+                "text": "https://github.com/JoachimLandtmeters/pNEUMA_mastersproject"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "id": 1,
+        "color": "24292f",
+        "bot_id": "B03UYH1BWQZ",
+        "app_unfurl_url": "https://github.com/JoachimLandtmeters/pNEUMA_mastersproject",
+        "is_app_unfurl": true,
+        "app_id": "A01BP7R4KNY",
+        "fallback": "JoachimLandtmeters/pNEUMA_mastersproject",
+        "text": "Written python files to work with pNEUMA dataset",
+        "title": "JoachimLandtmeters/pNEUMA_mastersproject",
+        "fields": [
+          {
+            "value": "7",
+            "title": "Stars",
+            "short": true
+          },
+          {
+            "value": "Python",
+            "title": "Language",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2F4D3821-10A0-42C0-92CB-1E768E9199A8",
+    "type": "message",
+    "text": "<https://www.youtube.com/c/MarcLamberti|https://www.youtube.com/c/MarcLamberti>",
+    "user": "U03V61VGQG0",
+    "ts": "1664020747.845629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zboD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/c/MarcLamberti",
+                "text": "https://www.youtube.com/c/MarcLamberti"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/c/MarcLamberti",
+        "thumb_url": "https://yt3.ggpht.com/gAnDun458oMBObB9z-X_FGYWk6Ffm7NlAjc84YZejFRVnpyomRBrw8R6hP44Xy31peuqpN-V3A=s900-c-k-c0x00ffffff-no-rj",
+        "thumb_width": 900,
+        "thumb_height": 900,
+        "service_icon": "https://www.youtube.com/s/desktop/b8096f4d/img/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.youtube.com/c/MarcLamberti",
+        "fallback": "YouTube: Data with Marc",
+        "text": "As a 30-year-old data engineer and trainer, best selling author on Udemy about Apache Airflow, and Head of Customer Training at Astronomer, I've created this channel to share my knowledge, best practices, tutorials and to support those who are thinking of getting into the field of data engineering or who want to learn more about the incredible world of data. I'm obsessed with providing high-value content that is highly engaging. Engineering courses don't have to be boring! Let's stop the curse! Expect to see a lot of hands-on tutorials mainly about Apache Airflow but not only. I also love training and public speaking. You will find awesome content if you want to start sharing your knowledge as well! Oh, Subscribe, all cool engineers subscribe to an interesting Youtube channel like this one. Feel free to follow me on IG: _marc_lamberti",
+        "title": "Data with Marc",
+        "title_link": "https://www.youtube.com/c/MarcLamberti",
+        "service_name": "YouTube"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5DDC3D65-E6D2-4988-A620-4B4325758968",
+    "type": "message",
+    "text": "<https://hevodata.com/learn/airflow-postgres-operator/|https://hevodata.com/learn/airflow-postgres-operator/>",
+    "user": "U03V61VGQG0",
+    "ts": "1664020781.420869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zWQM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hevodata.com/learn/airflow-postgres-operator/",
+                "text": "https://hevodata.com/learn/airflow-postgres-operator/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://hevodata.com/learn/airflow-postgres-operator/",
+        "ts": 1643785175,
+        "image_url": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1643783579/hevo-learn/Airflow-Postgres-Operator-FI/Airflow-Postgres-Operator-FI.png?_i=AA",
+        "image_width": 442,
+        "image_height": 250,
+        "image_bytes": 24957,
+        "service_icon": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1587655389/logo-8/logo-8.png?_i=AA",
+        "id": 1,
+        "original_url": "https://hevodata.com/learn/airflow-postgres-operator/",
+        "fallback": "Learn | Hevo: Airflow Postgres Operator 101: How to Connect and Execute Operations? - Learn | Hevo",
+        "text": "This blog talks about the different steps you can take to establish Airflow Postgres Operator seamlessly. It also gives a brief introduction to Apache Airflow.",
+        "title": "Airflow Postgres Operator 101: How to Connect and Execute Operations? - Learn | Hevo",
+        "title_link": "https://hevodata.com/learn/airflow-postgres-operator/",
+        "service_name": "Learn | Hevo",
+        "fields": [
+          {
+            "value": "Amit Phaujdar",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "16 minutes",
+            "title": "Time to read",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2e1ec79b-66ef-4d82-8cda-7f82fcbfb87c",
+    "type": "message",
+    "text": "<https://timeflow.academy/dbt/labs/creating-first-dbt-project>",
+    "user": "U03UHB8CXDY",
+    "ts": "1664046997.734119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RiHFz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://timeflow.academy/dbt/labs/creating-first-dbt-project"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Yvonne",
+      "real_name": "Yvonne Gonzalez",
+      "display_name": "Yvonne Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Yvonne",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://timeflow.academy/dbt/labs/creating-first-dbt-project",
+        "service_icon": "https://timeflow.academy/favicon.png",
+        "id": 1,
+        "original_url": "https://timeflow.academy/dbt/labs/creating-first-dbt-project",
+        "fallback": "Timeflow Academy: Creating A DBT Project | Timeflow Academy",
+        "text": "In this lesson we will begin using the DBT Command Line Interface. We will then create and configure our first DBT project.",
+        "title": "Creating A DBT Project | Timeflow Academy",
+        "title_link": "https://timeflow.academy/dbt/labs/creating-first-dbt-project",
+        "service_name": "Timeflow Academy"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9c73a8e1-1e5c-4819-adce-8ee299c1c642",
+    "type": "message",
+    "text": "<https://redash.io/help/open-source/setup>",
+    "user": "U03UHB8CXDY",
+    "ts": "1664047260.165019",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Otv7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://redash.io/help/open-source/setup"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Yvonne",
+      "real_name": "Yvonne Gonzalez",
+      "display_name": "Yvonne Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Yvonne",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://redash.io/help/open-source/setup",
+        "image_url": "https://redash.io/assets/images/social-facebook-1200x630.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 125761,
+        "service_icon": "https://redash.io/assets/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://redash.io/help/open-source/setup",
+        "fallback": "Setting up a Redash Instance",
+        "title": "Setting up a Redash Instance",
+        "title_link": "https://redash.io/help/open-source/setup",
+        "service_name": "redash.io"
+      }
+    ]
+  }
+]

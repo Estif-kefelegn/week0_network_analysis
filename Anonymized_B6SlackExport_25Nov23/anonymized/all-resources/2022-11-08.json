@@ -1,0 +1,170 @@
+[
+  {
+    "client_msg_id": "eb8dab79-ab60-443b-a311-c273b8dad2bb",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=KUWn_TJTrnU&amp;t=6s>",
+    "user": "U03UFV7HFNF",
+    "ts": "1667907178.460239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "50e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=KUWn_TJTrnU&t=6s"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=KUWn_TJTrnU&amp;t=6s",
+        "thumb_url": "https://i.ytimg.com/vi/KUWn_TJTrnU/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/KUWn_TJTrnU?feature=oembed&start=6&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Growth Mindset vs. Fixed Mindset\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=KUWn_TJTrnU&amp;t=6s",
+        "fallback": "YouTube Video: Growth Mindset vs. Fixed Mindset",
+        "title": "Growth Mindset vs. Fixed Mindset",
+        "title_link": "https://www.youtube.com/watch?v=KUWn_TJTrnU&amp;t=6s",
+        "author_name": "Sprouts",
+        "author_link": "https://www.youtube.com/c/SproutsVideos",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "feb767e9-5477-4b9f-a352-3e6a6840ed56",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=pN34FNbOKXc>",
+    "user": "U03UFV7HFNF",
+    "ts": "1667908214.360389",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zmX5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=pN34FNbOKXc"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=pN34FNbOKXc",
+        "thumb_url": "https://i.ytimg.com/vi/pN34FNbOKXc/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/pN34FNbOKXc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"The Power of belief -- mindset and success | Eduardo Briceno | TEDxManhattanBeach\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=pN34FNbOKXc",
+        "fallback": "YouTube Video: The Power of belief -- mindset and success | Eduardo Briceno | TEDxManhattanBeach",
+        "title": "The Power of belief -- mindset and success | Eduardo Briceno | TEDxManhattanBeach",
+        "title_link": "https://www.youtube.com/watch?v=pN34FNbOKXc",
+        "author_name": "TEDx Talks",
+        "author_link": "https://www.youtube.com/user/TEDxTalks",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6c45c42f-c2f6-4a86-abdb-59b026e5cba8",
+    "type": "message",
+    "text": "<https://bakadesuyo.com/blog/>",
+    "user": "U03UH397319",
+    "ts": "1667910256.750699",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VETb6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://bakadesuyo.com/blog/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Brenda",
+      "real_name": "Brenda Hernandez",
+      "display_name": "Brenda Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Brenda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://bakadesuyo.com/blog/",
+        "id": 1,
+        "original_url": "https://bakadesuyo.com/blog/",
+        "fallback": "Barking Up The Wrong Tree: Barking Up the Wrong Tree - Blog",
+        "text": "Blog posts at Barking Up The Wrong Tree.",
+        "title": "Barking Up the Wrong Tree - Blog",
+        "title_link": "https://bakadesuyo.com/blog/",
+        "service_name": "Barking Up The Wrong Tree"
+      }
+    ]
+  }
+]

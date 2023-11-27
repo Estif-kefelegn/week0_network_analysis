@@ -1,0 +1,265 @@
+[
+  {
+    "client_msg_id": "6c0f3337-64d9-42c5-82b1-85bb2b8e807d",
+    "type": "message",
+    "text": "<https://faun.pub/apache-airflow-2-0-complete-installation-with-docker-explained-f07aa1049f1e>",
+    "user": "U03U9EJR362",
+    "ts": "1668172380.259349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GuVI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://faun.pub/apache-airflow-2-0-complete-installation-with-docker-explained-f07aa1049f1e"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Nicholas",
+      "real_name": "Nicholas Friedman",
+      "display_name": "Nicholas Friedman",
+      "team": "T03U4J8HMUG",
+      "name": "Nicholas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "30147f3b-28fd-45c5-bd5a-5eda1ee00450",
+    "type": "message",
+    "text": "<https://hevodata.com/learn/airflow-postgres-operator/>",
+    "user": "U03U9EJR362",
+    "ts": "1668172435.309019",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dF1Qk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hevodata.com/learn/airflow-postgres-operator/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Nicholas",
+      "real_name": "Nicholas Friedman",
+      "display_name": "Nicholas Friedman",
+      "team": "T03U4J8HMUG",
+      "name": "Nicholas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "938a5c5c-c36c-4537-b1a7-74b0e435703c",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf>",
+    "user": "U03U9EJR362",
+    "ts": "1668172466.763199",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nSAnH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Nicholas",
+      "real_name": "Nicholas Friedman",
+      "display_name": "Nicholas Friedman",
+      "team": "T03U4J8HMUG",
+      "name": "Nicholas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf",
+        "ts": 1625937944,
+        "image_url": "https://miro.medium.com/max/1200/1*yip9QAxgsH00qvbg4lD4yg.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 130769,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf",
+        "fallback": "Medium: How to build a data extraction pipeline with Apache Airflow",
+        "text": "Data extraction pipelines might be hard to build and manage, so it\u2019s a good idea to use a tool that can help you with these tasks. Apache\u2026",
+        "title": "How to build a data extraction pipeline with Apache Airflow",
+        "title_link": "https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3f4c59e4-629b-41a3-aeb2-6f7c3dd5e552",
+    "type": "message",
+    "text": "<https://www.linkedin.com/posts/sahilbloom_hiring-process-hacks-ugcPost-6996815948917702656-5Gm3?utm_source=share&amp;utm_medium=member_android|https://www.linkedin.com/posts/sahilbloom_hiring-process-hacks-ugcPost-6996815948917702656-5Gm3?utm_source=share&amp;utm_medium=member_android>",
+    "user": "U03UFV7HFNF",
+    "ts": "1668195285.682159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jiR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.linkedin.com/posts/sahilbloom_hiring-process-hacks-ugcPost-6996815948917702656-5Gm3?utm_source=share&utm_medium=member_android",
+                "text": "https://www.linkedin.com/posts/sahilbloom_hiring-process-hacks-ugcPost-6996815948917702656-5Gm3?utm_source=share&utm_medium=member_android"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.linkedin.com/posts/sahilbloom_hiring-process-hacks-ugcPost-6996815948917702656-5Gm3?utm_source=share&utm_medium=member_android",
+        "image_url": "https://static-exp1.licdn.com/sc/h/c45fy346jw096z9pbphyyhdz7",
+        "image_width": 438,
+        "image_height": 250,
+        "image_bytes": 34857,
+        "service_icon": "https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+        "id": 1,
+        "original_url": "https://www.linkedin.com/posts/sahilbloom_hiring-process-hacks-ugcPost-6996815948917702656-5Gm3?utm_source=share&amp;utm_medium=member_android",
+        "fallback": "Sahil Bloom on LinkedIn: Hiring Process Hacks | 72 comments",
+        "text": "The hiring process is ultra-competitive. But there are specific actions you can take to stand out.\n\nHere are 16 ways to stand out in a hiring process (that\u2026 | 72 comments on LinkedIn",
+        "title": "Sahil Bloom on LinkedIn: Hiring Process Hacks | 72 comments",
+        "title_link": "https://www.linkedin.com/posts/sahilbloom_hiring-process-hacks-ugcPost-6996815948917702656-5Gm3?utm_source=share&utm_medium=member_android",
+        "service_name": "linkedin.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "84a19d77-2d83-4a10-972b-c0706c9dc200",
+    "type": "message",
+    "text": "<https://kalilinuxtutorials.com/theo-ethereum-recon-exploitation/>",
+    "user": "U03UUR571A5",
+    "ts": "1668198042.406269",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vbmmp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://kalilinuxtutorials.com/theo-ethereum-recon-exploitation/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://kalilinuxtutorials.com/theo-ethereum-recon-exploitation/",
+        "ts": 1565166395,
+        "image_url": "https://1.bp.blogspot.com/-IB5gwulV8xM/XUnf4X54L2I/AAAAAAAABtw/0IcMIc9RqmQunZYHCskxiYeQvmUesy4IQCLcBGAs/s1600/Theo%25281%2529.png",
+        "image_width": 479,
+        "image_height": 250,
+        "image_bytes": 117490,
+        "service_icon": "https://1.bp.blogspot.com/-bZ48PWBUikE/YSYJS0Xi0rI/AAAAAAAAOkU/3EsSKyVnKFAezIDTMEhClloiuikIUjgjQCLcBGAsYHQ/s16000/Kali%2BTutorials.png",
+        "id": 1,
+        "original_url": "https://kalilinuxtutorials.com/theo-ethereum-recon-exploitation/",
+        "fallback": "Kali Linux Tutorials: Theo : Ethereum Recon And Exploitation Tool 2019",
+        "text": "Theo aims to be an exploitation framework and a blockchain recon and interaction tool. Automatic smart contract scanning which generates a list of possible",
+        "title": "Theo : Ethereum Recon And Exploitation Tool 2019",
+        "title_link": "https://kalilinuxtutorials.com/theo-ethereum-recon-exploitation/",
+        "service_name": "Kali Linux Tutorials",
+        "fields": [
+          {
+            "value": "R K",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "2 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  }
+]

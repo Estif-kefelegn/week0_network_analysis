@@ -1,0 +1,305 @@
+[
+  {
+    "client_msg_id": "2703600e-1c81-4393-8ed2-b3acf49b91b8",
+    "type": "message",
+    "text": "on Github change .com to .dev to open your project on browser-vscode",
+    "user": "U03UD68RQH3",
+    "ts": "1665654214.856179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9+3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "on Github change .com to .dev to open your project on browser-vscode"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "Brady",
+      "real_name": "Brady Rhodes",
+      "display_name": "Brady Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Brady",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UJGP0C68",
+          "U03UUR571A5",
+          "U03UFV7HFNF",
+          "U03UG32J3PC",
+          "U03UVHCV6KB",
+          "U03V61VGQG0",
+          "U03UJN29Y4C",
+          "U03UHB8CXDY",
+          "U03V6HMRPGQ"
+        ],
+        "count": 9
+      }
+    ]
+  },
+  {
+    "client_msg_id": "97781e28-3bb6-4eb9-8ad6-f56788087512",
+    "type": "message",
+    "text": "<https://university.alchemy.com/#courses>",
+    "user": "U03UFV7HFNF",
+    "ts": "1665687683.333979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YPz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://university.alchemy.com/#courses"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://university.alchemy.com/#courses",
+        "image_url": "https://res.cloudinary.com/divzjiip8/image/upload/v1665005879/banner_newurg.png",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 1016789,
+        "service_icon": "https://university.alchemy.com/favicon.png",
+        "id": 1,
+        "original_url": "https://university.alchemy.com/#courses",
+        "fallback": "Earn your web3 degree",
+        "text": "Fast track your web3 career through courses, projects and code. Totally free.",
+        "title": "Earn your web3 degree",
+        "title_link": "https://university.alchemy.com/#courses",
+        "service_name": "university.alchemy.com"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UG4Q7V42"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F04759C119N",
+        "created": 1665691462,
+        "timestamp": 1665691462,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03V785NLSU",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 307921,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F04759C119N/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F04759C119N/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04759C119N-3be9628277/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04759C119N-3be9628277/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04759C119N-3be9628277/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 320,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04759C119N-3be9628277/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 427,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F04759C119N-3be9628277/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 500,
+        "original_h": 562,
+        "thumb_tiny": "AwAwACqJjzihAC2DUhEPUs/PsKVRHjKEk+4ok7Iu5AepoI+Xd6U6QAHj8qiftQnfUT2GjrUv40wLjBzT6oURobn5m4qRHARm9wKY3Q0kABYg1L2KHSsBIRSFS3TFLIu1uOhpMHbuwcetCE9hMN0OMCnU1CckE5p9MaQ6J1jyTuz7AGnFVL+YCfmGeRioiCKWBiflJ6dKmV7CY503fMv5VHv/AHZXPfpU0hITjvxmqxx0xz60o+Ym9BydTxTs0wbvWlyPUVY0z//Z",
+        "permalink": "https://10academybatch6.slack.com/files/U03V785NLSU/F04759C119N/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F04759C119N-27592505c9",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03V785NLSU",
+    "display_as_bot": false,
+    "ts": "1665691469.197459",
+    "client_msg_id": "ee21f390-b10d-4a42-9f53-67b1adfe0178",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB",
+          "U03U1FNPEUX"
+        ],
+        "count": 2
+      },
+      {
+        "name": "joy",
+        "users": [
+          "U03UD68RQH3",
+          "U03UG4Q7V42",
+          "U03U1FNPEUX",
+          "U03UD5B7C3X"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d5d4cc85-7144-4c41-a738-f6461cc22390",
+    "type": "message",
+    "text": "<https://omdena.com/blog/deep-learning-project-ideas/|https://omdena.com/blog/deep-learning-project-ideas/>",
+    "user": "U03UUS0MZCZ",
+    "ts": "1665724067.243939",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UKrY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://omdena.com/blog/deep-learning-project-ideas/",
+                "text": "https://omdena.com/blog/deep-learning-project-ideas/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4dd67341a549",
+      "image_72": "https://avatars.slack-edge.com/2022-10-25/4268232309942_4dd67341a5490ee7721b_72.jpg",
+      "first_name": "Jodi",
+      "real_name": "Jodi Lyons",
+      "display_name": "Jodi Lyons",
+      "team": "T03U4J8HMUG",
+      "name": "Jodi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://omdena.com/blog/deep-learning-project-ideas/",
+        "ts": 1639720803,
+        "image_url": "https://omdena.com/wp-content/uploads/2021/12/Deep-Learning-Projects-Ideas.png",
+        "image_width": 478,
+        "image_height": 250,
+        "image_bytes": 283803,
+        "service_icon": "https://omdena.com/wp-content/uploads/2022/10/cropped-Favicon-180x180.png",
+        "id": 1,
+        "original_url": "https://omdena.com/blog/deep-learning-project-ideas/",
+        "fallback": "Omdena | Building AI Solutions for Real-World Problems: Top 25+ Deep Learning Projects Ideas in 2022 (For Beginners &amp; Advanced) - Omdena",
+        "text": "Deep learning is one of the most popular approaches to AI. Here's a list of 25 deep learning project ideas for final year!",
+        "title": "Top 25+ Deep Learning Projects Ideas in 2022 (For Beginners &amp; Advanced) - Omdena",
+        "title_link": "https://omdena.com/blog/deep-learning-project-ideas/",
+        "service_name": "Omdena | Building AI Solutions for Real-World Problems"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6df5e28e-3a82-4a53-a657-08e891850805",
+    "type": "message",
+    "text": "<https://www.coursereport.com/blog/data-engineering-vs-data-science-vs-machine-learning-engineering-with-springboard>",
+    "user": "U03UHB8CXDY",
+    "ts": "1665725192.119969",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8MT0G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.coursereport.com/blog/data-engineering-vs-data-science-vs-machine-learning-engineering-with-springboard"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Yvonne",
+      "real_name": "Yvonne Gonzalez",
+      "display_name": "Yvonne Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Yvonne",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.coursereport.com/blog/data-engineering-vs-data-science-vs-machine-learning-engineering-with-springboard",
+        "image_url": "https://coursereport-production.imgix.net/rich/rich_files/rich_files/6436/original/clint-adair-bw0vk-fa3eg-unsplash.jpg?w=1200&h=630&fit=crop&crop=focalpoint&bri=-25&mark64=aHR0cHM6Ly9jb3Vyc2VyZXBvcnQtcHJvZHVjdGlvbi5pbWdpeC5uZXQvbWlzY19pbWdzL2NhbnZhcy5wbmc_dz0xMjAwJmg9NjMwJmZpdD1jcm9wJmZtPXBuZyZibGVuZDY0PWFIUjBjSE02THk5amIzVnljMlZ5WlhCdmNuUXRjSEp2WkhWamRHbHZiaTVwYldkcGVDNXVaWFF2YldselkxOXBiV2R6TDJOdmRYSnpaVjl5WlhCdmNuUmZiRzluYnk1d1pHWV9abTA5Y0c1biZibGVuZG1vZGU9bm9ybWFsJmJsZW5kYWxpZ249Ym90dG9tJTJDY2VudGVyJmJsZW5kdz0wLjEmYmxlbmR5PTU3MA&blend64=aHR0cHM6Ly9jb3Vyc2VyZXBvcnQtcHJvZHVjdGlvbi5pbWdpeC5uZXQvfnRleHQ_dz0xMDgwJmg9NDYwJnR4dDY0PVJHRjBZU0JGYm1kcGJtVmxjbWx1WnlCMmN5NGdSR0YwWVNCVFkybGxibU5sSUhaekxpQk5ZV05vYVc1bElFeGxZWEp1YVc1bklFVnVaMmx1WldWeWFXNW4mdHh0Y29sb3I9RkZGJnR4dGFsaWduPW1pZGRsZSUyQ2NlbnRlciZ0eHRzaXplPTU2JnR4dGZvbnQ2ND1ZbTlzWkEmdHh0cGFkPTEyMCZiZz01MDAwMDAwMA&blendmode=normal",
+        "image_width": 476,
+        "image_height": 250,
+        "image_bytes": 124373,
+        "service_icon": "https://coursereport-production-herokuapp-com.global.ssl.fastly.net/assets/apple-touch-icon-57x57-precomposed-17362c1934f39956e5163e5a1be032eecd2b549693bffec238cab6777d419195.png",
+        "id": 1,
+        "original_url": "https://www.coursereport.com/blog/data-engineering-vs-data-science-vs-machine-learning-engineering-with-springboard",
+        "fallback": "Course Report: Data Engineering vs. Data Science vs. Machine Learning Engineering",
+        "text": "Jonathan from Springboard identifies modern data-driven roles and how their bootcamp is taking anyone with any background and launching them into a successful career in data. (175)",
+        "title": "Data Engineering vs. Data Science vs. Machine Learning Engineering",
+        "title_link": "https://www.coursereport.com/blog/data-engineering-vs-data-science-vs-machine-learning-engineering-with-springboard",
+        "service_name": "Course Report"
+      }
+    ]
+  }
+]

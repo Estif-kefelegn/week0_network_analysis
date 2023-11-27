@@ -1,0 +1,246 @@
+[
+  {
+    "type": "message",
+    "text": "",
+    "files": [
+      {
+        "id": "F045G5S9DNU",
+        "created": 1664706224,
+        "timestamp": 1664706224,
+        "name": "image.png",
+        "title": "image.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U03UVHCV6KB",
+        "user_team": "T03U4J8HMUG",
+        "editable": false,
+        "size": 26693,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T03U4J8HMUG-F045G5S9DNU/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "url_private_download": "https://files.slack.com/files-pri/T03U4J8HMUG-F045G5S9DNU/download/image.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045G5S9DNU-dc61a7086a/image_64.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_80": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045G5S9DNU-dc61a7086a/image_80.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045G5S9DNU-dc61a7086a/image_360.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_360_w": 360,
+        "thumb_360_h": 79,
+        "thumb_480": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045G5S9DNU-dc61a7086a/image_480.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "thumb_480_w": 480,
+        "thumb_480_h": 106,
+        "thumb_160": "https://files.slack.com/files-tmb/T03U4J8HMUG-F045G5S9DNU-dc61a7086a/image_160.png?t=xoxe-3956620599968-6240746766294-6247387524178-110fc6768eefd7fcb909c4550875ed49",
+        "original_w": 517,
+        "original_h": 114,
+        "thumb_tiny": "AwAKADCgMYGcfpS4Ht+lR7jjGTijc3qfzoAf8v8As/pS/KT2/SoqKAJBjocfpSMwHAwfwFMooA//2Q==",
+        "permalink": "https://10academybatch6.slack.com/files/U03UVHCV6KB/F045G5S9DNU/image.png",
+        "permalink_public": "https://slack-files.com/T03U4J8HMUG-F045G5S9DNU-fe55cd9e57",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U03UVHCV6KB",
+    "display_as_bot": false,
+    "ts": "1664706228.771359",
+    "client_msg_id": "063c1167-1441-49fa-adb9-0810c7428c25"
+  },
+  {
+    "client_msg_id": "f4cade1f-0c56-4556-9529-2a2e291a9901",
+    "type": "message",
+    "text": "This always scares me the hell out of me\n<https://www.youtube.com/watch?v=Wu1kpnCylKQ>",
+    "user": "U03UVHCV6KB",
+    "ts": "1664727857.824419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0yb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This always scares me the hell out of me\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=Wu1kpnCylKQ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=Wu1kpnCylKQ",
+        "thumb_url": "https://i.ytimg.com/vi/Wu1kpnCylKQ/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/Wu1kpnCylKQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Boston Dynamics&#39; New Robot Makes Soldiers Obsolete, Here&#39;s Why\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=Wu1kpnCylKQ",
+        "fallback": "YouTube Video: Boston Dynamics' New Robot Makes Soldiers Obsolete, Here's Why",
+        "title": "Boston Dynamics' New Robot Makes Soldiers Obsolete, Here's Why",
+        "title_link": "https://www.youtube.com/watch?v=Wu1kpnCylKQ",
+        "author_name": "Simply Tech",
+        "author_link": "https://www.youtube.com/channel/UCW5BaXolL-jh1wAmZC78leQ",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5616abbf-06a8-4dd9-a3e9-689054792ef0",
+    "type": "message",
+    "text": "<https://youtu.be/wJNikDr-aNM|https://youtu.be/wJNikDr-aNM>",
+    "user": "U03UUR571A5",
+    "ts": "1664743453.366969",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DXdd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/wJNikDr-aNM",
+                "text": "https://youtu.be/wJNikDr-aNM"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/wJNikDr-aNM",
+        "thumb_url": "https://i.ytimg.com/vi/wJNikDr-aNM/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/wJNikDr-aNM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"How To Become a 10x Developer\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/wJNikDr-aNM",
+        "fallback": "YouTube Video: How To Become a 10x Developer",
+        "title": "How To Become a 10x Developer",
+        "title_link": "https://youtu.be/wJNikDr-aNM",
+        "author_name": "Tech With Tim",
+        "author_link": "https://www.youtube.com/c/TechWithTim",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0d8b2a4b-3f3d-43b2-be33-75ea8653ee65",
+    "type": "message",
+    "text": "<https://youtu.be/3LopI4YeC4I|https://youtu.be/3LopI4YeC4I>",
+    "user": "U03UUR571A5",
+    "ts": "1664745817.365529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "otP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/3LopI4YeC4I",
+                "text": "https://youtu.be/3LopI4YeC4I"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/3LopI4YeC4I",
+        "thumb_url": "https://i.ytimg.com/vi/3LopI4YeC4I/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/3LopI4YeC4I?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Is Success Luck or Hard Work?\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/3LopI4YeC4I",
+        "fallback": "YouTube Video: Is Success Luck or Hard Work?",
+        "title": "Is Success Luck or Hard Work?",
+        "title_link": "https://youtu.be/3LopI4YeC4I",
+        "author_name": "Veritasium",
+        "author_link": "https://www.youtube.com/c/veritasium",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG32J3PC"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

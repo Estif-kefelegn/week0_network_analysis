@@ -1,0 +1,995 @@
+[
+  {
+    "client_msg_id": "e4871611-b071-457c-a678-1f63ccaa8f09",
+    "type": "message",
+    "text": "Hi <!channel>, I hope everyone is doing well:blossom:,  as mentioned earlier, we will be conducting mock interviews, those who volunteered <@U03UD5B7C3X>, <@U03UJN29Y4C>, <@U03UVHCV6KB> and <@U03UG4Q7V42> kindly share your updated cv/resumes to Arun and  <https://docs.google.com/document/d/1AbYqSrlCcbszEOZaeINjqe0IVk_art975zEPwylGFSw/edit?usp=sharing|here> is draft of tips and guidance to prep you for the interview, Please go through it. Also as this somenthing we are looking forward to have during the next couple of weeks, I suggest for other 2 ladies and 2 gentlemen to volunteer for next week..reply with a :fire: if willing.  Thanks!. Have a lovely day y'all :100:",
+    "user": "U03U4GULU3Y",
+    "ts": "1663749866.980199",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DsjH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ", I hope everyone is doing well"
+              },
+              {
+                "type": "emoji",
+                "name": "blossom",
+                "unicode": "1f33c"
+              },
+              {
+                "type": "text",
+                "text": ",  as mentioned earlier, we will be conducting mock interviews, those who volunteered "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UD5B7C3X"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UJN29Y4C"
+              },
+              {
+                "type": "text",
+                "text": ", "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UVHCV6KB"
+              },
+              {
+                "type": "text",
+                "text": " and "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UG4Q7V42"
+              },
+              {
+                "type": "text",
+                "text": " kindly share your updated cv/resumes to Arun and  "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1AbYqSrlCcbszEOZaeINjqe0IVk_art975zEPwylGFSw/edit?usp=sharing",
+                "text": "here"
+              },
+              {
+                "type": "text",
+                "text": " is draft of tips and guidance to prep you for the interview, Please go through it. Also as this somenthing we are looking forward to have during the next couple of weeks, I suggest for other 2 ladies and 2 gentlemen to volunteer for next week..reply with a "
+              },
+              {
+                "type": "emoji",
+                "name": "fire",
+                "unicode": "1f525"
+              },
+              {
+                "type": "text",
+                "text": " if willing.  Thanks!. Have a lovely day y'all "
+              },
+              {
+                "type": "emoji",
+                "name": "100",
+                "unicode": "1f4af"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "99e77e6d73e2",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3986877623392_99e77e6d73e294e4f45c_72.png",
+      "first_name": "Allison",
+      "real_name": "Allison Thompson",
+      "display_name": "Allison Thompson",
+      "team": "T03U4J8HMUG",
+      "name": "Allison",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663749866.980199",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1663752630.815629",
+    "reply_users": [
+      "U03UAKATQ22",
+      "U03U4GULU3Y"
+    ],
+    "replies": [
+      {
+        "user": "U03UAKATQ22",
+        "ts": "1663751416.655119"
+      },
+      {
+        "user": "U03U4GULU3Y",
+        "ts": "1663752482.702959"
+      },
+      {
+        "user": "U03UAKATQ22",
+        "ts": "1663752630.815629"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "fire",
+        "users": [
+          "U03UUR571A5",
+          "U03UFV7HFNF",
+          "U03U1HAG9TR",
+          "U03UD4FEDHB"
+        ],
+        "count": 4
+      },
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB",
+          "U03UJN29Y4C"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9e6cf3b4-ccfa-4a91-8c57-94bd610b33ab",
+    "type": "message",
+    "text": "<@U03U4GULU3Y> can you tell me the days the interviews will be held for the 2nd round?",
+    "user": "U03UAKATQ22",
+    "ts": "1663751416.655119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DyZrE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03U4GULU3Y"
+              },
+              {
+                "type": "text",
+                "text": " can you tell me the days the interviews will be held for the 2nd round?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a2d0afeb249a",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3969267243922_a2d0afeb249a9b4f3842_72.png",
+      "first_name": "Gary",
+      "real_name": "Gary Thomas",
+      "display_name": "Gary Thomas",
+      "team": "T03U4J8HMUG",
+      "name": "Gary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663749866.980199",
+    "parent_user_id": "U03U4GULU3Y"
+  },
+  {
+    "client_msg_id": "007f218d-a4e6-4727-8477-95747cb8be97",
+    "type": "message",
+    "text": "<@U03UAKATQ22>  it is not definite, probably same time next week, how ever please  look out for next weeks timetable on notion",
+    "user": "U03U4GULU3Y",
+    "ts": "1663752482.702959",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "nqNZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UAKATQ22"
+              },
+              {
+                "type": "text",
+                "text": "  it is not definite, probably same time next week, how ever please  look out for next weeks timetable on notion"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "99e77e6d73e2",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3986877623392_99e77e6d73e294e4f45c_72.png",
+      "first_name": "Allison",
+      "real_name": "Allison Thompson",
+      "display_name": "Allison Thompson",
+      "team": "T03U4J8HMUG",
+      "name": "Allison",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663749866.980199",
+    "parent_user_id": "U03U4GULU3Y"
+  },
+  {
+    "client_msg_id": "be5c89e2-88d8-42df-bd02-7d12726967cd",
+    "type": "message",
+    "text": "Okay Great. Thanks",
+    "user": "U03UAKATQ22",
+    "ts": "1663752630.815629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XA/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Okay Great. Thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a2d0afeb249a",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3969267243922_a2d0afeb249a9b4f3842_72.png",
+      "first_name": "Gary",
+      "real_name": "Gary Thomas",
+      "display_name": "Gary Thomas",
+      "team": "T03U4J8HMUG",
+      "name": "Gary",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663749866.980199",
+    "parent_user_id": "U03U4GULU3Y"
+  },
+  {
+    "client_msg_id": "1c2bb455-5fe3-404d-bb8e-ca5585d7117f",
+    "type": "message",
+    "text": "Hello,\nI don't think that I've really got the career exercise to submit in the evening. More explanations will be helpful. Thanks",
+    "user": "U03UH397319",
+    "ts": "1663756180.266899",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6l0D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hello,\nI don't think that I've really got the career exercise to submit in the evening. More explanations will be helpful. Thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Brenda",
+      "real_name": "Brenda Hernandez",
+      "display_name": "Brenda Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Brenda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663756180.266899",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1663778201.954489",
+    "reply_users": [
+      "U03UL5LSTG9",
+      "U03UH397319",
+      "U03UJH1EQQL",
+      "U03UUMR26Q1"
+    ],
+    "replies": [
+      {
+        "user": "U03UL5LSTG9",
+        "ts": "1663756252.768029"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1663756900.125599"
+      },
+      {
+        "user": "U03UL5LSTG9",
+        "ts": "1663757640.472719"
+      },
+      {
+        "user": "U03UJH1EQQL",
+        "ts": "1663765460.597289"
+      },
+      {
+        "user": "U03UUMR26Q1",
+        "ts": "1663778201.954489"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "cd0181aa-a3eb-4625-aacf-f7c233b2e1cd",
+    "type": "message",
+    "text": "Can you please explain further, as your question is not clear",
+    "user": "U03UL5LSTG9",
+    "ts": "1663756252.768029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eLKFZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Can you please explain further, as your question is not clear"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3fe4d3c0de24",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3978609497829_3fe4d3c0de24beaf8552_72.png",
+      "first_name": "Samantha",
+      "real_name": "Samantha Lee",
+      "display_name": "Samantha Lee",
+      "team": "T03U4J8HMUG",
+      "name": "Samantha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663756180.266899",
+    "parent_user_id": "U03UH397319"
+  },
+  {
+    "client_msg_id": "e1c3e5ae-df73-4b22-b161-48557356f396",
+    "type": "message",
+    "text": "what is the expected content of the document to submit?",
+    "user": "U03UH397319",
+    "ts": "1663756900.125599",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xdd9I",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "what is the expected content of the document to submit?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Brenda",
+      "real_name": "Brenda Hernandez",
+      "display_name": "Brenda Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Brenda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663756180.266899",
+    "parent_user_id": "U03UH397319"
+  },
+  {
+    "client_msg_id": "75266767-ec72-4f5e-886a-08e5c05a829a",
+    "type": "message",
+    "text": "Your question is unclear,  kindly give me a call",
+    "user": "U03UL5LSTG9",
+    "ts": "1663757640.472719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "asEEY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Your question is unclear,  kindly give me a call"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3fe4d3c0de24",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3978609497829_3fe4d3c0de24beaf8552_72.png",
+      "first_name": "Samantha",
+      "real_name": "Samantha Lee",
+      "display_name": "Samantha Lee",
+      "team": "T03U4J8HMUG",
+      "name": "Samantha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663756180.266899",
+    "parent_user_id": "U03UH397319"
+  },
+  {
+    "client_msg_id": "CA57FBEA-9D0F-416F-8004-4E8ECA66D79F",
+    "type": "message",
+    "text": "Do we have submission for career exercise today? ",
+    "user": "U03V6HMRPGQ",
+    "ts": "1663763155.449869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "lOxda",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Do"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "we"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "have"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "submission"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "text",
+                "text": "for"
+              },
+              {
+                "type": "text",
+                "text": " career exercise "
+              },
+              {
+                "type": "text",
+                "text": "today?"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Cristian",
+      "real_name": "Cristian Wilson",
+      "display_name": "Cristian Wilson",
+      "team": "T03U4J8HMUG",
+      "name": "Cristian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663763155.449869",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1663765319.846689",
+    "reply_users": [
+      "U03UH397319",
+      "U03UJH1EQQL"
+    ],
+    "replies": [
+      {
+        "user": "U03UH397319",
+        "ts": "1663763210.086419"
+      },
+      {
+        "user": "U03UJH1EQQL",
+        "ts": "1663765319.846689"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "81e0a5fa-5e5e-40c8-b1ab-2f1bc10811c4",
+    "type": "message",
+    "text": "yes <@U03V6HMRPGQ>",
+    "user": "U03UH397319",
+    "ts": "1663763210.086419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XGrgs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V6HMRPGQ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Brenda",
+      "real_name": "Brenda Hernandez",
+      "display_name": "Brenda Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Brenda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663763155.449869",
+    "parent_user_id": "U03V6HMRPGQ"
+  },
+  {
+    "client_msg_id": "982ccd83-5b7f-423b-993b-9dbf31a13343",
+    "type": "message",
+    "text": "yes!",
+    "user": "U03UJH1EQQL",
+    "ts": "1663765319.846689",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pwd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yes!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Kelly",
+      "real_name": "Kelly Soto",
+      "display_name": "Kelly Soto",
+      "team": "T03U4J8HMUG",
+      "name": "Kelly",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663763155.449869",
+    "parent_user_id": "U03V6HMRPGQ"
+  },
+  {
+    "client_msg_id": "b964b9fe-58e1-4c40-b0f8-6782418fee4f",
+    "type": "message",
+    "text": "I think preparing 2 to 4 questions based on the competence measure starting from w0 to w4. look the samples given on the career exercise document.",
+    "user": "U03UJH1EQQL",
+    "ts": "1663765460.597289",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mQKOB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think preparing 2 to 4 questions based on the competence measure starting from w0 to w4. look the samples given on the career exercise document."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Kelly",
+      "real_name": "Kelly Soto",
+      "display_name": "Kelly Soto",
+      "team": "T03U4J8HMUG",
+      "name": "Kelly",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663756180.266899",
+    "parent_user_id": "U03UH397319"
+  },
+  {
+    "client_msg_id": "5d03624e-90ad-49eb-8cb8-a732365aba1b",
+    "type": "message",
+    "text": "then what does it needs elaboration or just submiting the questions?",
+    "user": "U03UUMR26Q1",
+    "ts": "1663778201.954489",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BzOv",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "then what does it needs elaboration or just submiting the questions?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "706054da5590",
+      "image_72": "https://avatars.slack-edge.com/2022-09-02/4051525321520_706054da55906fd18009_72.jpg",
+      "first_name": "Samuel",
+      "real_name": "Samuel King",
+      "display_name": "Samuel King",
+      "team": "T03U4J8HMUG",
+      "name": "Samuel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663756180.266899",
+    "parent_user_id": "U03UH397319"
+  },
+  {
+    "client_msg_id": "5bfb121b-063c-43f0-b9eb-32de8c33a0f0",
+    "type": "message",
+    "text": "i don't understand the career excersice well does the question need elaborations or just i am going to submit only the questions?",
+    "user": "U03UUMR26Q1",
+    "ts": "1663778359.189199",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fMTO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "i don't understand the career excersice well does the question need elaborations or just i am going to submit only the questions?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "706054da5590",
+      "image_72": "https://avatars.slack-edge.com/2022-09-02/4051525321520_706054da55906fd18009_72.jpg",
+      "first_name": "Samuel",
+      "real_name": "Samuel King",
+      "display_name": "Samuel King",
+      "team": "T03U4J8HMUG",
+      "name": "Samuel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663778359.189199",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1663778493.227629",
+    "reply_users": [
+      "U03UFV7HFNF",
+      "U03UUMR26Q1"
+    ],
+    "replies": [
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1663778428.001549"
+      },
+      {
+        "user": "U03UUMR26Q1",
+        "ts": "1663778478.616789"
+      },
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1663778493.227629"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "9476a357-8cec-4b72-a3ad-ad41faef2e57",
+    "type": "message",
+    "text": "I think it's only the questions ,however make sure to consider both the technical and non-technical aspect while preparing those questions.",
+    "user": "U03UFV7HFNF",
+    "ts": "1663778428.001549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tlew",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I think it's only the questions ,however make sure to consider both the technical and non-technical aspect while preparing those questions."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663778359.189199",
+    "parent_user_id": "U03UUMR26Q1",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03TT5KEYCF"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "dc974e8c-405d-4e33-9231-2c2af2296923",
+    "type": "message",
+    "text": "ok Thank you.",
+    "user": "U03UUMR26Q1",
+    "ts": "1663778478.616789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "scj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok Thank you."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "706054da5590",
+      "image_72": "https://avatars.slack-edge.com/2022-09-02/4051525321520_706054da55906fd18009_72.jpg",
+      "first_name": "Samuel",
+      "real_name": "Samuel King",
+      "display_name": "Samuel King",
+      "team": "T03U4J8HMUG",
+      "name": "Samuel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663778359.189199",
+    "parent_user_id": "U03UUMR26Q1"
+  },
+  {
+    "client_msg_id": "1f52c60e-38c9-493c-b2a9-69401000b35e",
+    "type": "message",
+    "text": "Your are welcome.",
+    "user": "U03UFV7HFNF",
+    "ts": "1663778493.227629",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qxxbk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Your are welcome."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1663778359.189199",
+    "parent_user_id": "U03UUMR26Q1"
+  },
+  {
+    "client_msg_id": "e056ff4c-2398-4f00-a648-250263e86bba",
+    "type": "message",
+    "text": "<!channel> Hello guys, the week 4 careers exercises *\"Time management &amp; Prioritization\"* has been returned. Please see the list of <https://docs.google.com/document/d/1hpbwlm5FQV2A7_AawKw8WzMJqXDV5EHgf9cpwTW3pGA/|exemplar> submission. Thank you",
+    "user": "U03UL5LSTG9",
+    "ts": "1663789671.593159",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+6zd+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Hello guys, the week 4 careers exercises "
+              },
+              {
+                "type": "text",
+                "text": "\"Time management & Prioritization\"",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " has been returned. Please see the list of "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1hpbwlm5FQV2A7_AawKw8WzMJqXDV5EHgf9cpwTW3pGA/",
+                "text": "exemplar"
+              },
+              {
+                "type": "text",
+                "text": " submission. Thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3fe4d3c0de24",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3978609497829_3fe4d3c0de24beaf8552_72.png",
+      "first_name": "Samantha",
+      "real_name": "Samantha Lee",
+      "display_name": "Samantha Lee",
+      "team": "T03U4J8HMUG",
+      "name": "Samantha",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  }
+]

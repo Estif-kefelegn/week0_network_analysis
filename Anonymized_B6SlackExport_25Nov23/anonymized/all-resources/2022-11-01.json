@@ -1,0 +1,1088 @@
+[
+  {
+    "client_msg_id": "e4145648-23ce-409f-8072-dcd364e6ff78",
+    "type": "message",
+    "text": "<https://medium.com/swlh/image-segmentation-using-deep-learning-a-survey-e37e0f0a1489>",
+    "user": "U03V5Q9N516",
+    "ts": "1667287377.500809",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "A2X9y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/swlh/image-segmentation-using-deep-learning-a-survey-e37e0f0a1489"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Debra",
+      "real_name": "Debra Lawrence",
+      "display_name": "Debra Lawrence",
+      "team": "T03U4J8HMUG",
+      "name": "Debra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/swlh/image-segmentation-using-deep-learning-a-survey-e37e0f0a1489",
+        "ts": 1591483372,
+        "image_url": "https://miro.medium.com/max/1200/1*z6ch-2BliDGLIHpOPFY_Sw.png",
+        "image_width": 336,
+        "image_height": 250,
+        "image_bytes": 969191,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/swlh/image-segmentation-using-deep-learning-a-survey-e37e0f0a1489",
+        "fallback": "Medium: Image Segmentation Using Deep Learning: A Survey",
+        "text": "Image segmentation helps us understand the content of the image and is a very important topic in image processing and computer vision. It\u2026",
+        "title": "Image Segmentation Using Deep Learning: A Survey",
+        "title_link": "https://medium.com/swlh/image-segmentation-using-deep-learning-a-survey-e37e0f0a1489",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "8 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "34abc945-13f6-4c32-8625-26483b1e320d",
+    "type": "message",
+    "text": "<https://colab.research.google.com/drive/1MdkavsjGHYcuGyjmsf9wmeAK3WvtYLty?usp=sharing>",
+    "user": "U03U9EJR362",
+    "ts": "1667288703.921539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "H0CG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://colab.research.google.com/drive/1MdkavsjGHYcuGyjmsf9wmeAK3WvtYLty?usp=sharing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Nicholas",
+      "real_name": "Nicholas Friedman",
+      "display_name": "Nicholas Friedman",
+      "team": "T03U4J8HMUG",
+      "name": "Nicholas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://colab.research.google.com/drive/1MdkavsjGHYcuGyjmsf9wmeAK3WvtYLty?usp=sharing",
+        "image_url": "https://colab.research.google.com/img/colab_favicon_256px.png",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 4534,
+        "service_icon": "https://colab.research.google.com/img/favicon.ico?vrz=colab-20221028-060042-RC00_484490020",
+        "id": 1,
+        "original_url": "https://colab.research.google.com/drive/1MdkavsjGHYcuGyjmsf9wmeAK3WvtYLty?usp=sharing",
+        "fallback": "Google Colaboratory",
+        "title": "Google Colaboratory",
+        "title_link": "https://colab.research.google.com/drive/1MdkavsjGHYcuGyjmsf9wmeAK3WvtYLty?usp=sharing",
+        "service_name": "colab.research.google.com"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB",
+          "U03UHB8CXDY"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9f0a2893-3f9c-40a0-83a3-abed83cb93bf",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=uapdILWYTzE>",
+    "user": "U03UG1Z21JP",
+    "ts": "1667289474.310449",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ARL39",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=uapdILWYTzE"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Foley",
+      "display_name": "Jennifer Foley",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=uapdILWYTzE",
+        "thumb_url": "https://i.ytimg.com/vi/uapdILWYTzE/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/uapdILWYTzE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"MIT 6.S191: Convolutional Neural Networks\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=uapdILWYTzE",
+        "fallback": "YouTube Video: MIT 6.S191: Convolutional Neural Networks",
+        "title": "MIT 6.S191: Convolutional Neural Networks",
+        "title_link": "https://www.youtube.com/watch?v=uapdILWYTzE",
+        "author_name": "Alexander Amini",
+        "author_link": "https://www.youtube.com/user/Zan560",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "331f2228-8bc2-4050-a137-a2126c7ebb27",
+    "type": "message",
+    "text": "<https://www.javatpoint.com/object-recognition-using-python#:~:text=This%20technology%20is%20capable%20of,systems%2C%20and%20a%20lot%20more>.",
+    "user": "U03UJGP0C68",
+    "ts": "1667291047.230309",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FCtKl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.javatpoint.com/object-recognition-using-python#:~:text=This%20technology%20is%20capable%20of,systems%2C%20and%20a%20lot%20more"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Judith",
+      "real_name": "Judith Bolton",
+      "display_name": "Judith Bolton",
+      "team": "T03U4J8HMUG",
+      "name": "Judith",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.javatpoint.com/object-recognition-using-python#:~:text=This%20technology%20is%20capable%20of,systems%2C%20and%20a%20lot%20more",
+        "id": 1,
+        "original_url": "https://www.javatpoint.com/object-recognition-using-python#:~:text=This%20technology%20is%20capable%20of,systems%2C%20and%20a%20lot%20more",
+        "fallback": "www.javatpoint.com: Object Recognition using Python - Javatpoint",
+        "text": "Object Recognition using Python with python, tutorial, tkinter, button, overview, entry, checkbutton, canvas, frame, environment set-up, first python program, operators, etc.",
+        "title": "Object Recognition using Python - Javatpoint",
+        "title_link": "https://www.javatpoint.com/object-recognition-using-python#:~:text=This%20technology%20is%20capable%20of,systems%2C%20and%20a%20lot%20more",
+        "service_name": "www.javatpoint.com"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB",
+          "U03UG1Z21JP"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "26225122-559f-441f-912e-daedf1f8d952",
+    "type": "message",
+    "text": "This is a good starter for image detection &amp; labeling",
+    "user": "U03UJGP0C68",
+    "ts": "1667291067.149879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mtIfr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This is a good starter for image detection & labeling"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "259faccdce43",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3965145363573_259faccdce439a8c6345_72.png",
+      "first_name": "Judith",
+      "real_name": "Judith Bolton",
+      "display_name": "Judith Bolton",
+      "team": "T03U4J8HMUG",
+      "name": "Judith",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667291067.149879",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1667291209.242949",
+    "reply_users": [
+      "U03UG1Z21JP"
+    ],
+    "replies": [
+      {
+        "user": "U03UG1Z21JP",
+        "ts": "1667291209.242949"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "ce9e89dc-18aa-4b07-bc6b-a31d068de408",
+    "type": "message",
+    "text": "Thank you for sharing.",
+    "user": "U03UG1Z21JP",
+    "ts": "1667291209.242949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/e85M",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you for sharing."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Foley",
+      "display_name": "Jennifer Foley",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667291067.149879",
+    "parent_user_id": "U03UJGP0C68"
+  },
+  {
+    "client_msg_id": "44cfd4b7-7b19-417c-9d66-f9d0306a8c4f",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/building-a-semantics-segmentation-computer-vision-algorithm-for-deployment-on-the-edge-3ad1a8922fd1>",
+    "user": "U03UHB8CXDY",
+    "ts": "1667293917.754099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m/kB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/building-a-semantics-segmentation-computer-vision-algorithm-for-deployment-on-the-edge-3ad1a8922fd1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Yvonne",
+      "real_name": "Yvonne Gonzalez",
+      "display_name": "Yvonne Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Yvonne",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/building-a-semantics-segmentation-computer-vision-algorithm-for-deployment-on-the-edge-3ad1a8922fd1",
+        "ts": 1653536994,
+        "image_url": "https://miro.medium.com/max/1200/1*ZrlwLxl3iAJrpcQGYvqP_g.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 244714,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/building-a-semantics-segmentation-computer-vision-algorithm-for-deployment-on-the-edge-3ad1a8922fd1",
+        "fallback": "Medium: Building a Semantics Segmentation Computer Vision Algorithm for Deployment on the Edge",
+        "text": "Technical challenges and learnings in a production Computer Vision project",
+        "title": "Building a Semantics Segmentation Computer Vision Algorithm for Deployment on the Edge",
+        "title_link": "https://towardsdatascience.com/building-a-semantics-segmentation-computer-vision-algorithm-for-deployment-on-the-edge-3ad1a8922fd1",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "11 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f86aebb2-0df7-4408-9853-571dd03263c6",
+    "type": "message",
+    "text": "<https://youtu.be/W-oVad7x-HQ>",
+    "user": "U03UG4Q7V42",
+    "ts": "1667294512.749799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "z9m4q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/W-oVad7x-HQ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Phillip",
+      "real_name": "Phillip Atkins",
+      "display_name": "Phillip Atkins",
+      "team": "T03U4J8HMUG",
+      "name": "Phillip",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/W-oVad7x-HQ",
+        "thumb_url": "https://i.ytimg.com/vi/W-oVad7x-HQ/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/W-oVad7x-HQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"What&#39;s the simplest form of Image Segmentation? | Python Tutorial\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/W-oVad7x-HQ",
+        "fallback": "YouTube Video: What's the simplest form of Image Segmentation? | Python Tutorial",
+        "title": "What's the simplest form of Image Segmentation? | Python Tutorial",
+        "title_link": "https://youtu.be/W-oVad7x-HQ",
+        "author_name": "Monkhaus",
+        "author_link": "https://www.youtube.com/c/Monkhaus",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "36f40ea5-9834-4320-b839-50650b5d8f23",
+    "type": "message",
+    "text": "labeling schemes\nengagement_instruction_1 : for engagement instruction Example:\"Swipe\"\nEngagement_instruction_detail_1: for additional info like \u2018to start your service\u2019\nengagement_animation_1 : for engagement animation Example: Pointing hand or Direction Arrow\nlogo_1: for logo of the brand\nlanding_1: for landing images Example:The first image on the ad\nstart_text_1: additional text in start frame\ngame_text_1: texts in between start frame and end frame\nendframe_1: for images at the ending of the",
+    "user": "U03V61VGQG0",
+    "ts": "1667295659.738939",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "GEKlf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "labeling schemes\nengagement_instruction_1 : for engagement instruction Example:\"Swipe\"\nEngagement_instruction_detail_1: for additional info like \u2018to start your service\u2019\nengagement_animation_1 : for engagement animation Example: Pointing hand or Direction Arrow\nlogo_1: for logo of the brand\nlanding_1: for landing images Example:The first image on the ad\nstart_text_1: additional text in start frame\ngame_text_1: texts in between start frame and end frame\nendframe_1: for images at the ending of the"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "dac60d51-090b-455c-8354-4409edd0ad46",
+    "type": "message",
+    "text": "<https://medium.com/@nimitsharma7496/the-top-10-python-packages-for-computer-vision-e178b70ebeb3>",
+    "user": "U03V785NLSU",
+    "ts": "1667299421.166989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p/R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/@nimitsharma7496/the-top-10-python-packages-for-computer-vision-e178b70ebeb3"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Ashley",
+      "real_name": "Ashley Hamilton",
+      "display_name": "Ashley Hamilton",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/@nimitsharma7496/the-top-10-python-packages-for-computer-vision-e178b70ebeb3",
+        "ts": 1651725127,
+        "image_url": "https://miro.medium.com/max/1200/1*HsZeH6fibKa5DPzMf0tKNg.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 141133,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/@nimitsharma7496/the-top-10-python-packages-for-computer-vision-e178b70ebeb3",
+        "fallback": "Medium: The Top 10 Python Packages for Computer Vision",
+        "text": "The rise of machine learning and artificial intelligence has opened up countless new opportunities in the world of computer science, but\u2026",
+        "title": "The Top 10 Python Packages for Computer Vision",
+        "title_link": "https://medium.com/@nimitsharma7496/the-top-10-python-packages-for-computer-vision-e178b70ebeb3",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "6 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03U1HAG9TR"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "661b0b8c-b5d0-498f-a107-f5bdface6550",
+    "type": "message",
+    "text": "<https://www.thinkwithgoogle.com/intl/en-gb/future-of-marketing/creativity/creative-intelligence-marketing-privacy-first/>",
+    "user": "U03UJGRN5E0",
+    "ts": "1667301139.278599",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5Z38",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.thinkwithgoogle.com/intl/en-gb/future-of-marketing/creativity/creative-intelligence-marketing-privacy-first/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Katie",
+      "real_name": "Katie Dickerson",
+      "display_name": "Katie Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Katie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.thinkwithgoogle.com/intl/en-gb/future-of-marketing/creativity/creative-intelligence-marketing-privacy-first/",
+        "image_url": "https://storage.googleapis.com/twg-content/images/Creative_intelligence-banner.width-1200.jpg",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 37025,
+        "service_icon": "https://www.thinkwithgoogle.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.thinkwithgoogle.com/intl/en-gb/future-of-marketing/creativity/creative-intelligence-marketing-privacy-first/",
+        "fallback": "Think with Google: Creative intelligence: 3 steps for future-proof ads",
+        "text": "Creative intelligence is key to reaching and engaging customers. Here\u2019s how marketers can build their creative intelligence in a privacy-first world.",
+        "title": "Creative intelligence: 3 steps for future-proof ads",
+        "title_link": "https://www.thinkwithgoogle.com/intl/en-gb/future-of-marketing/creativity/creative-intelligence-marketing-privacy-first/",
+        "service_name": "Think with Google"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "2c3ddbc6-939d-444b-9718-c69964d0cb16",
+    "type": "message",
+    "text": "<https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-example-download-file.html>",
+    "user": "U03UG4Q7V42",
+    "ts": "1667302459.359889",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q9R",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://boto3.amazonaws.com/v1/documentation/api/latest/guide/s3-example-download-file.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Phillip",
+      "real_name": "Phillip Atkins",
+      "display_name": "Phillip Atkins",
+      "team": "T03U4J8HMUG",
+      "name": "Phillip",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "cf8f6320-e489-4d2c-9ae8-62c25348cfa3",
+    "type": "message",
+    "text": "<https://medium.com/@johnpaulhayes/how-extract-a-huge-zip-file-in-an-amazon-s3-bucket-by-using-aws-lambda-and-python-e32c6cf58f06>",
+    "user": "U03U1FNPEUX",
+    "ts": "1667313124.202309",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iVEzt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/@johnpaulhayes/how-extract-a-huge-zip-file-in-an-amazon-s3-bucket-by-using-aws-lambda-and-python-e32c6cf58f06"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/@johnpaulhayes/how-extract-a-huge-zip-file-in-an-amazon-s3-bucket-by-using-aws-lambda-and-python-e32c6cf58f06",
+        "ts": 1562768506,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/@johnpaulhayes/how-extract-a-huge-zip-file-in-an-amazon-s3-bucket-by-using-aws-lambda-and-python-e32c6cf58f06",
+        "fallback": "Medium: How extract a HUGE zip file in an Amazon S3 bucket by using AWS Lambda and Python",
+        "text": "The Problem",
+        "title": "How extract a HUGE zip file in an Amazon S3 bucket by using AWS Lambda and Python",
+        "title_link": "https://medium.com/@johnpaulhayes/how-extract-a-huge-zip-file-in-an-amazon-s3-bucket-by-using-aws-lambda-and-python-e32c6cf58f06",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "2 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "4b46aaee-6c9f-408d-ab44-7b1540dfd5ac",
+    "type": "message",
+    "text": "<https://doc.arcgis.com/en/imagery/workflows/resources/using-deep-learning-for-feature-extraction.htm>",
+    "user": "U03UHB8CXDY",
+    "ts": "1667316205.734769",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JHM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://doc.arcgis.com/en/imagery/workflows/resources/using-deep-learning-for-feature-extraction.htm"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Yvonne",
+      "real_name": "Yvonne Gonzalez",
+      "display_name": "Yvonne Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Yvonne",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://doc.arcgis.com/en/imagery/workflows/resources/using-deep-learning-for-feature-extraction.htm",
+        "id": 1,
+        "original_url": "https://doc.arcgis.com/en/imagery/workflows/resources/using-deep-learning-for-feature-extraction.htm",
+        "fallback": "Using deep learning for feature extraction and classification\u2014Imagery Workflows | Documentation",
+        "text": "Using deep learning for feature extraction and classification For a human, it's relatively easy to understand what's in an image\u2014it's simple to find an object, like a car or a face; to classify a structure as damaged or undamaged; or to visually identify different land cover types. For machines, the task is much more difficult. However, it's critical to be able to use and automate machine-based feature extraction to solve real-world problems. To accomplish this, ArcGIS implements deep learning technology to detect and classify objects in imagery. Deep learning is a type of machine learning that can be used to detect features in imagery. It uses a neural network\u2014a computer system designed to",
+        "title": "Using deep learning for feature extraction and classification\u2014Imagery Workflows | Documentation",
+        "title_link": "https://doc.arcgis.com/en/imagery/workflows/resources/using-deep-learning-for-feature-extraction.htm",
+        "service_name": "doc.arcgis.com"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands::skin-tone-4",
+        "users": [
+          "U03UG4Q7V42"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5e4dbb05-8f5e-49b2-b844-7a831ee81319",
+    "type": "message",
+    "text": "<https://medium.com/@kareemayesh/extract-logo-from-image-with-image-processing-tutorial-751f1d1c34cb>",
+    "user": "U03UHB8CXDY",
+    "ts": "1667317893.014929",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "u3re",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/@kareemayesh/extract-logo-from-image-with-image-processing-tutorial-751f1d1c34cb"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Yvonne",
+      "real_name": "Yvonne Gonzalez",
+      "display_name": "Yvonne Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Yvonne",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/@kareemayesh/extract-logo-from-image-with-image-processing-tutorial-751f1d1c34cb",
+        "ts": 1648363925,
+        "image_url": "https://miro.medium.com/max/1200/1*LD4XOF-VANdwJnToiWr-Ww.png",
+        "image_width": 230,
+        "image_height": 250,
+        "image_bytes": 157988,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/@kareemayesh/extract-logo-from-image-with-image-processing-tutorial-751f1d1c34cb",
+        "fallback": "Medium: Extract Main Objects from Images Automatically with Image Processing",
+        "text": "introduction",
+        "title": "Extract Main Objects from Images Automatically with Image Processing",
+        "title_link": "https://medium.com/@kareemayesh/extract-logo-from-image-with-image-processing-tutorial-751f1d1c34cb",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "5 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8281703d-cd78-4777-a36d-e88aae983335",
+    "type": "message",
+    "text": "<https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial/>",
+    "user": "U03UUR571A5",
+    "ts": "1667325349.017079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZmR/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial/",
+        "ts": 1657682903,
+        "image_url": "https://blog.roboflow.com/content/images/2022/07/rf_train_yolov7_custom_data2-1.jpg",
+        "image_width": 411,
+        "image_height": 250,
+        "image_bytes": 328774,
+        "service_icon": "https://blog.roboflow.com/favicon.png",
+        "id": 1,
+        "original_url": "https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial/",
+        "fallback": "Roboflow Blog: How to Train YOLOv7 on a Custom Dataset",
+        "text": "Follow this tutorial to learn how you can train a Yolov7 model with custom data for you next computer vision project.",
+        "title": "How to Train YOLOv7 on a Custom Dataset",
+        "title_link": "https://blog.roboflow.com/yolov7-custom-dataset-training-tutorial/",
+        "service_name": "Roboflow Blog",
+        "fields": [
+          {
+            "value": "Brad Dwyer",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "Tutorials, Object Dectection, Modeling",
+            "title": "Filed under",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b63cc1ab-8576-4c47-b4a8-bd99b2ae1f4c",
+    "type": "message",
+    "text": "<https://www.analyticsvidhya.com/blog/2021/09/image-segmentation-algorithms-with-implementation-in-python/>",
+    "user": "U03U1HAG9TR",
+    "ts": "1667333345.118619",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=pen3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.analyticsvidhya.com/blog/2021/09/image-segmentation-algorithms-with-implementation-in-python/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4e4331305ef1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980783297649_4e4331305ef102cc4346_72.jpg",
+      "first_name": "Robert",
+      "real_name": "Robert Carter",
+      "display_name": "Robert Carter",
+      "team": "T03U4J8HMUG",
+      "name": "Robert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.analyticsvidhya.com/blog/2021/09/image-segmentation-algorithms-with-implementation-in-python/",
+        "ts": 1631281274,
+        "service_icon": "https://www.analyticsvidhya.com/wp-content/uploads/2015/02/logo_square_v2.jpg",
+        "id": 1,
+        "original_url": "https://www.analyticsvidhya.com/blog/2021/09/image-segmentation-algorithms-with-implementation-in-python/",
+        "fallback": "Analytics Vidhya: Image Segmentation Algorithms With Implementation in Python - An Intuitive Guide",
+        "text": "Image Segmentation helps to obtain the region of interest (ROI) from the image. It is the process of separating an image into different areas.",
+        "title": "Image Segmentation Algorithms With Implementation in Python - An Intuitive Guide",
+        "title_link": "https://www.analyticsvidhya.com/blog/2021/09/image-segmentation-algorithms-with-implementation-in-python/",
+        "service_name": "Analytics Vidhya",
+        "fields": [
+          {
+            "value": "Shruti Sureshan",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "10 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7c485774-6e4e-4f11-81a9-d7ead6bccfaf",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/image-segmentation-part-1-9f3db1ac1c50#:~:text=Edge%2Dbased%20segmentation%20relies%20on,the%20gray%20level%20may%20change>.",
+    "user": "U03UD68RQH3",
+    "ts": "1667354621.608319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E73Kc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/image-segmentation-part-1-9f3db1ac1c50#:~:text=Edge%2Dbased%20segmentation%20relies%20on,the%20gray%20level%20may%20change"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "Brady",
+      "real_name": "Brady Rhodes",
+      "display_name": "Brady Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Brady",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/image-segmentation-part-1-9f3db1ac1c50#:~:text=Edge%2Dbased%20segmentation%20relies%20on,the%20gray%20level%20may%20change",
+        "ts": 1626699366,
+        "image_url": "https://miro.medium.com/max/1095/1*9q0ogrlAz0o1wEQABbTceA.jpeg",
+        "image_width": 459,
+        "image_height": 250,
+        "image_bytes": 136992,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/image-segmentation-part-1-9f3db1ac1c50#:~:text=Edge%2Dbased%20segmentation%20relies%20on,the%20gray%20level%20may%20change",
+        "fallback": "Medium: Image Segmentation\u00a0: Part 1",
+        "text": "Mathematical and practical implementation of various image segmentation techniques.",
+        "title": "Image Segmentation\u00a0: Part 1",
+        "title_link": "https://towardsdatascience.com/image-segmentation-part-1-9f3db1ac1c50#:~:text=Edge%2Dbased%20segmentation%20relies%20on,the%20gray%20level%20may%20change",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "99713a20-afe9-40d9-b614-982d95573124",
+    "type": "message",
+    "text": "<https://arxiv.org/pdf/2103.00436.pdf>",
+    "user": "U03UJGRN5E0",
+    "ts": "1667360728.349009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f3rgO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://arxiv.org/pdf/2103.00436.pdf"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Katie",
+      "real_name": "Katie Dickerson",
+      "display_name": "Katie Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Katie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  }
+]

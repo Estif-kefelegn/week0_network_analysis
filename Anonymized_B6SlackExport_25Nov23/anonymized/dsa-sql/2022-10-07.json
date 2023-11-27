@@ -1,0 +1,459 @@
+[
+  {
+    "client_msg_id": "929c5f84-6232-409d-b3f3-ba39bb8147d7",
+    "type": "message",
+    "text": "Hey <!channel>, on today's challenge will be focusing on searching and sorting. There are lots of searching algorithms. For this challenge, we will be using binary search algorithm which can be implemented on sorted elements and has O(log(n)) Big-0.\n\nResources to get started:\n\n<https://medium.com/basecs/sorting-out-the-basics-behind-sorting-algorithms-b0a032873add>\n<https://www.geeksforgeeks.org/binary-search/>\n<https://www.youtube.com/watch?v=V_T5NuccwRA>",
+    "user": "U03UKL27B0R",
+    "ts": "1665129323.851639",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PbFOX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hey "
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": ", on today's challenge will be focusing on searching and sorting. There are lots of searching algorithms. For this challenge, we will be using binary search algorithm which can be implemented on sorted elements and has O(log(n)) Big-0.\n\nResources to get started:\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/basecs/sorting-out-the-basics-behind-sorting-algorithms-b0a032873add"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.geeksforgeeks.org/binary-search/"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=V_T5NuccwRA"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Brittany",
+      "real_name": "Brittany Garcia",
+      "display_name": "Brittany Garcia",
+      "team": "T03U4J8HMUG",
+      "name": "Brittany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/basecs/sorting-out-the-basics-behind-sorting-algorithms-b0a032873add",
+        "ts": 1497115074,
+        "image_url": "https://miro.medium.com/max/1200/1*m7m_xayCKqAOUHkHm6awyA.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 135881,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/basecs/sorting-out-the-basics-behind-sorting-algorithms-b0a032873add",
+        "fallback": "Medium: Sorting Out The Basics Behind Sorting Algorithms",
+        "text": "We\u2019ve covered a whole array (pun totally intended) of data structures in this series thus far, and so far, I\u2019ve really enjoyed exploring\u2026",
+        "title": "Sorting Out The Basics Behind Sorting Algorithms",
+        "title_link": "https://medium.com/basecs/sorting-out-the-basics-behind-sorting-algorithms-b0a032873add",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "12 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      },
+      {
+        "from_url": "https://www.geeksforgeeks.org/binary-search/",
+        "ts": 1390915356,
+        "thumb_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png",
+        "id": 2,
+        "original_url": "https://www.geeksforgeeks.org/binary-search/",
+        "fallback": "GeeksforGeeks: Binary Search - GeeksforGeeks",
+        "text": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+        "title": "Binary Search - GeeksforGeeks",
+        "title_link": "https://www.geeksforgeeks.org/binary-search/",
+        "service_name": "GeeksforGeeks"
+      },
+      {
+        "from_url": "https://www.youtube.com/watch?v=V_T5NuccwRA",
+        "thumb_url": "https://i.ytimg.com/vi/V_T5NuccwRA/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/V_T5NuccwRA?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"7.2 What is binary search | Binary Search Algorithm with example | Data structures\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 3,
+        "original_url": "https://www.youtube.com/watch?v=V_T5NuccwRA",
+        "fallback": "YouTube Video: 7.2 What is binary search | Binary Search Algorithm with example | Data structures",
+        "title": "7.2 What is binary search | Binary Search Algorithm with example | Data structures",
+        "title_link": "https://www.youtube.com/watch?v=V_T5NuccwRA",
+        "author_name": "Jenny's lectures CS/IT NET&JRF",
+        "author_link": "https://www.youtube.com/c/JennyslecturesCSITNETJRF",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03U1FNPEUX",
+          "U03UHB8CXDY"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b2a7d337-3670-47fb-ab4b-6de4156e6b5b",
+    "type": "message",
+    "text": "Please signup for the timed contest  <https://www.hackerrank.com/10-academy-batch-6-challenge-7|here>",
+    "user": "U03UKL27B0R",
+    "ts": "1665130235.396599",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MzJU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Please signup for the timed contest  "
+              },
+              {
+                "type": "link",
+                "url": "https://www.hackerrank.com/10-academy-batch-6-challenge-7",
+                "text": "here"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "85058b6ca368",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3961513756852_85058b6ca368839d0014_72.png",
+      "first_name": "Brittany",
+      "real_name": "Brittany Garcia",
+      "display_name": "Brittany Garcia",
+      "team": "T03U4J8HMUG",
+      "name": "Brittany",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.hackerrank.com/10-academy-batch-6-challenge-7",
+        "thumb_url": "https://hrcdn.net/og/default.jpg",
+        "thumb_width": 1200,
+        "thumb_height": 640,
+        "service_icon": "https://hrcdn.net/hackerrank/assets/apple-touch-icon-precomposed-c99b684c98b4befc43c47592bc900ebd95a0b1e9b9e5103b252c8b320432646d.png",
+        "id": 1,
+        "original_url": "https://www.hackerrank.com/10-academy-batch-6-challenge-7",
+        "fallback": "HackerRank: Join 10 Academy Batch 6 challenge 7 on HackerRank",
+        "text": "Please provide a short description of your contest here! This will also be used as metadata.",
+        "title": "Join 10 Academy Batch 6 challenge 7 on HackerRank",
+        "title_link": "https://www.hackerrank.com/10-academy-batch-6-challenge-7",
+        "service_name": "HackerRank"
+      }
+    ],
+    "thread_ts": "1665130235.396599",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1665136775.784549",
+    "reply_users": [
+      "U03UJH1EQQL",
+      "U03UFV7HFNF"
+    ],
+    "replies": [
+      {
+        "user": "U03UJH1EQQL",
+        "ts": "1665134528.643379"
+      },
+      {
+        "user": "U03UFV7HFNF",
+        "ts": "1665136690.634229"
+      },
+      {
+        "user": "U03UJH1EQQL",
+        "ts": "1665136775.784549"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "378d7f9e-f85a-4333-889a-31a3cc311f02",
+    "type": "message",
+    "text": "Hi <@U03UKL27B0R>,  I think <@U03UFV7HFNF> is out of network at this time, he text me SMS message that he is unable to work the timed contest. he told me to inform you on behalf of him.  Thanks!",
+    "user": "U03UJH1EQQL",
+    "ts": "1665134528.643379",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bnZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hi "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UKL27B0R"
+              },
+              {
+                "type": "text",
+                "text": ",  I think "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UFV7HFNF"
+              },
+              {
+                "type": "text",
+                "text": " is out of network at this time, he text me SMS message that he is unable to work the timed contest. he told me to inform you on behalf of him.  Thanks!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Kelly",
+      "real_name": "Kelly Soto",
+      "display_name": "Kelly Soto",
+      "team": "T03U4J8HMUG",
+      "name": "Kelly",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665130235.396599",
+    "parent_user_id": "U03UKL27B0R",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U03UKL27B0R"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "63468a60-e1ea-43f0-bd7c-62bbba6aab87",
+    "type": "message",
+    "text": "Thanks <@U03UJH1EQQL>",
+    "user": "U03UFV7HFNF",
+    "ts": "1665136690.634229",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KgS1l",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UJH1EQQL"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665130235.396599",
+    "parent_user_id": "U03UKL27B0R"
+  },
+  {
+    "client_msg_id": "4670e763-15d7-4fa8-8be1-35313bb3e773",
+    "type": "message",
+    "text": "okay back! good.",
+    "user": "U03UJH1EQQL",
+    "ts": "1665136775.784549",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uhC",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "okay back! good."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Kelly",
+      "real_name": "Kelly Soto",
+      "display_name": "Kelly Soto",
+      "team": "T03U4J8HMUG",
+      "name": "Kelly",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1665130235.396599",
+    "parent_user_id": "U03UKL27B0R"
+  },
+  {
+    "client_msg_id": "1bc4bdfb-2d70-439e-9d28-8acfd382400d",
+    "type": "message",
+    "text": "I always face the problem of my idea of solving the challenge is right but the code do not give the needed output",
+    "user": "U03V6HMRPGQ",
+    "ts": "1665137116.807999",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XpzW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I always face the problem of my idea of solving the challenge is right but the code do not give the needed output"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Cristian",
+      "real_name": "Cristian Wilson",
+      "display_name": "Cristian Wilson",
+      "team": "T03U4J8HMUG",
+      "name": "Cristian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03U1FNPEUX"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "1063892a-e986-4717-a714-3d0727ce8ee3",
+    "type": "message",
+    "text": "and I run out of time :smiling_face_with_tear:",
+    "user": "U03V6HMRPGQ",
+    "ts": "1665137135.884279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Phd5y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "and I run out of time "
+              },
+              {
+                "type": "emoji",
+                "name": "smiling_face_with_tear",
+                "unicode": "1f972"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Cristian",
+      "real_name": "Cristian Wilson",
+      "display_name": "Cristian Wilson",
+      "team": "T03U4J8HMUG",
+      "name": "Cristian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  }
+]

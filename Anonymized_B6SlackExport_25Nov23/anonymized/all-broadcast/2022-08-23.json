@@ -1,0 +1,492 @@
+[
+  {
+    "client_msg_id": "2448ace9-740c-4520-ba31-9d2e5d336e07",
+    "type": "message",
+    "text": "*1O ACADEMY BATCH 6 : SLACK WORKSPACE CHANNELS* \nWelcome to 10 Academy slack workspace. We will be using this platform to communicate with the trainees and share resources needed throughout the training. To have a well organized workspace, we have created different channels for specific purposes. The following are the list of channels in this workspace and their respective purposes:\n\n*<#C03U4J8J4LQ|all-broadcast> ;* This channel will be used for sharing important information and announcements such as weekly schedule, session reminders, leaderboard and so on. Only 10 Academy team can post on this channel.\n\n<#C03T89KDGA2|all-career-exercises>: This channel will be used for sharing career related issues and exercises. Trainees should adopt this channel to ask questions and share resources that are peculiar to Career. This channel is open for all trainees.\n\n<#C03T0AX4K6K|all-technical-support>: Trainees should adopt this channel to ask questions related to tenx platform, google classroom, google meet and slack platform.\n\n<#C03T89PMJKG|all-resources>: For easy easy access to resources shared, trainees should use this channel to share valuable resources such as books, videos, articles and so on.\n\n*<#C03TEQQS9NF|all-week1>* : This channel is used for asking questions related to week1 challenge. 10 Academy tutors will be available to answer your questions as fast as possible. However, trainees can also answer another trainee\u2019s questions - provided he/she is sure of the answer. In addition, trainees should answer questions in a thread so that the channel can be organized and other trainees can also benefit from such questions. Please note that we will always create a new channel weekly such as #all-week2, #all-week3 and so on.\n\n*<#C03T0APHX63|all-community-building>  :* This group was created with the objective of growing a formidable bond among batch 6 trainees and 10 Academy team. We will be using this channel for community building sessions, social and community building discussions.  This channel is open to all trainees.\n\n\n*<#C03TBUCU4UD|random>  :* This group is for discussions that are not related to the training such as choice of music, politics, football and so on.\n\nIt is imperative to inform all trainees to have mutual respect for fellow trainees and avoid use of offensive words.",
+    "user": "U03TEPYRM2P",
+    "ts": "1661240139.447569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hX=Bb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "1O ACADEMY BATCH 6 : SLACK WORKSPACE CHANNELS ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nWelcome to 10 Academy slack workspace. We will be using this platform to communicate with the trainees and share resources needed throughout the training. To have a well organized workspace, we have created different channels for specific purposes. The following are the list of channels in this workspace and their respective purposes:\n\n"
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03U4J8J4LQ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ; ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "This channel will be used for sharing important information and announcements such as weekly schedule, session reminders, leaderboard and so on. Only 10 Academy team can post on this channel.\n\n"
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03T89KDGA2"
+              },
+              {
+                "type": "text",
+                "text": ": This channel will be used for sharing career related issues and exercises. Trainees should adopt this channel to ask questions and share resources that are peculiar to Career. This channel is open for all trainees.\n\n"
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03T0AX4K6K"
+              },
+              {
+                "type": "text",
+                "text": ": Trainees should adopt this channel to ask questions related to tenx platform, google classroom, google meet and slack platform.\n\n"
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03T89PMJKG"
+              },
+              {
+                "type": "text",
+                "text": ": For easy easy access to resources shared, trainees should use this channel to share valuable resources such as books, videos, articles and so on.\n\n"
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03TEQQS9NF",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": ": This channel is used for asking questions related to week1 challenge. 10 Academy tutors will be available to answer your questions as fast as possible. However, trainees can also answer another trainee\u2019s questions - provided he/she is sure of the answer. In addition, trainees should answer questions in a thread so that the channel can be organized and other trainees can also benefit from such questions. Please note that we will always create a new channel weekly such as #all-week2, #all-week3 and so on.\n\n"
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03T0APHX63",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  : ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "This group was created with the objective of growing a formidable bond among batch 6 trainees and 10 Academy team. We will be using this channel for community building sessions, social and community building discussions.  This channel is open to all trainees.\n\n\n"
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03TBUCU4UD",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  :",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " This group is for discussions that are not related to the training such as choice of music, politics, football and so on.\n\nIt is imperative to inform all trainees to have mutual respect for fellow trainees and avoid use of offensive words."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Garrett",
+      "real_name": "Garrett Bell",
+      "display_name": "Garrett Bell",
+      "team": "T03U4J8HMUG",
+      "name": "Garrett",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03TEPYRM2P",
+      "ts": "1661240272.000000"
+    },
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7HFNF",
+          "U03U1HAG9TR",
+          "U03U9EJR362"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "50e58ae0-9051-476f-8f77-e1a1905baad9",
+    "type": "message",
+    "text": "*REMINDER!!!*  *<!here>*  <@U03V8LHPDME>\n\nToday's *standup*  will start in 10min! Join the meeting with the link below.\n:point_right: <http://meet.google.com/ysb-kjdn-hpp|meet.google.com/ysb-kjdn-hpp>",
+    "user": "U03V1AM5TFA",
+    "ts": "1661241000.717409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NBG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "REMINDER!!!",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U03V8LHPDME"
+              },
+              {
+                "type": "text",
+                "text": "\n\nToday's"
+              },
+              {
+                "type": "text",
+                "text": " standup",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  will start in 10min! Join the meeting with the link below.\n"
+              },
+              {
+                "type": "emoji",
+                "name": "point_right",
+                "unicode": "1f449"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "http://meet.google.com/ysb-kjdn-hpp",
+                "text": "meet.google.com/ysb-kjdn-hpp"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "34a9daa6-90ad-478c-880e-b7f882a0d73d",
+    "type": "message",
+    "text": "*Independent challenge work Reminder!! <!here>*\n*Please note that Independent Challenge Work is  in the next 10min*\n\u2022 *Session:* Independent challenge work (You will be working independently on today's challenge)\n\u2022 *Time*: From 2:00 PM - 8:00 PM UTC.\n",
+    "user": "U03V1AM5TFA",
+    "ts": "1661262600.303539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S5PTn",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Independent challenge work Reminder!! ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Please note that Independent Challenge Work is  in the next 10min",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Session: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Independent challenge work (You will be working independently on today's challenge)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": From 2:00 PM - 8:00 PM UTC."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UUMM7Y8H",
+          "U03UJN29Y4C"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0686d527-d8b2-486c-afa9-8f6bfd6dbe3e",
+    "type": "message",
+    "text": "WEEK 1 DAY 2 YOUTUBE LINKS:\nStand up: <https://youtu.be/-Ac3maNL8As>\n\nCareer Tutorial : <https://youtu.be/mRrvjjFvXhE>\n\nTechnical Tutorial : <https://youtu.be/J_6ZwHCT558>",
+    "user": "U03TEPYRM2P",
+    "ts": "1661272023.455939",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UJu9h",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "WEEK 1 DAY 2 YOUTUBE LINKS:\nStand up: "
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/-Ac3maNL8As"
+              },
+              {
+                "type": "text",
+                "text": "\n\nCareer Tutorial : "
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/mRrvjjFvXhE"
+              },
+              {
+                "type": "text",
+                "text": "\n\nTechnical Tutorial : "
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/J_6ZwHCT558"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Garrett",
+      "real_name": "Garrett Bell",
+      "display_name": "Garrett Bell",
+      "team": "T03U4J8HMUG",
+      "name": "Garrett",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/-Ac3maNL8As",
+        "thumb_url": "https://i.ytimg.com/vi/-Ac3maNL8As/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/-Ac3maNL8As?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"B6 W1 D2 Stand up\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/-Ac3maNL8As",
+        "fallback": "YouTube Video: B6 W1 D2 Stand up",
+        "title": "B6 W1 D2 Stand up",
+        "title_link": "https://youtu.be/-Ac3maNL8As",
+        "author_name": "10Academy",
+        "author_link": "https://www.youtube.com/channel/UCDwr854iwfpjDk1ESK5ofvQ",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      },
+      {
+        "from_url": "https://youtu.be/mRrvjjFvXhE",
+        "thumb_url": "https://i.ytimg.com/vi/mRrvjjFvXhE/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/mRrvjjFvXhE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"B6 W1 D2 Career Tutorial\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 2,
+        "original_url": "https://youtu.be/mRrvjjFvXhE",
+        "fallback": "YouTube Video: B6 W1 D2 Career Tutorial",
+        "title": "B6 W1 D2 Career Tutorial",
+        "title_link": "https://youtu.be/mRrvjjFvXhE",
+        "author_name": "10Academy",
+        "author_link": "https://www.youtube.com/channel/UCDwr854iwfpjDk1ESK5ofvQ",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      },
+      {
+        "from_url": "https://youtu.be/J_6ZwHCT558",
+        "thumb_url": "https://i.ytimg.com/vi/J_6ZwHCT558/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/J_6ZwHCT558?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"B6 W1 D2 Tutorial 1 - Exploratory Data Analysis and Insight Communication\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 3,
+        "original_url": "https://youtu.be/J_6ZwHCT558",
+        "fallback": "YouTube Video: B6 W1 D2 Tutorial 1 - Exploratory Data Analysis and Insight Communication",
+        "title": "B6 W1 D2 Tutorial 1 - Exploratory Data Analysis and Insight Communication",
+        "title_link": "https://youtu.be/J_6ZwHCT558",
+        "author_name": "10Academy",
+        "author_link": "https://www.youtube.com/channel/UCDwr854iwfpjDk1ESK5ofvQ",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7TUTV",
+          "U03U1FNPEUX",
+          "U03UD4FEDHB"
+        ],
+        "count": 3
+      }
+    ]
+  }
+]

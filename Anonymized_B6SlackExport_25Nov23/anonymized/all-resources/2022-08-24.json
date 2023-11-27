@@ -1,0 +1,786 @@
+[
+  {
+    "client_msg_id": "E64AD1FC-B864-4BA4-B12F-E849AA2AF810",
+    "type": "message",
+    "text": "Categorical Feature Encoding <https://towardsdatascience.com/categorical-feature-encoding-547707acf4e5|https://towardsdatascience.com/categorical-feature-encoding-547707acf4e5>",
+    "user": "U03V61VGQG0",
+    "ts": "1661324832.252079",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QZi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Categorical Feature Encoding "
+              },
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/categorical-feature-encoding-547707acf4e5",
+                "text": "https://towardsdatascience.com/categorical-feature-encoding-547707acf4e5"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5e18062f5298",
+      "image_72": "https://avatars.slack-edge.com/2022-08-29/3997574519670_5e18062f5298c6182ca5_72.jpg",
+      "first_name": "Paula",
+      "real_name": "Paula Bryant",
+      "display_name": "Paula Bryant",
+      "team": "T03U4J8HMUG",
+      "name": "Paula",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/categorical-feature-encoding-547707acf4e5",
+        "ts": 1609196847,
+        "image_url": "https://miro.medium.com/max/1200/1*kOHkIUWEnC1CLOgWEhZ3UQ.png",
+        "image_width": 391,
+        "image_height": 250,
+        "image_bytes": 1872228,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/categorical-feature-encoding-547707acf4e5",
+        "fallback": "Medium: Categorical Feature Encoding",
+        "text": "A beginner\u2019s guide to addressing categorical data in data science",
+        "title": "Categorical Feature Encoding",
+        "title_link": "https://towardsdatascience.com/categorical-feature-encoding-547707acf4e5",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "13 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UG4Q7V42"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "de92e7e5-5442-497d-9ab3-2d3fc5e3f8ab",
+    "type": "message",
+    "text": "A list of all the plots available in seaborn\n<https://seaborn.pydata.org/examples/index.html>",
+    "user": "U03U1HAG9TR",
+    "ts": "1661327168.042659",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MxZh",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "A list of all the plots available in seaborn\n"
+              },
+              {
+                "type": "link",
+                "url": "https://seaborn.pydata.org/examples/index.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4e4331305ef1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980783297649_4e4331305ef102cc4346_72.jpg",
+      "first_name": "Robert",
+      "real_name": "Robert Carter",
+      "display_name": "Robert Carter",
+      "team": "T03U4J8HMUG",
+      "name": "Robert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UFV7HFNF",
+          "U03UD68RQH3",
+          "U03UG4Q7V42",
+          "U03U9FWPNCE"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5ad2ed2a-809d-48e2-a9b7-076f98c4f47a",
+    "type": "message",
+    "text": "Has resources on everything you need to know about GitHub :point_down:\n<https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?WT.mc_id=reactor-slides_content-reactor>",
+    "user": "U03UD68RQH3",
+    "ts": "1661335461.942529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eAWY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Has resources on everything you need to know about GitHub "
+              },
+              {
+                "type": "emoji",
+                "name": "point_down",
+                "unicode": "1f447"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.microsoft.com/en-us/learn/modules/introduction-to-github/?WT.mc_id=reactor-slides_content-reactor"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "20cf1bb98890",
+      "image_72": "https://avatars.slack-edge.com/2022-09-19/4112933864561_20cf1bb98890146c716f_72.png",
+      "first_name": "Brady",
+      "real_name": "Brady Rhodes",
+      "display_name": "Brady Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Brady",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "7bc5cac2-08c7-4338-b967-3ba007785f67",
+    "type": "message",
+    "text": "<https://www.geeksforgeeks.org/python-pandas-dataframe/>",
+    "user": "U03U1FNPEUX",
+    "ts": "1661344777.401119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cBZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.geeksforgeeks.org/python-pandas-dataframe/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.geeksforgeeks.org/python-pandas-dataframe/",
+        "thumb_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+        "thumb_width": 200,
+        "thumb_height": 200,
+        "service_icon": "https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200.png",
+        "id": 1,
+        "original_url": "https://www.geeksforgeeks.org/python-pandas-dataframe/",
+        "fallback": "GeeksforGeeks: Python | Pandas DataFrame - GeeksforGeeks",
+        "text": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+        "title": "Python | Pandas DataFrame - GeeksforGeeks",
+        "title_link": "https://www.geeksforgeeks.org/python-pandas-dataframe/",
+        "service_name": "GeeksforGeeks"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG4Q7V42"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "18b90bbb-66a1-4ac0-9007-129dcf2039e2",
+    "type": "message",
+    "text": "<https://www.telecomreview.com/articles/reports-and-coverage/5263-data-in-telecom-key-asset-and-key-risk>",
+    "user": "U03V785NLSU",
+    "ts": "1661360250.025539",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "6ss",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.telecomreview.com/articles/reports-and-coverage/5263-data-in-telecom-key-asset-and-key-risk"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Ashley",
+      "real_name": "Ashley Hamilton",
+      "display_name": "Ashley Hamilton",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.telecomreview.com/articles/reports-and-coverage/5263-data-in-telecom-key-asset-and-key-risk",
+        "thumb_url": "https://www.telecomreview.com/images/stories/2021/08/Data_in_telecom__key_asset_and_key_risk-article.jpg",
+        "thumb_width": 900,
+        "thumb_height": 450,
+        "id": 1,
+        "original_url": "https://www.telecomreview.com/articles/reports-and-coverage/5263-data-in-telecom-key-asset-and-key-risk",
+        "fallback": "Data in telecom: key asset and key risk - Telecom Review",
+        "text": "The telecom industry keeps us globally connected via the phone, across the internet, over cables \u2014 anytime and anywhere. Mobile operators, satellite companies, internet providers, telephone corporations, and the infrastructure behind these organizations generate and collect a multitude of data on a regular basis.",
+        "title": "Data in telecom: key asset and key risk - Telecom Review",
+        "title_link": "https://www.telecomreview.com/articles/reports-and-coverage/5263-data-in-telecom-key-asset-and-key-risk",
+        "service_name": "telecomreview.com"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03U9FWPNCE",
+          "U03UG4Q7V42",
+          "U03UFV7TUTV",
+          "U03UJN29Y4C",
+          "U03U1HAG9TR"
+        ],
+        "count": 5
+      }
+    ]
+  },
+  {
+    "client_msg_id": "433229b8-a658-478e-8980-1dcc122ebcf3",
+    "type": "message",
+    "text": "<https://dimewiki.worldbank.org/Telecom_Data>",
+    "user": "U03V785NLSU",
+    "ts": "1661360290.796859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Sc9y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://dimewiki.worldbank.org/Telecom_Data"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Ashley",
+      "real_name": "Ashley Hamilton",
+      "display_name": "Ashley Hamilton",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "ff10c65a-cd6f-428a-8c91-b39332844f79",
+    "type": "message",
+    "text": "I found those two useful in writing reports to understand why telecom data is useful to the investor.",
+    "user": "U03V785NLSU",
+    "ts": "1661360325.975089",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ePAd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I found those two useful in writing reports to understand why telecom data is useful to the investor."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Ashley",
+      "real_name": "Ashley Hamilton",
+      "display_name": "Ashley Hamilton",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03V785NLSU",
+      "ts": "1661361789.000000"
+    }
+  },
+  {
+    "client_msg_id": "2ac5a827-f435-492c-8c3a-f451c40fe6d3",
+    "type": "message",
+    "text": "<https://hackersandslackers.com/connecting-pandas-to-a-sql-database-with-sqlalchemy/>",
+    "user": "U03UG32J3PC",
+    "ts": "1661369730.945869",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d=b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hackersandslackers.com/connecting-pandas-to-a-sql-database-with-sqlalchemy/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "April",
+      "real_name": "April Lucas",
+      "display_name": "April Lucas",
+      "team": "T03U4J8HMUG",
+      "name": "April",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://hackersandslackers.com/connecting-pandas-to-a-sql-database-with-sqlalchemy/",
+        "ts": 1530640980,
+        "image_url": "https://cdn.hackersandslackers.com/2020/11/pandas-sqlalchemy.jpg",
+        "image_width": 434,
+        "image_height": 250,
+        "image_bytes": 429616,
+        "service_icon": "https://hackersandslackers.com/icons/icon-72x72.png",
+        "id": 1,
+        "original_url": "https://hackersandslackers.com/connecting-pandas-to-a-sql-database-with-sqlalchemy/",
+        "fallback": "Hackers and Slackers: Connecting Pandas to a Database with SQLAlchemy",
+        "text": "Save Pandas DataFrames into SQL database tables, or create DataFrames from SQL using Pandas' built-in SQLAlchemy integration.",
+        "title": "Connecting Pandas to a Database with SQLAlchemy",
+        "title_link": "https://hackersandslackers.com/connecting-pandas-to-a-sql-database-with-sqlalchemy/",
+        "service_name": "Hackers and Slackers",
+        "fields": [
+          {
+            "value": "Todd Birchard",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "Pandas",
+            "title": "Filed under",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e88e7a6a-4c35-4664-8a2f-560c873de8b6",
+    "type": "message",
+    "text": "<https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.euclidean_distances.html>",
+    "user": "U03UUR571A5",
+    "ts": "1661370097.015529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OSzO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.euclidean_distances.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.euclidean_distances.html",
+        "image_url": "https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png",
+        "image_width": 160,
+        "image_height": 58,
+        "image_bytes": 5468,
+        "service_icon": "https://scikit-learn.org/stable/_static/favicon.ico",
+        "id": 1,
+        "original_url": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.euclidean_distances.html",
+        "fallback": "scikit-learn: sklearn.metrics.pairwise.euclidean_distances",
+        "title": "sklearn.metrics.pairwise.euclidean_distances",
+        "title_link": "https://scikit-learn.org/stable/modules/generated/sklearn.metrics.pairwise.euclidean_distances.html",
+        "service_name": "scikit-learn"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "3232f9b4-37b1-4d09-8377-7316faa032b8",
+    "type": "message",
+    "text": "<https://medium.com/machine-learning-algorithms-from-scratch/k-means-clustering-from-scratch-in-python-1675d38eee42>",
+    "user": "U03U9EJR362",
+    "ts": "1661375483.678719",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jP0kB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/machine-learning-algorithms-from-scratch/k-means-clustering-from-scratch-in-python-1675d38eee42"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Nicholas",
+      "real_name": "Nicholas Friedman",
+      "display_name": "Nicholas Friedman",
+      "team": "T03U4J8HMUG",
+      "name": "Nicholas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/machine-learning-algorithms-from-scratch/k-means-clustering-from-scratch-in-python-1675d38eee42",
+        "ts": 1546009933,
+        "image_url": "https://miro.medium.com/max/735/1*PVpkK1-V9AIwtiLHasIppA.png",
+        "image_width": 442,
+        "image_height": 250,
+        "image_bytes": 27923,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/machine-learning-algorithms-from-scratch/k-means-clustering-from-scratch-in-python-1675d38eee42",
+        "fallback": "Medium: K-means Clustering from Scratch in Python",
+        "text": "In this article, we shall be covering the role of unsupervised learning algorithms, their applications, and K-means clustering approach. On\u2026",
+        "title": "K-means Clustering from Scratch in Python",
+        "title_link": "https://medium.com/machine-learning-algorithms-from-scratch/k-means-clustering-from-scratch-in-python-1675d38eee42",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "15 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "03dfc610-d9d4-442e-9263-356cd206ba94",
+    "type": "message",
+    "text": "Modelling Linear Regression:\n<https://medium.com/@datasciencewizards/end-to-end-linear-regression-modelling-3a1bc5b78d6e>",
+    "user": "U03U9EJR362",
+    "ts": "1661376775.369919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "XHP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Modelling Linear Regression:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://medium.com/@datasciencewizards/end-to-end-linear-regression-modelling-3a1bc5b78d6e"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Nicholas",
+      "real_name": "Nicholas Friedman",
+      "display_name": "Nicholas Friedman",
+      "team": "T03U4J8HMUG",
+      "name": "Nicholas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://medium.com/@datasciencewizards/end-to-end-linear-regression-modelling-3a1bc5b78d6e",
+        "ts": 1659509448,
+        "image_url": "https://miro.medium.com/max/1200/0*GPD0QWbIXsff4UXz",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 712316,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://medium.com/@datasciencewizards/end-to-end-linear-regression-modelling-3a1bc5b78d6e",
+        "fallback": "Medium: End-to-End Linear Regression Modelling",
+        "text": "Linear regression models/algorithms are one of the most basic techniques we use to find out relationships between data variables",
+        "title": "End-to-End Linear Regression Modelling",
+        "title_link": "https://medium.com/@datasciencewizards/end-to-end-linear-regression-modelling-3a1bc5b78d6e",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "10 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1661376775.369919",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1661381381.387889",
+    "reply_users": [
+      "U03UFV7TUTV"
+    ],
+    "replies": [
+      {
+        "user": "U03UFV7TUTV",
+        "ts": "1661381381.387889"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "8667f272-acd5-4e3c-a528-5e6453f1bc6c",
+    "type": "message",
+    "text": "thanks",
+    "user": "U03UFV7TUTV",
+    "ts": "1661381381.387889",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p6e0/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thanks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g2d3549811da",
+      "image_72": "https://secure.gravatar.com/avatar/2d3549811dae404f2ab1ffd6d153680c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-72.png",
+      "first_name": "Anthony",
+      "real_name": "Anthony Galloway",
+      "display_name": "Anthony Galloway",
+      "team": "T03U4J8HMUG",
+      "name": "Anthony",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1661376775.369919",
+    "parent_user_id": "U03U9EJR362",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03U9EJR362"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "77ff1e92-cefd-4009-a65a-c931c304991f",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/k-means-clustering-with-scikit-learn-6b47a369a83c#:~:text=K%2Dmeans%20clustering%20using%20scikit%2Dlearn&amp;text=We%20set%20n_init%3D10%20to,run%20(here%2C%20300%20)|https://towardsdatascience.com/k-means-clustering-with-scikit-learn-6b47a369a83c#:~:text=K%2Dmeans%20clustering%20using%20scikit%2Dlearn&amp;text=We%20set%20n_init%3D10%20to,run%20(here%2C%20300%20)>.",
+    "user": "U03UJGRN5E0",
+    "ts": "1661399962.642589",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FRBe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/k-means-clustering-with-scikit-learn-6b47a369a83c#:~:text=K%2Dmeans%20clustering%20using%20scikit%2Dlearn&text=We%20set%20n_init%3D10%20to,run%20(here%2C%20300%20)",
+                "text": "https://towardsdatascience.com/k-means-clustering-with-scikit-learn-6b47a369a83c#:~:text=K%2Dmeans%20clustering%20using%20scikit%2Dlearn&text=We%20set%20n_init%3D10%20to,run%20(here%2C%20300%20)"
+              },
+              {
+                "type": "text",
+                "text": "."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Katie",
+      "real_name": "Katie Dickerson",
+      "display_name": "Katie Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Katie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/k-means-clustering-with-scikit-learn-6b47a369a83c#:~:text=K%2Dmeans%20clustering%20using%20scikit%2Dlearn&text=We%20set%20n_init%3D10%20to,run%20(here%2C%20300%20)",
+        "ts": 1559612930,
+        "image_url": "https://miro.medium.com/max/1000/1*0DDt5Xp9z6ecj5eL6FNAfQ.png",
+        "image_width": 595,
+        "image_height": 250,
+        "image_bytes": 121089,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/k-means-clustering-with-scikit-learn-6b47a369a83c#:~:text=K%2Dmeans%20clustering%20using%20scikit%2Dlearn&amp;text=We%20set%20n_init%3D10%20to,run%20(here%2C%20300%20)",
+        "fallback": "Medium: K-Means Clustering with scikit-learn",
+        "text": "Learn the fundamentals and mathematics behind the popular k-means clustering algorithm and how to implement it in scikit-learn!",
+        "title": "K-Means Clustering with scikit-learn",
+        "title_link": "https://towardsdatascience.com/k-means-clustering-with-scikit-learn-6b47a369a83c#:~:text=K%2Dmeans%20clustering%20using%20scikit%2Dlearn&text=We%20set%20n_init%3D10%20to,run%20(here%2C%20300%20)",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UG4Q7V42"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

@@ -1,0 +1,2136 @@
+[
+  {
+    "client_msg_id": "dcd244b5-2791-438f-a983-b45dc7e8a2f9",
+    "type": "message",
+    "text": "<https://hevodata.com/learn/kafka-clusters/#:~:text=A%20Kafka%20cluster%20is%20a,Broker>",
+    "user": "U03UJGRN5E0",
+    "ts": "1664787044.569789",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "m2s",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hevodata.com/learn/kafka-clusters/#:~:text=A%20Kafka%20cluster%20is%20a,Broker"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Katie",
+      "real_name": "Katie Dickerson",
+      "display_name": "Katie Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Katie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://hevodata.com/learn/kafka-clusters/#:~:text=A%20Kafka%20cluster%20is%20a,Broker",
+        "ts": 1648620996,
+        "image_url": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1642485996/hevo-learn/Kafka-Clusters-Featured-Image/Kafka-Clusters-Featured-Image.png?_i=AA",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 84797,
+        "service_icon": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1587655389/logo-8/logo-8.png?_i=AA",
+        "id": 1,
+        "original_url": "https://hevodata.com/learn/kafka-clusters/#:~:text=A%20Kafka%20cluster%20is%20a,Broker",
+        "fallback": "Learn | Hevo: Kafka Clusters Architecture 101: A Comprehensive Guide - Learn | Hevo",
+        "text": "This article provides a complete guide to effectively understand the Apache Kafka Clusters Architecture.",
+        "title": "Kafka Clusters Architecture 101: A Comprehensive Guide - Learn | Hevo",
+        "title_link": "https://hevodata.com/learn/kafka-clusters/#:~:text=A%20Kafka%20cluster%20is%20a,Broker",
+        "service_name": "Learn | Hevo",
+        "fields": [
+          {
+            "value": "Preetipadma Khandavilli",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "11 minutes",
+            "title": "Time to read",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "77711919-f9ff-43d9-8f73-8843561b9b53",
+    "type": "message",
+    "text": "<https://kafka.apache.org/documentation/#configuration>",
+    "user": "U03UUR571A5",
+    "ts": "1664787088.053169",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "U6vwa",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://kafka.apache.org/documentation/#configuration"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://kafka.apache.org/documentation/#configuration",
+        "image_url": "http://apache-kafka.org/images/apache-kafka.png",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 38902,
+        "service_icon": "https://kafka.apache.org/images/apache_feather.gif",
+        "id": 1,
+        "original_url": "https://kafka.apache.org/documentation/#configuration",
+        "fallback": "Apache Kafka",
+        "text": "Apache Kafka: A Distributed Streaming Platform.",
+        "title": "Apache Kafka",
+        "title_link": "https://kafka.apache.org/documentation/#configuration",
+        "service_name": "kafka.apache.org"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fb891d53-de69-4ac0-b65a-c50309d8c49c",
+    "type": "message",
+    "text": "<https://kafka.apache.org/intro>",
+    "user": "U03UFV7HFNF",
+    "ts": "1664787309.519529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jfKqy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://kafka.apache.org/intro"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://kafka.apache.org/intro",
+        "image_url": "http://apache-kafka.org/images/apache-kafka.png",
+        "image_width": 250,
+        "image_height": 250,
+        "image_bytes": 38902,
+        "service_icon": "https://kafka.apache.org/images/apache_feather.gif",
+        "id": 1,
+        "original_url": "https://kafka.apache.org/intro",
+        "fallback": "Apache Kafka",
+        "text": "Apache Kafka: A Distributed Streaming Platform.",
+        "title": "Apache Kafka",
+        "title_link": "https://kafka.apache.org/intro",
+        "service_name": "kafka.apache.org"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e081fc2a-d528-4fa2-931b-ea79e374a2e7",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=06iRM1Ghr1k|https://www.youtube.com/watch?v=06iRM1Ghr1k>",
+    "user": "U03UG0YHAUT",
+    "ts": "1664787650.574469",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LcrR8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=06iRM1Ghr1k",
+                "text": "https://www.youtube.com/watch?v=06iRM1Ghr1k"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Brown",
+      "display_name": "Daniel Brown",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=06iRM1Ghr1k",
+        "thumb_url": "https://i.ytimg.com/vi/06iRM1Ghr1k/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/06iRM1Ghr1k?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"What is Apache Kafka\u00ae? (A Confluent Lightboard by Tim Berglund) + ksqlDB\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=06iRM1Ghr1k",
+        "fallback": "YouTube Video: What is Apache Kafka\u00ae? (A Confluent Lightboard by Tim Berglund) + ksqlDB",
+        "title": "What is Apache Kafka\u00ae? (A Confluent Lightboard by Tim Berglund) + ksqlDB",
+        "title_link": "https://www.youtube.com/watch?v=06iRM1Ghr1k",
+        "author_name": "Confluent",
+        "author_link": "https://www.youtube.com/c/Confluent",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "afa1fc37-b601-4daa-a985-e9734116ea3b",
+    "type": "message",
+    "text": "<https://dzone.com/articles/processing-large-messages-with-apache-kafka>",
+    "user": "U03UJH1EQQL",
+    "ts": "1664793465.002249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CyR9t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://dzone.com/articles/processing-large-messages-with-apache-kafka"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Kelly",
+      "real_name": "Kelly Soto",
+      "display_name": "Kelly Soto",
+      "team": "T03U4J8HMUG",
+      "name": "Kelly",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://dzone.com/articles/processing-large-messages-with-apache-kafka",
+        "image_url": "https://dz2cdn1.dzone.com/storage/article-thumb/13841200-thumb.jpg",
+        "image_width": 400,
+        "image_height": 250,
+        "image_bytes": 41730,
+        "service_icon": "https://dz2cdn3.dzone.com/themes/dz20/images/favicon.png",
+        "id": 1,
+        "original_url": "https://dzone.com/articles/processing-large-messages-with-apache-kafka",
+        "fallback": "dzone.com: Processing Large Messages With Apache Kafka - DZone Big Data",
+        "text": "Kafka wasn't built for large messages, but files and payloads keep getting bigger. This article covers use cases, architectures, and trade-offs with Kafka.",
+        "title": "Processing Large Messages With Apache Kafka - DZone Big Data",
+        "title_link": "https://dzone.com/articles/processing-large-messages-with-apache-kafka",
+        "service_name": "dzone.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e23f01c5-3b08-4b23-8201-c45ba75ef84d",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=AHMm1wfGuHE&amp;t=162s>",
+    "user": "U03UG1Z21JP",
+    "ts": "1664794353.123049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tehd",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=AHMm1wfGuHE&t=162s"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Foley",
+      "display_name": "Jennifer Foley",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=AHMm1wfGuHE&amp;t=162s",
+        "thumb_url": "https://i.ytimg.com/vi/AHMm1wfGuHE/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/AHMm1wfGuHE?feature=oembed&start=162&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Airflow tutorial 1: Introduction to Apache Airflow\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 300,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=AHMm1wfGuHE&amp;t=162s",
+        "fallback": "YouTube Video: Airflow tutorial 1: Introduction to Apache Airflow",
+        "title": "Airflow tutorial 1: Introduction to Apache Airflow",
+        "title_link": "https://www.youtube.com/watch?v=AHMm1wfGuHE&amp;t=162s",
+        "author_name": "Tuan Vu",
+        "author_link": "https://www.youtube.com/channel/UCiWjUAmiF3v91NbHOKuPNow",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "c71c7927-a1a4-437a-9820-057ffd232764",
+    "type": "message",
+    "text": "Apache kafka\n<https://www.youtube.com/watch?v=PzPXRmVHMxI>",
+    "user": "U03U9EJR362",
+    "ts": "1664794654.871499",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "txT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Apache kafka\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=PzPXRmVHMxI"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Nicholas",
+      "real_name": "Nicholas Friedman",
+      "display_name": "Nicholas Friedman",
+      "team": "T03U4J8HMUG",
+      "name": "Nicholas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=PzPXRmVHMxI",
+        "thumb_url": "https://i.ytimg.com/vi/PzPXRmVHMxI/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/PzPXRmVHMxI?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Apache Kafka in 5 minutes\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=PzPXRmVHMxI",
+        "fallback": "YouTube Video: Apache Kafka in 5 minutes",
+        "title": "Apache Kafka in 5 minutes",
+        "title_link": "https://www.youtube.com/watch?v=PzPXRmVHMxI",
+        "author_name": "Stephane Maarek",
+        "author_link": "https://www.youtube.com/c/StephaneMaarek",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "26276bbe-19bc-43d2-820f-8ae858ef2aca",
+    "type": "message",
+    "text": "<https://jtst.ibsu.edu.ge/jms/index.php/jtst/article/view/80|https://jtst.ibsu.edu.ge/jms/index.php/jtst/article/view/80>",
+    "user": "U03UG4Q7V42",
+    "ts": "1664794889.925439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NHkx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://jtst.ibsu.edu.ge/jms/index.php/jtst/article/view/80",
+                "text": "https://jtst.ibsu.edu.ge/jms/index.php/jtst/article/view/80"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Phillip",
+      "real_name": "Phillip Atkins",
+      "display_name": "Phillip Atkins",
+      "team": "T03U4J8HMUG",
+      "name": "Phillip",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "32655ac1-001f-414b-966b-a3b2ae8f7165",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=UNUz1-msbOM>",
+    "user": "U03UG1Z21JP",
+    "ts": "1664795383.566189",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7ajDy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=UNUz1-msbOM"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "a1d3d501dd5d",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3961568205638_a1d3d501dd5d3f7ebea3_72.jpg",
+      "first_name": "Jennifer",
+      "real_name": "Jennifer Foley",
+      "display_name": "Jennifer Foley",
+      "team": "T03U4J8HMUG",
+      "name": "Jennifer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=UNUz1-msbOM",
+        "thumb_url": "https://i.ytimg.com/vi/UNUz1-msbOM/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/UNUz1-msbOM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"System Design: Why is Kafka fast?\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=UNUz1-msbOM",
+        "fallback": "YouTube Video: System Design: Why is Kafka fast?",
+        "title": "System Design: Why is Kafka fast?",
+        "title_link": "https://www.youtube.com/watch?v=UNUz1-msbOM",
+        "author_name": "ByteByteGo",
+        "author_link": "https://www.youtube.com/c/ByteByteGo",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "abc3c5ad-3fb3-41b9-a543-b51a0d062599",
+    "type": "message",
+    "text": "What is Object-Oriented Programming (OOP)? (<http://techtarget.com|techtarget.com><https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP#:~:text=Object%2Doriented%20programming%20(OOP)%20is%20a%20computer%20programming%20model,has%20unique%20attributes%20and%20behavior.|)>",
+    "user": "U03V785NLSU",
+    "ts": "1664795546.759529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OL=c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "What is Object-Oriented Programming (OOP)? ("
+              },
+              {
+                "type": "link",
+                "url": "http://techtarget.com",
+                "text": "techtarget.com"
+              },
+              {
+                "type": "link",
+                "url": "https://www.techtarget.com/searchapparchitecture/definition/object-oriented-programming-OOP#:~:text=Object%2Doriented%20programming%20(OOP)%20is%20a%20computer%20programming%20model,has%20unique%20attributes%20and%20behavior.",
+                "text": ")"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Ashley",
+      "real_name": "Ashley Hamilton",
+      "display_name": "Ashley Hamilton",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "9f75f92c-ea02-4973-8dca-8f758f4471ac",
+    "type": "message",
+    "text": "<https://acloudguru.com/hands-on-labs/installing-a-kafka-cluster-and-creating-a-topic>",
+    "user": "U03V785NLSU",
+    "ts": "1664795669.522849",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tRWYS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://acloudguru.com/hands-on-labs/installing-a-kafka-cluster-and-creating-a-topic"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Ashley",
+      "real_name": "Ashley Hamilton",
+      "display_name": "Ashley Hamilton",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://acloudguru.com/hands-on-labs/installing-a-kafka-cluster-and-creating-a-topic",
+        "service_icon": "https://acloudguru.com/app/themes/kaleidoscope/assets/icons/apple-icon-57x57.png?x24769",
+        "id": 1,
+        "original_url": "https://acloudguru.com/hands-on-labs/installing-a-kafka-cluster-and-creating-a-topic",
+        "fallback": "A Cloud Guru: Installing a Kafka Cluster and Creating a Topic",
+        "text": "Use our hands-on labs for installing a Kafka Cluster and creating a topic to become a GURU. Start your free trial today!",
+        "title": "Installing a Kafka Cluster and Creating a Topic",
+        "title_link": "https://acloudguru.com/hands-on-labs/installing-a-kafka-cluster-and-creating-a-topic",
+        "service_name": "A Cloud Guru"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "500fcb3b-30eb-48ac-9f8c-43e8fc9437a4",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=65lHphtrfo0>",
+    "user": "U03UHB8CXDY",
+    "ts": "1664798238.019509",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "M3n0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=65lHphtrfo0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Yvonne",
+      "real_name": "Yvonne Gonzalez",
+      "display_name": "Yvonne Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Yvonne",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=65lHphtrfo0",
+        "thumb_url": "https://i.ytimg.com/vi/65lHphtrfo0/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/65lHphtrfo0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Apache Kafka with Spark Streaming | Kafka Spark Streaming Examples | Kafka Training | Edureka\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=65lHphtrfo0",
+        "fallback": "YouTube Video: Apache Kafka with Spark Streaming | Kafka Spark Streaming Examples | Kafka Training | Edureka",
+        "title": "Apache Kafka with Spark Streaming | Kafka Spark Streaming Examples | Kafka Training | Edureka",
+        "title_link": "https://www.youtube.com/watch?v=65lHphtrfo0",
+        "author_name": "edureka!",
+        "author_link": "https://www.youtube.com/c/edurekaIN",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "27b64227-5b74-434b-938f-f7b95c17ca8a",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=v45p_kJV9i4>",
+    "user": "U03U1FNPEUX",
+    "ts": "1664800165.306979",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NhY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=v45p_kJV9i4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "37a12a7dbb92",
+      "image_72": "https://avatars.slack-edge.com/2022-09-09/4058043481011_37a12a7dbb926b2c9c86_72.png",
+      "first_name": "Joshua",
+      "real_name": "Joshua Rhodes",
+      "display_name": "Joshua Rhodes",
+      "team": "T03U4J8HMUG",
+      "name": "Joshua",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=v45p_kJV9i4",
+        "thumb_url": "https://i.ytimg.com/vi/v45p_kJV9i4/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/v45p_kJV9i4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Learn SSH In 6 Minutes - Beginners Guide to SSH Tutorial\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=v45p_kJV9i4",
+        "fallback": "YouTube Video: Learn SSH In 6 Minutes - Beginners Guide to SSH Tutorial",
+        "title": "Learn SSH In 6 Minutes - Beginners Guide to SSH Tutorial",
+        "title_link": "https://www.youtube.com/watch?v=v45p_kJV9i4",
+        "author_name": "codebubb",
+        "author_link": "https://www.youtube.com/c/codebubb",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "bdc7a2ee-5b02-475a-8ca5-154db3a91d85",
+    "type": "message",
+    "text": "<https://jamboard.google.com/d/1Cgl7l9QGB7kANCdKvUPj2ftn2kLY1TWWi4khPi0CAlE/viewer>",
+    "user": "U03UUS0MZCZ",
+    "ts": "1664805062.261599",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZbQ4g",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://jamboard.google.com/d/1Cgl7l9QGB7kANCdKvUPj2ftn2kLY1TWWi4khPi0CAlE/viewer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4dd67341a549",
+      "image_72": "https://avatars.slack-edge.com/2022-10-25/4268232309942_4dd67341a5490ee7721b_72.jpg",
+      "first_name": "Jodi",
+      "real_name": "Jodi Lyons",
+      "display_name": "Jodi Lyons",
+      "team": "T03U4J8HMUG",
+      "name": "Jodi",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "386e22cb-a096-4be8-b2e4-6a69e3838b07",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=SQuh7CI1DV8>",
+    "user": "U03UJGRN5E0",
+    "ts": "1664812420.159439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "EJJE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=SQuh7CI1DV8"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "35b05758f532",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4156429070997_35b05758f532bdef5b5f_72.jpg",
+      "first_name": "Katie",
+      "real_name": "Katie Dickerson",
+      "display_name": "Katie Dickerson",
+      "team": "T03U4J8HMUG",
+      "name": "Katie",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=SQuh7CI1DV8",
+        "thumb_url": "https://i.ytimg.com/vi/SQuh7CI1DV8/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/SQuh7CI1DV8?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Running your First Kafka Streams Application\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=SQuh7CI1DV8",
+        "fallback": "YouTube Video: Running your First Kafka Streams Application",
+        "title": "Running your First Kafka Streams Application",
+        "title_link": "https://www.youtube.com/watch?v=SQuh7CI1DV8",
+        "author_name": "Stephane Maarek",
+        "author_link": "https://www.youtube.com/c/StephaneMaarek",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "625a9c5d-ff11-4d2d-ab53-282fad6f8a1a",
+    "type": "message",
+    "text": "<https://dev.to/florimondmanca/streaming-applications-with-apache-kafka-the-opening-58f0>",
+    "user": "U03UUR571A5",
+    "ts": "1664815901.988319",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oVvb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://dev.to/florimondmanca/streaming-applications-with-apache-kafka-the-opening-58f0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://dev.to/florimondmanca/streaming-applications-with-apache-kafka-the-opening-58f0",
+        "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s---TFF0Ir1--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://images.unsplash.com/photo-1533557603879-ebdd7a92e4e8%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D6d08c991169da5df017efdbedb195909%26auto%3Dformat%26fit%3Dcrop%26w%3D1050%26q%3D80",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 66648,
+        "service_icon": "https://res.cloudinary.com/practicaldev/image/fetch/s--gDM0_LTS--/c_limit,f_png,fl_progressive,q_80,w_180/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
+        "id": 1,
+        "original_url": "https://dev.to/florimondmanca/streaming-applications-with-apache-kafka-the-opening-58f0",
+        "fallback": "DEV Community \ud83d\udc69\ud83d\udcbb\ud83d\udc68\ud83d\udcbb: Streaming Applications with Apache Kafka: The Opening",
+        "text": "I'm starting a series on building streaming apps with Apache Kafka \u2014 here's why.",
+        "title": "Streaming Applications with Apache Kafka: The Opening",
+        "title_link": "https://dev.to/florimondmanca/streaming-applications-with-apache-kafka-the-opening-58f0",
+        "service_name": "DEV Community \ud83d\udc69\ud83d\udcbb\ud83d\udc68\ud83d\udcbb"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "a478e3ba-9aad-4f5f-862d-ddec8ed90051",
+    "type": "message",
+    "text": "<https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1>",
+    "user": "U03UUR571A5",
+    "ts": "1664816005.128439",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zS7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1",
+        "image_url": "https://cdn.hackernoon.com/fallback-feat.png",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 12796,
+        "service_icon": "https://hackernoon.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1",
+        "fallback": "Thorough Introduction to Apache Kafka\u2122 | HackerNoon",
+        "text": "Kafka is a word that gets heard a lot nowadays\u2026 A lot of leading digital companies seem to use it as well. But what is it actually?",
+        "title": "Thorough Introduction to Apache Kafka\u2122 | HackerNoon",
+        "title_link": "https://hackernoon.com/thorough-introduction-to-apache-kafka-6fbf2989bbc1",
+        "service_name": "hackernoon.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "fdb0443d-ca3b-466f-bb88-4f109d39dd4e",
+    "type": "message",
+    "text": "<https://www.confluent.io/apache-kafka-stream-processing-book-bundle/>",
+    "user": "U03UUR571A5",
+    "ts": "1664816212.151489",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "slr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.confluent.io/apache-kafka-stream-processing-book-bundle/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.confluent.io/apache-kafka-stream-processing-book-bundle/",
+        "thumb_url": "https://cdn.confluent.io/wp-content/uploads/seo-logo-meadow.png",
+        "thumb_width": 748,
+        "thumb_height": 748,
+        "service_icon": "https://www.confluent.io/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.confluent.io/apache-kafka-stream-processing-book-bundle/",
+        "fallback": "Confluent: Apache Kafka and Stream Processing O\u2019Reilly Book Bundle",
+        "text": "Get this 4-book bundle to help you understand the principles behind Apache Kafka and learn best practices for deploying Apache Kafka in production.",
+        "title": "Apache Kafka and Stream Processing O\u2019Reilly Book Bundle",
+        "title_link": "https://www.confluent.io/apache-kafka-stream-processing-book-bundle/",
+        "service_name": "Confluent"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "e4d8968a-a8ab-45bb-9921-05fa6945e023",
+    "type": "message",
+    "text": "<https://sparkbyexamples.com/spark/spark-streaming-with-kafka/>",
+    "user": "U03UD4FEDHB",
+    "ts": "1664817084.052139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=bEN2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://sparkbyexamples.com/spark/spark-streaming-with-kafka/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g48fef055f8a",
+      "image_72": "https://secure.gravatar.com/avatar/48fef055f8a8b8a4c0bcfefbf5e3eec3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Michael",
+      "real_name": "Michael Gonzalez",
+      "display_name": "Michael Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Michael",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "b1cfef1f-ee1c-4d02-82a4-6e93d0e21aaa",
+    "type": "message",
+    "text": "<https://docs.confluent.io/5.4.4/streams/kafka-streams-examples/docs/index.html>",
+    "user": "U03UHB8CXDY",
+    "ts": "1664817272.052569",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WqR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.confluent.io/5.4.4/streams/kafka-streams-examples/docs/index.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Yvonne",
+      "real_name": "Yvonne Gonzalez",
+      "display_name": "Yvonne Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Yvonne",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "28f18631-897f-49de-b2bc-1d3e6eb234c0",
+    "type": "message",
+    "text": "For people using Ubuntu and struggling to share their full screen on Gmeet.\n\nThis worked for me:\n<https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/>",
+    "user": "U03UJKJGRAQ",
+    "ts": "1664821341.977139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "scv2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "For people using Ubuntu and struggling to share their full screen on Gmeet.\n\nThis worked for me:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3d318a55b9e2",
+      "image_72": "https://avatars.slack-edge.com/2022-10-03/4158852852038_3d318a55b9e221ad2cb3_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Odom",
+      "display_name": "Brian Odom",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/",
+        "ts": 1651088038,
+        "image_url": "https://www.freecodecamp.org/news/content/images/2022/04/Fix---1-.png",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 2823068,
+        "service_icon": "https://cdn.freecodecamp.org/universal/favicons/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/",
+        "fallback": "freeCodeCamp.org: How to Fix Google Chrome Black Screen on Linux OS (Wayland)",
+        "text": "If you are a Linux user, then you've likely used the GNOME Desktop Environment at least once. The latest GNOME DE (Desktop Environment) uses Wayland nowadays. And while it's possible to remove Wayland and select Xorg if you want, most users are starting to use Wayland as their daily driver.",
+        "title": "How to Fix Google Chrome Black Screen on Linux OS (Wayland)",
+        "title_link": "https://www.freecodecamp.org/news/how-to-fix-black-screen-on-google-chrome-on-linux-os/",
+        "service_name": "freeCodeCamp.org",
+        "fields": [
+          {
+            "value": "Md. Fahim Bin Amin",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "Linux, Chrome, Problem Solving",
+            "title": "Filed under",
+            "short": true
+          }
+        ]
+      }
+    ],
+    "thread_ts": "1664821341.977139",
+    "reply_count": 5,
+    "reply_users_count": 4,
+    "latest_reply": "1664859958.201299",
+    "reply_users": [
+      "U03UVHCV6KB",
+      "U03V6HMRPGQ",
+      "U03UJKJGRAQ",
+      "U03UH397319"
+    ],
+    "replies": [
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1664821542.408929"
+      },
+      {
+        "user": "U03V6HMRPGQ",
+        "ts": "1664826977.452029"
+      },
+      {
+        "user": "U03UVHCV6KB",
+        "ts": "1664827140.726039"
+      },
+      {
+        "user": "U03UJKJGRAQ",
+        "ts": "1664828311.856179"
+      },
+      {
+        "user": "U03UH397319",
+        "ts": "1664859958.201299"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false
+  },
+  {
+    "client_msg_id": "6593bb41-1f08-4f55-b7f2-c9c1e7c3530e",
+    "type": "message",
+    "text": "Thank you, this is so considerate",
+    "user": "U03UVHCV6KB",
+    "ts": "1664821542.408929",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "=yHV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thank you, this is so considerate"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664821341.977139",
+    "parent_user_id": "U03UJKJGRAQ",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UJKJGRAQ"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "eba3426e-2762-47ee-93d1-af5ca6b353eb",
+    "type": "message",
+    "text": "this may help: <https://vrushaliraut1234.medium.com/kafka-hands-on-guide-to-using-publish-subscribe-based-messaging-system-part-i-cda9eada3b06>",
+    "user": "U03UJH1EQQL",
+    "ts": "1664826212.723889",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7Av0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "this may help: "
+              },
+              {
+                "type": "link",
+                "url": "https://vrushaliraut1234.medium.com/kafka-hands-on-guide-to-using-publish-subscribe-based-messaging-system-part-i-cda9eada3b06"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "81b299d9869c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3953555815671_81b299d9869ca44e70c1_72.png",
+      "first_name": "Kelly",
+      "real_name": "Kelly Soto",
+      "display_name": "Kelly Soto",
+      "team": "T03U4J8HMUG",
+      "name": "Kelly",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://vrushaliraut1234.medium.com/kafka-hands-on-guide-to-using-publish-subscribe-based-messaging-system-part-i-cda9eada3b06",
+        "ts": 1564242182,
+        "image_url": "https://miro.medium.com/max/1200/1*sFD9A94miSdudqAkPx5bTw.png",
+        "image_width": 335,
+        "image_height": 250,
+        "image_bytes": 173068,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://vrushaliraut1234.medium.com/kafka-hands-on-guide-to-using-publish-subscribe-based-messaging-system-part-i-cda9eada3b06",
+        "fallback": "Medium: Kafka hands-on Guide to using publish-subscribe based messaging system (PART I)",
+        "text": "Kafka is in general publish-subscribe based messaging system. Producers publish messages and consumers consume or pull that data.",
+        "title": "Kafka hands-on Guide to using publish-subscribe based messaging system (PART I)",
+        "title_link": "https://vrushaliraut1234.medium.com/kafka-hands-on-guide-to-using-publish-subscribe-based-messaging-system-part-i-cda9eada3b06",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "3 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "29b46ee4-e58a-4703-94c8-0bd818268e2f",
+    "type": "message",
+    "text": "<https://aws.amazon.com/msk/what-is-kafka/>",
+    "user": "U03V5Q9N516",
+    "ts": "1664826299.753799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "draz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://aws.amazon.com/msk/what-is-kafka/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Debra",
+      "real_name": "Debra Lawrence",
+      "display_name": "Debra Lawrence",
+      "team": "T03U4J8HMUG",
+      "name": "Debra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://aws.amazon.com/msk/what-is-kafka/",
+        "thumb_url": "https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_179x109.png",
+        "thumb_width": 179,
+        "thumb_height": 109,
+        "service_icon": "https://a0.awsstatic.com/libra-css/images/site/touch-icon-iphone-114-smile.png",
+        "id": 1,
+        "original_url": "https://aws.amazon.com/msk/what-is-kafka/",
+        "fallback": "Amazon Web Services, Inc.: What is Apache Kafka? | AWS",
+        "text": "Apache Kafka is a distributed streaming platform that is used to build real time streaming data pipelines and applications that adapt to data streams. Learn more about how Kafka works, the benefits, and how your business can begin using Kafka.",
+        "title": "What is Apache Kafka? | AWS",
+        "title_link": "https://aws.amazon.com/msk/what-is-kafka/",
+        "service_name": "Amazon Web Services, Inc."
+      }
+    ]
+  },
+  {
+    "client_msg_id": "426b11a4-d98d-4189-a80e-f9d4b71816b3",
+    "type": "message",
+    "text": "<https://hevodata.com/blog/how-to-install-kafka-on-ubuntu/>",
+    "user": "U03UD4FEDHB",
+    "ts": "1664826455.378329",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "w/JQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://hevodata.com/blog/how-to-install-kafka-on-ubuntu/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g48fef055f8a",
+      "image_72": "https://secure.gravatar.com/avatar/48fef055f8a8b8a4c0bcfefbf5e3eec3.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-72.png",
+      "first_name": "Michael",
+      "real_name": "Michael Gonzalez",
+      "display_name": "Michael Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Michael",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://hevodata.com/blog/how-to-install-kafka-on-ubuntu/",
+        "ts": 1644220380,
+        "image_url": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1591714589/hevo-blog/kafka_diagram/kafka_diagram.png?_i=AA",
+        "image_width": 259,
+        "image_height": 250,
+        "image_bytes": 56995,
+        "service_icon": "https://res.cloudinary.com/hevo/images/f_auto,q_auto/v1587655389/logo-8/logo-8.png?_i=AA",
+        "id": 1,
+        "original_url": "https://hevodata.com/blog/how-to-install-kafka-on-ubuntu/",
+        "fallback": "Hevo Blog - Transformative ideas and real insights on all things Data: Steps to Install Kafka on Ubuntu 20.04: 8 Easy Steps",
+        "text": "This detailed tutorial helps you learn to install Kafka on Ubuntu 20.04 in 8 easy strides. Relevant commands are included for quick and easy setup.",
+        "title": "Steps to Install Kafka on Ubuntu 20.04: 8 Easy Steps",
+        "title_link": "https://hevodata.com/blog/how-to-install-kafka-on-ubuntu/",
+        "service_name": "Hevo Blog - Transformative ideas and real insights on all things Data",
+        "fields": [
+          {
+            "value": "Sarad",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "13 minutes",
+            "title": "Time to read",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "b4e6a8c0-9d49-4468-9bbc-3deb89df2397",
+    "type": "message",
+    "text": "short cut for creating slides and docs\n<https://edu.gcfglobal.org/en/googledriveanddocs/the-docnew-shortcut/1/>",
+    "user": "U03V6HMRPGQ",
+    "ts": "1664826929.692729",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "i3N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "short cut for creating slides and docs\n"
+              },
+              {
+                "type": "link",
+                "url": "https://edu.gcfglobal.org/en/googledriveanddocs/the-docnew-shortcut/1/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Cristian",
+      "real_name": "Cristian Wilson",
+      "display_name": "Cristian Wilson",
+      "team": "T03U4J8HMUG",
+      "name": "Cristian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://edu.gcfglobal.org/en/googledriveanddocs/the-docnew-shortcut/1/",
+        "thumb_url": "https://media.gcflearnfree.org/global/layout/social/gcf-website-image.png",
+        "thumb_width": 1146,
+        "thumb_height": 1147,
+        "service_icon": "https://edu.gcfglobal.org/favicon.ico",
+        "id": 1,
+        "original_url": "https://edu.gcfglobal.org/en/googledriveanddocs/the-docnew-shortcut/1/",
+        "fallback": "GCFGlobal.org: Google Drive: The Doc.new Shortcut",
+        "text": "\u200bIn this lesson, you'll learn a quick and easy shortcut to create new Google Drive files.",
+        "title": "Google Drive: The Doc.new Shortcut",
+        "title_link": "https://edu.gcfglobal.org/en/googledriveanddocs/the-docnew-shortcut/1/",
+        "service_name": "GCFGlobal.org"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "6b570d5a-e6f1-423f-9a07-e3e2892e89b9",
+    "type": "message",
+    "text": "thank you",
+    "user": "U03V6HMRPGQ",
+    "ts": "1664826977.452029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kXnSU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "thank you"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "23fcf5329c03",
+      "image_72": "https://avatars.slack-edge.com/2022-08-22/3969139924917_23fcf5329c03131c761f_72.png",
+      "first_name": "Cristian",
+      "real_name": "Cristian Wilson",
+      "display_name": "Cristian Wilson",
+      "team": "T03U4J8HMUG",
+      "name": "Cristian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664821341.977139",
+    "parent_user_id": "U03UJKJGRAQ",
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UJKJGRAQ"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "269f8549-73dd-47e0-979e-3c373532ad6a",
+    "type": "message",
+    "text": "It works also",
+    "user": "U03UVHCV6KB",
+    "ts": "1664827140.726039",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WMH",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "It works also"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664821341.977139",
+    "parent_user_id": "U03UJKJGRAQ"
+  },
+  {
+    "client_msg_id": "1f5ee164-8e02-472f-9d0b-e18666806cc2",
+    "type": "message",
+    "text": "<https://developer.hpe.com/blog/spark-101-what-is-it-what-it-does-and-why-it-matters/>",
+    "user": "U03V5Q9N516",
+    "ts": "1664827981.358409",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RgvgO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://developer.hpe.com/blog/spark-101-what-is-it-what-it-does-and-why-it-matters/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Debra",
+      "real_name": "Debra Lawrence",
+      "display_name": "Debra Lawrence",
+      "team": "T03U4J8HMUG",
+      "name": "Debra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "3e90b0dc-59c6-4a77-8f1b-d5567a3fd816",
+    "type": "message",
+    "text": "<@U03UVHCV6KB> that's good  :smiley:",
+    "user": "U03UJKJGRAQ",
+    "ts": "1664828311.856179",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "796r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U03UVHCV6KB"
+              },
+              {
+                "type": "text",
+                "text": " that's good  "
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "unicode": "1f603"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3d318a55b9e2",
+      "image_72": "https://avatars.slack-edge.com/2022-10-03/4158852852038_3d318a55b9e221ad2cb3_72.jpg",
+      "first_name": "Brian",
+      "real_name": "Brian Odom",
+      "display_name": "Brian Odom",
+      "team": "T03U4J8HMUG",
+      "name": "Brian",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664821341.977139",
+    "parent_user_id": "U03UJKJGRAQ",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UVHCV6KB"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "client_msg_id": "eaa9d408-e034-465d-b7c0-d220375c9fd5",
+    "type": "message",
+    "text": "<https://www.cloudkarafka.com/blog/part1-kafka-for-beginners-what-is-apache-kafka.html#:~:text=A%20Kafka%20cluster%20consists%20of,records%20off%20a%20Kafka%20topic|https://www.cloudkarafka.com/blog/part1-kafka-for-beginners-what-is-apache-kafka.html#:~:text=A%20Kafka%20cluster%20consists%20of,records%20off%20a%20Kafka%20topic>",
+    "user": "U03UG0YHAUT",
+    "ts": "1664830953.656949",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8+Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.cloudkarafka.com/blog/part1-kafka-for-beginners-what-is-apache-kafka.html#:~:text=A%20Kafka%20cluster%20consists%20of,records%20off%20a%20Kafka%20topic",
+                "text": "https://www.cloudkarafka.com/blog/part1-kafka-for-beginners-what-is-apache-kafka.html#:~:text=A%20Kafka%20cluster%20consists%20of,records%20off%20a%20Kafka%20topic"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "e7b0c8269999",
+      "image_72": "https://avatars.slack-edge.com/2022-09-20/4099393715542_e7b0c82699998d3b3ade_72.jpg",
+      "first_name": "Daniel",
+      "real_name": "Daniel Brown",
+      "display_name": "Daniel Brown",
+      "team": "T03U4J8HMUG",
+      "name": "Daniel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.cloudkarafka.com/blog/part1-kafka-for-beginners-what-is-apache-kafka.html#:~:text=A%20Kafka%20cluster%20consists%20of,records%20off%20a%20Kafka%20topic",
+        "image_url": "https://www.cloudkarafka.com/img/blog/sm-guide-what-is-kafka.jpg",
+        "image_width": 467,
+        "image_height": 250,
+        "image_bytes": 36927,
+        "service_icon": "https://www.cloudkarafka.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.cloudkarafka.com/blog/part1-kafka-for-beginners-what-is-apache-kafka.html#:~:text=A%20Kafka%20cluster%20consists%20of,records%20off%20a%20Kafka%20topic",
+        "fallback": "Part 1: Apache Kafka for beginners - What is Apache Kafka? - CloudKarafka, Apache Kafka Message streaming as a Service",
+        "text": "Apache Kafka for beginners explains what Apache Kafka. It gives a brief understanding of messaging and important Apache Kafka concepts are explained.",
+        "title": "Part 1: Apache Kafka for beginners - What is Apache Kafka? - CloudKarafka, Apache Kafka Message streaming as a Service",
+        "title_link": "https://www.cloudkarafka.com/blog/part1-kafka-for-beginners-what-is-apache-kafka.html#:~:text=A%20Kafka%20cluster%20consists%20of,records%20off%20a%20Kafka%20topic",
+        "service_name": "cloudkarafka.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "50cb9c99-c344-43d1-acfd-bc03a624e0f0",
+    "type": "message",
+    "text": "<https://github.com/dpkp/kafka-python#kafkaproducer>",
+    "user": "U03UUR571A5",
+    "ts": "1664831396.411009",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rGUe",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://github.com/dpkp/kafka-python#kafkaproducer"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g95c5cde44bc",
+      "image_72": "https://secure.gravatar.com/avatar/95c5cde44bc023bd369920b7e1ed0c94.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0017-72.png",
+      "first_name": "Amy",
+      "real_name": "Amy Leon",
+      "display_name": "Amy Leon",
+      "team": "T03U4J8HMUG",
+      "name": "Amy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "8e3a6aac-3252-4a35-8a19-d3d158f2641f",
+    "type": "message",
+    "text": "<https://docs.confluent.io/platform/current/connect/concepts.html#kconnect-long-concepts>",
+    "user": "U03U1HAG9TR",
+    "ts": "1664833264.121019",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SVQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://docs.confluent.io/platform/current/connect/concepts.html#kconnect-long-concepts"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "4e4331305ef1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980783297649_4e4331305ef102cc4346_72.jpg",
+      "first_name": "Robert",
+      "real_name": "Robert Carter",
+      "display_name": "Robert Carter",
+      "team": "T03U4J8HMUG",
+      "name": "Robert",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "526abd82-1208-42b9-b910-9c0e29768efd",
+    "type": "message",
+    "text": "<https://medium.com/big-data-engineering/hello-kafka-world-the-complete-guide-to-kafka-with-docker-and-python-f788e2588cfc>",
+    "user": "U03U9EJR362",
+    "ts": "1664833544.659859",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Gn0bz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://medium.com/big-data-engineering/hello-kafka-world-the-complete-guide-to-kafka-with-docker-and-python-f788e2588cfc"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Nicholas",
+      "real_name": "Nicholas Friedman",
+      "display_name": "Nicholas Friedman",
+      "team": "T03U4J8HMUG",
+      "name": "Nicholas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "022fc3c1-5b2e-44e0-9cb7-2d09a17eb2b3",
+    "type": "message",
+    "text": "<https://www.kaaiot.com/blog/kafka-docker>",
+    "user": "U03U9EJR362",
+    "ts": "1664834333.962029",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j9NG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.kaaiot.com/blog/kafka-docker"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc0133e965fb",
+      "image_72": "https://secure.gravatar.com/avatar/c0133e965fb5500f9a83b69df54a7dc6.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-72.png",
+      "first_name": "Nicholas",
+      "real_name": "Nicholas Friedman",
+      "display_name": "Nicholas Friedman",
+      "team": "T03U4J8HMUG",
+      "name": "Nicholas",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "9bd53fba-6fb2-4609-bd2e-4f171d3f7c3c",
+    "type": "message",
+    "text": "<https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92>",
+    "user": "U03UFV7HFNF",
+    "ts": "1664834991.952109",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pot",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "3166d51d23f1",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3991799522480_3166d51d23f1da2374e9_72.jpg",
+      "first_name": "Miguel",
+      "real_name": "Miguel Herring",
+      "display_name": "Miguel Herring",
+      "team": "T03U4J8HMUG",
+      "name": "Miguel",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92",
+        "ts": 1553087262,
+        "image_url": "https://miro.medium.com/max/1200/1*kW0usTU3tShomMP6Ke-DEg.png",
+        "image_width": 481,
+        "image_height": 250,
+        "image_bytes": 100018,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92",
+        "fallback": "Medium: A Beginner\u2019s Guide to Apache Spark",
+        "text": "Apache Spark vs. Hadoop MapReduce\u200a\u2014\u200apros, cons, and when to use which",
+        "title": "A Beginner\u2019s Guide to Apache Spark",
+        "title_link": "https://towardsdatascience.com/a-beginners-guide-to-apache-spark-ff301cb4cd92",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "8 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "5de4071e-c40d-40fe-bec5-bddd39e4b858",
+    "type": "message",
+    "text": "Thanks.. It worked for me too.",
+    "user": "U03UH397319",
+    "ts": "1664859958.201299",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cd1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Thanks.. It worked for me too."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Brenda",
+      "real_name": "Brenda Hernandez",
+      "display_name": "Brenda Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Brenda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1664821341.977139",
+    "parent_user_id": "U03UJKJGRAQ"
+  },
+  {
+    "client_msg_id": "9c5c191b-7a3b-4a99-a986-776835b2addd",
+    "type": "message",
+    "text": "`<https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf>",
+    "user": "U03V5Q9N516",
+    "ts": "1664861434.400919",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zI+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "`"
+              },
+              {
+                "type": "link",
+                "url": "https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g164928c3a69",
+      "image_72": "https://secure.gravatar.com/avatar/164928c3a69af29d42a5e90b928e2f71.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0010-72.png",
+      "first_name": "Debra",
+      "real_name": "Debra Lawrence",
+      "display_name": "Debra Lawrence",
+      "team": "T03U4J8HMUG",
+      "name": "Debra",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf",
+        "ts": 1625937944,
+        "image_url": "https://miro.medium.com/max/1200/1*yip9QAxgsH00qvbg4lD4yg.jpeg",
+        "image_width": 375,
+        "image_height": 250,
+        "image_bytes": 130769,
+        "service_icon": "https://miro.medium.com/fit/c/152/152/1*sHhtYhaCe2Uc3IU0IgKwIQ.png",
+        "id": 1,
+        "original_url": "https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf",
+        "fallback": "Medium: How to build a data extraction pipeline with Apache Airflow",
+        "text": "Data extraction pipelines might be hard to build and manage, so it\u2019s a good idea to use a tool that can help you with these tasks. Apache\u2026",
+        "title": "How to build a data extraction pipeline with Apache Airflow",
+        "title_link": "https://towardsdatascience.com/how-to-build-a-data-extraction-pipeline-with-apache-airflow-fa83cb8dbcdf",
+        "service_name": "Medium",
+        "fields": [
+          {
+            "value": "7 min read",
+            "title": "Reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "7240836a-9c58-4091-a1dc-124864640424",
+    "type": "message",
+    "text": "<https://dev.to/florimondmanca/breaking-news-everything-is-an-event-streams-kafka-and-you-2n9j>",
+    "user": "U03UH397319",
+    "ts": "1664863823.512889",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cOqac",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://dev.to/florimondmanca/breaking-news-everything-is-an-event-streams-kafka-and-you-2n9j"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc7c2fbea497",
+      "image_72": "https://secure.gravatar.com/avatar/c7c2fbea4976d191e3ad19004e067c11.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0014-72.png",
+      "first_name": "Brenda",
+      "real_name": "Brenda Hernandez",
+      "display_name": "Brenda Hernandez",
+      "team": "T03U4J8HMUG",
+      "name": "Brenda",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://dev.to/florimondmanca/breaking-news-everything-is-an-event-streams-kafka-and-you-2n9j",
+        "image_url": "https://res.cloudinary.com/practicaldev/image/fetch/s--dnyuX4A9--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://images.unsplash.com/photo-1533228876829-65c94e7b5025%3Fixlib%3Drb-0.3.5%26ixid%3DeyJhcHBfaWQiOjEyMDd9%26s%3D7a60de51ee9dd6af78f5b796b4586326%26auto%3Dformat%26fit%3Dcrop%26w%3D1050%26q%3D80",
+        "image_width": 500,
+        "image_height": 250,
+        "image_bytes": 31085,
+        "service_icon": "https://res.cloudinary.com/practicaldev/image/fetch/s--gDM0_LTS--/c_limit,f_png,fl_progressive,q_80,w_180/https://practicaldev-herokuapp-com.freetls.fastly.net/assets/devlogo-pwa-512.png",
+        "id": 1,
+        "original_url": "https://dev.to/florimondmanca/breaking-news-everything-is-an-event-streams-kafka-and-you-2n9j",
+        "fallback": "DEV Community \ud83d\udc69\ud83d\udcbb\ud83d\udc68\ud83d\udcbb: Breaking News: Everything Is An Event! (Streams, Kafka And You)",
+        "text": "It's about time you met streaming data! I'm sure you two and Apache Kafka will do great things together. :the_horns:",
+        "title": "Breaking News: Everything Is An Event! (Streams, Kafka And You)",
+        "title_link": "https://dev.to/florimondmanca/breaking-news-everything-is-an-event-streams-kafka-and-you-2n9j",
+        "service_name": "DEV Community \ud83d\udc69\ud83d\udcbb\ud83d\udc68\ud83d\udcbb"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "421d5d72-c211-44d5-9c83-4ac093d32082",
+    "type": "message",
+    "text": "With greater computing power comes greater complexity.",
+    "user": "U03UJN29Y4C",
+    "ts": "1664866154.260099",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Q2Ac",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "With greater computing power comes greater complexity."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "9bf024280cf1",
+      "image_72": "https://avatars.slack-edge.com/2022-10-08/4190947116101_9bf024280cf14dffb003_72.jpg",
+      "first_name": "Michelle",
+      "real_name": "Michelle Lewis",
+      "display_name": "Michelle Lewis",
+      "team": "T03U4J8HMUG",
+      "name": "Michelle",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  }
+]

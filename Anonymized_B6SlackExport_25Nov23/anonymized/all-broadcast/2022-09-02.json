@@ -1,0 +1,511 @@
+[
+  {
+    "client_msg_id": "27a1cdb9-9de7-4165-bedd-74ae06d7a0c6",
+    "type": "message",
+    "text": "*<!here> REMINDER*:timer_clock:  <@U03TEPYRM2P> <@U03U4GULU3Y> Today's *standup*  will start in 10min! Join the meeting with this link .:point_right: <http://meet.google.com/ysb-kjdn-hpp|meet.google.com/ysb-kjdn-hpp> Be reminded that we will have a hotseat session too, so be ready with your questions to ask the Hotseater <@U03U4GULU3Y>",
+    "user": "U03V1AM5TFA",
+    "ts": "1662105000.458019",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hcO/e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " REMINDER",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U4GULU3Y"
+              },
+              {
+                "type": "text",
+                "text": " Today's"
+              },
+              {
+                "type": "text",
+                "text": " standup",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  will start in 10min! Join the meeting with this link ."
+              },
+              {
+                "type": "emoji",
+                "name": "point_right",
+                "unicode": "1f449"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "http://meet.google.com/ysb-kjdn-hpp",
+                "text": "meet.google.com/ysb-kjdn-hpp"
+              },
+              {
+                "type": "text",
+                "text": " Be reminded that we will have a hotseat session too, so be ready with your questions to ask the Hotseater "
+              },
+              {
+                "type": "user",
+                "user_id": "U03U4GULU3Y"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "7f558596-b9d3-4897-950e-b2eea9023587",
+    "type": "message",
+    "text": "We have the birthday party on Google meet now, Join to enjoy the vibes",
+    "user": "U03V1AM5TFA",
+    "ts": "1662105379.489069",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eL5A",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "We have the birthday party on Google meet now, Join to enjoy the vibes"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "24744556-0099-4837-bc03-3640afcb099c",
+    "type": "message",
+    "text": "<!here> This weeks timed contest is starting at 9 am UTC. It contains two challenges, DSA and SQL. Its a timed challenge so make sure to complete before the time is over.\n<https://www.hackerrank.com/10-academy-batch-6-challenge-02>",
+    "user": "U03U9DB7REG",
+    "ts": "1662106691.614279",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ne3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here"
+              },
+              {
+                "type": "text",
+                "text": " This weeks timed contest is starting at 9 am UTC. It contains two challenges, DSA and SQL. Its a timed challenge so make sure to complete before the time is over.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.hackerrank.com/10-academy-batch-6-challenge-02"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "10b2063307e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-18/3958997027442_10b2063307e91bfe2157_72.png",
+      "first_name": "John",
+      "real_name": "John Romero",
+      "display_name": "John Romero",
+      "team": "T03U4J8HMUG",
+      "name": "John",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.hackerrank.com/10-academy-batch-6-challenge-02",
+        "thumb_url": "https://hrcdn.net/og/default.jpg",
+        "thumb_width": 1200,
+        "thumb_height": 640,
+        "service_icon": "https://hrcdn.net/hackerrank/assets/apple-touch-icon-precomposed-c99b684c98b4befc43c47592bc900ebd95a0b1e9b9e5103b252c8b320432646d.png",
+        "id": 1,
+        "original_url": "https://www.hackerrank.com/10-academy-batch-6-challenge-02",
+        "fallback": "HackerRank: Join 10 Academy Batch 6 Challenge 02 on HackerRank",
+        "text": "This weeks challenge will focus on hash tables (commonly referred to as a hash map) and also test your SQL knowledge.",
+        "title": "Join 10 Academy Batch 6 Challenge 02 on HackerRank",
+        "title_link": "https://www.hackerrank.com/10-academy-batch-6-challenge-02",
+        "service_name": "HackerRank"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "8d44cdb2-55a9-4aa0-8c3c-7a5a4a034920",
+    "type": "message",
+    "text": "*REMINDER!!*:timer_clock:  *<!here>* *<@U03TEPYRM2P>* \n*Please note that the TIMED CONTEST in on in the next 5 minutes*\n\u2022 *Session:* Timed contest\n\u2022 *Time*: From 9:00 AM - 9:30 AM UTC ",
+    "user": "U03V1AM5TFA",
+    "ts": "1662108945.919799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rbD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "REMINDER!!",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Please note that the TIMED CONTEST in on in the next 5 minutes",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Session: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Timed contest"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": From 9:00 AM - 9:30 AM UTC "
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "edited": {
+      "user": "U03V1AM5TFA",
+      "ts": "1662108963.000000"
+    }
+  },
+  {
+    "client_msg_id": "c0fc2524-7975-4ea9-8148-9b88baa7f7e3",
+    "type": "message",
+    "text": "*Independent challenge work Reminder!! <!here>*\n*Please note that Independent Challenge Work is  in the next 10min*\n\u2022 *Session:* Independent challenge work (You will be working independently on today's challenge)\n\u2022 *Time*: From 2:00 PM - 8:00 PM UTC.\n",
+    "user": "U03V1AM5TFA",
+    "ts": "1662126600.603349",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Y0kS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Independent challenge work Reminder!! ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Please note that Independent Challenge Work is  in the next 10min",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Session: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Independent challenge work (You will be working independently on today's challenge)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": From 2:00 PM - 8:00 PM UTC."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "6271bf2d-8b17-4cd2-8089-4bb4eb30662f",
+    "type": "message",
+    "text": "WEEK ONE BEST SUBMISSIONS\n<!here> Having completed the grading of week one submission.  We are pleased with your efforts. However, we identified some exceptional submissions which we believe will be beneficial to you. Kindly go through the submissions and note how you can improve on your subsequent submissions. You can find the link to the submissions in the document below:\n\n<https://docs.google.com/spreadsheets/d/1a9co6yAin6STBgdGNWux1YBrb3gimuaxxmddckCrqx8/edit?usp=sharing>",
+    "user": "U03TEPYRM2P",
+    "ts": "1662135376.203139",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UcB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "WEEK ONE BEST SUBMISSIONS\n"
+              },
+              {
+                "type": "broadcast",
+                "range": "here"
+              },
+              {
+                "type": "text",
+                "text": " Having completed the grading of week one submission.  We are pleased with your efforts. However, we identified some exceptional submissions which we believe will be beneficial to you. Kindly go through the submissions and note how you can improve on your subsequent submissions. You can find the link to the submissions in the document below:\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1a9co6yAin6STBgdGNWux1YBrb3gimuaxxmddckCrqx8/edit?usp=sharing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Garrett",
+      "real_name": "Garrett Bell",
+      "display_name": "Garrett Bell",
+      "team": "T03U4J8HMUG",
+      "name": "Garrett",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  }
+]

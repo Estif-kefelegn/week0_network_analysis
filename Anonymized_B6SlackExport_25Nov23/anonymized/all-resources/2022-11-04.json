@@ -1,0 +1,711 @@
+[
+  {
+    "client_msg_id": "6df17bd6-cbae-4341-a23a-5bb61a871640",
+    "type": "message",
+    "text": "<https://selenium-python.readthedocs.io/navigating.html#>",
+    "user": "U03UG4Q7V42",
+    "ts": "1667558656.002359",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "mon",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://selenium-python.readthedocs.io/navigating.html#"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Phillip",
+      "real_name": "Phillip Atkins",
+      "display_name": "Phillip Atkins",
+      "team": "T03U4J8HMUG",
+      "name": "Phillip",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "b692c25c-2829-4afa-bfad-7355edf109fc",
+    "type": "message",
+    "text": "<https://www.tensorflow.org/js/models>\n<https://github.com/tensorflow/tfjs-models/tree/master/face-detection>",
+    "user": "U03UG4Q7V42",
+    "ts": "1667559820.142049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8Ocf",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.tensorflow.org/js/models"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "link",
+                "url": "https://github.com/tensorflow/tfjs-models/tree/master/face-detection"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5bc346a85286",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3968048875651_5bc346a852866218ec6b_72.png",
+      "first_name": "Phillip",
+      "real_name": "Phillip Atkins",
+      "display_name": "Phillip Atkins",
+      "team": "T03U4J8HMUG",
+      "name": "Phillip",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.tensorflow.org/js/models",
+        "image_url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-js-logo-social.png",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 45655,
+        "service_icon": "https://www.gstatic.com/devrel-devsite/prod/vab7ee6e3641f10848d404faa598f256587df1a361a1e70cd114230c2961b73d9/tensorflow/images/apple-touch-icon-180x180.png",
+        "id": 1,
+        "original_url": "https://www.tensorflow.org/js/models",
+        "fallback": "TensorFlow: TensorFlow.js models",
+        "text": "Explore pre-trained TensorFlow.js models that can be used in any project out of the box.",
+        "title": "TensorFlow.js models",
+        "title_link": "https://www.tensorflow.org/js/models",
+        "service_name": "TensorFlow"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "94b6b07b-55eb-43aa-b4cf-0fa2aed622be",
+    "type": "message",
+    "text": "<https://theaisummer.com/vision-language-models/>",
+    "user": "U03V785NLSU",
+    "ts": "1667578872.949369",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "LU9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://theaisummer.com/vision-language-models/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Ashley",
+      "real_name": "Ashley Hamilton",
+      "display_name": "Ashley Hamilton",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://theaisummer.com/vision-language-models/",
+        "ts": 1646254800,
+        "image_url": "https://theaisummer.com/static/e49407c5e2dd43a7112d3575f81ab462/ee604/vision-language-models.png",
+        "image_width": 444,
+        "image_height": 250,
+        "image_bytes": 61983,
+        "service_icon": "https://theaisummer.com/static/b45b24c62e57511ad6ca9e436893489f/apple-icon-57x57.png",
+        "id": 1,
+        "original_url": "https://theaisummer.com/vision-language-models/",
+        "fallback": "AI Summer: Vision Language models: towards multi-modal deep learning | AI Summer",
+        "text": "A review of state of the art vision-language models such as CLIP, DALLE, ALIGN and SimVL",
+        "title": "Vision Language models: towards multi-modal deep learning | AI Summer",
+        "title_link": "https://theaisummer.com/vision-language-models/",
+        "service_name": "AI Summer"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "d5a3211c-d43d-45ae-ae73-6c41efe15faf",
+    "type": "message",
+    "text": "<https://pyimagesearch.com/2021/03/22/opencv-template-matching-cv2-matchtemplate/>",
+    "user": "U03UG32J3PC",
+    "ts": "1667578900.961089",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Tzs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://pyimagesearch.com/2021/03/22/opencv-template-matching-cv2-matchtemplate/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "g9e7487b036e",
+      "image_72": "https://secure.gravatar.com/avatar/9e7487b036ed726d016a0c5d8189773c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-72.png",
+      "first_name": "April",
+      "real_name": "April Lucas",
+      "display_name": "April Lucas",
+      "team": "T03U4J8HMUG",
+      "name": "April",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://pyimagesearch.com/2021/03/22/opencv-template-matching-cv2-matchtemplate/",
+        "ts": 1616421600,
+        "image_url": "https://pyimagesearch.com/wp-content/uploads/2021/02/template_matching_header.png",
+        "image_width": 389,
+        "image_height": 250,
+        "image_bytes": 32713,
+        "service_icon": "https://pyimagesearch.com/favicon.ico",
+        "id": 1,
+        "original_url": "https://pyimagesearch.com/2021/03/22/opencv-template-matching-cv2-matchtemplate/",
+        "fallback": "PyImageSearch: OpenCV Template Matching ( cv2.matchTemplate ) - PyImageSearch",
+        "text": "In this tutorial, you will learn how to perform template matching using OpenCV and the cv2.matchTemplate function. Other than contour filtering and processing, template matching is arguably one of the most simple forms of object detection: It\u2019s simple to implement,\u2026",
+        "title": "OpenCV Template Matching ( cv2.matchTemplate ) - PyImageSearch",
+        "title_link": "https://pyimagesearch.com/2021/03/22/opencv-template-matching-cv2-matchtemplate/",
+        "service_name": "PyImageSearch",
+        "fields": [
+          {
+            "value": "Adrian Rosebrock",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "15 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9829007c-ede3-41e8-be80-71a21509dd9e",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=kERY7t6bSyM>",
+    "user": "U03UG5VFN03",
+    "ts": "1667579032.369339",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ACZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=kERY7t6bSyM"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Nancy",
+      "real_name": "Nancy Craig",
+      "display_name": "Nancy Craig",
+      "team": "T03U4J8HMUG",
+      "name": "Nancy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=kERY7t6bSyM",
+        "thumb_url": "https://i.ytimg.com/vi/kERY7t6bSyM/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/kERY7t6bSyM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"\ud83d\udd25SEO Beginners Tutorial 2023 | SEO Full Course | Search Engine Optimization Tutorial | Simplilearn\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=kERY7t6bSyM",
+        "fallback": "YouTube Video: \ud83d\udd25SEO Beginners Tutorial 2023 | SEO Full Course | Search Engine Optimization Tutorial | Simplilearn",
+        "title": "\ud83d\udd25SEO Beginners Tutorial 2023 | SEO Full Course | Search Engine Optimization Tutorial | Simplilearn",
+        "title_link": "https://www.youtube.com/watch?v=kERY7t6bSyM",
+        "author_name": "Simplilearn",
+        "author_link": "https://www.youtube.com/c/SimplilearnOfficial",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "9b00b668-e578-4e1a-ad60-a72914d9b059",
+    "type": "message",
+    "text": "it is live  you can attend it",
+    "user": "U03UG5VFN03",
+    "ts": "1667579114.499239",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "utjXu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "it is live  you can attend it"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Nancy",
+      "real_name": "Nancy Craig",
+      "display_name": "Nancy Craig",
+      "team": "T03U4J8HMUG",
+      "name": "Nancy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "3d245682-6d79-4d5f-9cf3-9208ffc11913",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=7-BEVvbh_Q0&amp;ab_channel=SeattleDataGuy>\n\nFOR THOSE WHO CHOOSE THE DE STREAM!!",
+    "user": "U03UVHCV6KB",
+    "ts": "1667584331.857749",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RyPi",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=7-BEVvbh_Q0&ab_channel=SeattleDataGuy"
+              },
+              {
+                "type": "text",
+                "text": "\n\nFOR THOSE WHO CHOOSE THE DE STREAM!!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "gc9619121f99",
+      "image_72": "https://secure.gravatar.com/avatar/c9619121f998ee4a7e46177f2a5729de.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0002-72.png",
+      "first_name": "Travis",
+      "real_name": "Travis Butler",
+      "display_name": "Travis Butler",
+      "team": "T03U4J8HMUG",
+      "name": "Travis",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=7-BEVvbh_Q0&amp;ab_channel=SeattleDataGuy",
+        "thumb_url": "https://i.ytimg.com/vi/7-BEVvbh_Q0/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/7-BEVvbh_Q0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Different Types Of Data Engineering Roles - You Don&#39;t Have To Have Data Engineer In Your Title\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=7-BEVvbh_Q0&amp;ab_channel=SeattleDataGuy",
+        "fallback": "YouTube Video: Different Types Of Data Engineering Roles - You Don't Have To Have Data Engineer In Your Title",
+        "title": "Different Types Of Data Engineering Roles - You Don't Have To Have Data Engineer In Your Title",
+        "title_link": "https://www.youtube.com/watch?v=7-BEVvbh_Q0&amp;ab_channel=SeattleDataGuy",
+        "author_name": "Seattle Data Guy",
+        "author_link": "https://www.youtube.com/c/SeattleDataGuy",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "ad1501b1-710b-4bf2-9571-dfcc2a0033de",
+    "type": "message",
+    "text": "<https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/>",
+    "user": "U03UG5VFN03",
+    "ts": "1667594841.668049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YWBKE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "1eec51b41e1b",
+      "image_72": "https://avatars.slack-edge.com/2022-08-20/3980936144801_1eec51b41e1b370500be_72.png",
+      "first_name": "Nancy",
+      "real_name": "Nancy Craig",
+      "display_name": "Nancy Craig",
+      "team": "T03U4J8HMUG",
+      "name": "Nancy",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/",
+        "ts": 1552413602,
+        "image_url": "https://machinelearningmastery.com/wp-content/uploads/2018/12/Example-of-Image-Classification-with-Localization-of-Multiple-Chairs-from-VOC-2012.jpg",
+        "image_width": 373,
+        "image_height": 250,
+        "image_bytes": 30620,
+        "service_icon": "https://machinelearningmastery.com/wp-content/uploads/2016/09/cropped-icon-180x180.png",
+        "id": 1,
+        "original_url": "https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/",
+        "fallback": "Machine Learning Mastery: 9 Applications of Deep Learning for Computer Vision",
+        "text": "The field of computer vision is shifting from statistical methods to deep learning neural network methods. There are still many challenging problems to solve in computer vision. Nevertheless, deep learning methods are achieving state-of-the-art results on some specific problems. It is not just the performance of deep learning models on benchmark problems that is most [\u2026]",
+        "title": "9 Applications of Deep Learning for Computer Vision",
+        "title_link": "https://machinelearningmastery.com/applications-of-deep-learning-for-computer-vision/",
+        "service_name": "Machine Learning Mastery",
+        "fields": [
+          {
+            "value": "Jason Brownlee",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "10 minutes",
+            "title": "Est. reading time",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "This answers a lot of questions about handling complex data in a basic way.\n<https://youtu.be/jReaoJWdO78>",
+    "user": "U03V785NLSU",
+    "ts": "1667596190.286049",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "CoeJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "This answers a lot of questions about handling complex data in a basic way.\n"
+              },
+              {
+                "type": "link",
+                "url": "https://youtu.be/jReaoJWdO78"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Ashley",
+      "real_name": "Ashley Hamilton",
+      "display_name": "Ashley Hamilton",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/jReaoJWdO78",
+        "thumb_url": "https://i.ytimg.com/vi/jReaoJWdO78/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/jReaoJWdO78?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"What nobody tells you about MULTIMODAL Machine Learning! \ud83d\ude4a THE definition.\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/jReaoJWdO78",
+        "fallback": "YouTube Video: What nobody tells you about MULTIMODAL Machine Learning! \ud83d\ude4a THE definition.",
+        "title": "What nobody tells you about MULTIMODAL Machine Learning! \ud83d\ude4a THE definition.",
+        "title_link": "https://youtu.be/jReaoJWdO78",
+        "author_name": "AI Coffee Break with Letitia",
+        "author_link": "https://www.youtube.com/c/AICoffeeBreak",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f0b0e1f0-c9e7-40ce-a180-e81b66f2e48b",
+    "type": "message",
+    "text": "<https://www.optimizesmart.com/understanding-key-performance-indicators-kpis-just-like-that/>",
+    "user": "U03UHB8CXDY",
+    "ts": "1667596246.516209",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KAMkl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.optimizesmart.com/understanding-key-performance-indicators-kpis-just-like-that/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "374fee609510",
+      "image_72": "https://avatars.slack-edge.com/2022-09-30/4159182498980_374fee609510e6ff1526_72.jpg",
+      "first_name": "Yvonne",
+      "real_name": "Yvonne Gonzalez",
+      "display_name": "Yvonne Gonzalez",
+      "team": "T03U4J8HMUG",
+      "name": "Yvonne",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.optimizesmart.com/understanding-key-performance-indicators-kpis-just-like-that/",
+        "image_url": "https://www.optimizesmart.com/wp-content/uploads/2020/06/kpi.jpg",
+        "image_width": 478,
+        "image_height": 250,
+        "image_bytes": 25012,
+        "service_icon": "https://www.optimizesmart.com/wp-content/uploads/2016/03/favicon-image.jpg",
+        "id": 1,
+        "original_url": "https://www.optimizesmart.com/understanding-key-performance-indicators-kpis-just-like-that/",
+        "fallback": "Optimize Smart: How to find Key Performance Indicators (KPIs) with Examples",
+        "text": "Beginner's guide to Key Performance Indicators with examples. Learn to find Good KPIs and determine KPI performance. Learn about internal &amp; external KPIs.",
+        "title": "How to find Key Performance Indicators (KPIs) with Examples",
+        "title_link": "https://www.optimizesmart.com/understanding-key-performance-indicators-kpis-just-like-that/",
+        "service_name": "Optimize Smart",
+        "fields": [
+          {
+            "value": "Himanshu",
+            "title": "Written by",
+            "short": true
+          },
+          {
+            "value": "50 minutes",
+            "title": "Time to read",
+            "short": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "type": "message",
+    "text": "\n<https://youtu.be/dd7nE4nbxN0>",
+    "user": "U03V785NLSU",
+    "ts": "1667596353.262229",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "N+2HZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/dd7nE4nbxN0"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Ashley",
+      "real_name": "Ashley Hamilton",
+      "display_name": "Ashley Hamilton",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/dd7nE4nbxN0",
+        "thumb_url": "https://i.ytimg.com/vi/dd7nE4nbxN0/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/dd7nE4nbxN0?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Transformer combining Vision and Language? ViLBERT - NLP meets Computer Vision\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://youtu.be/dd7nE4nbxN0",
+        "fallback": "YouTube Video: Transformer combining Vision and Language? ViLBERT - NLP meets Computer Vision",
+        "title": "Transformer combining Vision and Language? ViLBERT - NLP meets Computer Vision",
+        "title_link": "https://youtu.be/dd7nE4nbxN0",
+        "author_name": "AI Coffee Break with Letitia",
+        "author_link": "https://www.youtube.com/c/AICoffeeBreak",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "19ac52a2-7b2c-4256-b6d2-1212dcbe74ef",
+    "type": "message",
+    "text": "<https://www.youtube.com/watch?v=f9uyj79DgHE>",
+    "user": "U03V785NLSU",
+    "ts": "1667598780.466879",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "opF/+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.youtube.com/watch?v=f9uyj79DgHE"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "48d5c88821e9",
+      "image_72": "https://avatars.slack-edge.com/2022-08-21/3993277785968_48d5c88821e922581e17_72.jpg",
+      "first_name": "Ashley",
+      "real_name": "Ashley Hamilton",
+      "display_name": "Ashley Hamilton",
+      "team": "T03U4J8HMUG",
+      "name": "Ashley",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.youtube.com/watch?v=f9uyj79DgHE",
+        "thumb_url": "https://i.ytimg.com/vi/f9uyj79DgHE/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/f9uyj79DgHE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen title=\"Human Emotions Detection in TensorFlow 2 - Dataset Preparation - Full Stack Deep Learning.\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "id": 1,
+        "original_url": "https://www.youtube.com/watch?v=f9uyj79DgHE",
+        "fallback": "YouTube Video: Human Emotions Detection in TensorFlow 2 - Dataset Preparation - Full Stack Deep Learning.",
+        "title": "Human Emotions Detection in TensorFlow 2 - Dataset Preparation - Full Stack Deep Learning.",
+        "title_link": "https://www.youtube.com/watch?v=f9uyj79DgHE",
+        "author_name": "Neuralearn",
+        "author_link": "https://www.youtube.com/channel/UC4vLiApNM0VEYE-WQCjcscA",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "raised_hands",
+        "users": [
+          "U03UVHCV6KB",
+          "U03U1FNPEUX"
+        ],
+        "count": 2
+      }
+    ]
+  }
+]

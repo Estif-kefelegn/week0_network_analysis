@@ -1,0 +1,101 @@
+[
+  {
+    "client_msg_id": "60a3a57b-16c6-4e87-b5ac-d3fcf2bfea2c",
+    "type": "message",
+    "text": "*ANNOUNCEMENT*\n<!channel> Trust we are having a restful weekend. As we prepare for another intensive week, I have added everyone to <#C03V9GFAVUN|all-week2>. Please let's use this channel for discussions that are related to week 2 challenge. Also, kindly find the schedule for week 2  below:\n<https://www.notion.so/10academy/fbb7cd301a7948b698d9953fdeeb414d?v=2f9f37e628e0452681e4a19cd9d4755c>",
+    "user": "U03TEPYRM2P",
+    "ts": "1661705013.453129",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+9T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ANNOUNCEMENT",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " Trust we are having a restful weekend. As we prepare for another intensive week, I have added everyone to "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C03V9GFAVUN"
+              },
+              {
+                "type": "text",
+                "text": ". Please let's use this channel for discussions that are related to week 2 challenge. Also, kindly find the schedule for week 2  below:\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/10academy/fbb7cd301a7948b698d9953fdeeb414d?v=2f9f37e628e0452681e4a19cd9d4755c"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "f113df20f89c",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3977820714178_f113df20f89c894062b4_72.jpg",
+      "first_name": "Garrett",
+      "real_name": "Garrett Bell",
+      "display_name": "Garrett Bell",
+      "team": "T03U4J8HMUG",
+      "name": "Garrett",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "https://www.notion.so/10academy/fbb7cd301a7948b698d9953fdeeb414d?v=2f9f37e628e0452681e4a19cd9d4755c",
+        "image_url": "https://www.notion.so/image/https%3A%2F%2Fwww.notion.so%2Fimages%2Fpage-cover%2Fnasa_earth_grid.jpg?table=collection&id=287b88cb-cfdc-4ce2-ae09-36fc4117d5ea&spaceId=106c421d-e3c3-4f2d-a11e-44e044358d74&width=2000&userId=&cache=v2",
+        "image_width": 376,
+        "image_height": 250,
+        "image_bytes": 171698,
+        "service_icon": "https://www.notion.so/images/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.notion.so/10academy/fbb7cd301a7948b698d9953fdeeb414d?v=2f9f37e628e0452681e4a19cd9d4755c",
+        "fallback": "10 Academy on Notion: 10 Academy - Batch 6 - Week 2 - Schedule",
+        "text": "A new tool for teams &amp; individuals that blends everyday work apps into one.",
+        "title": "10 Academy - Batch 6 - Week 2 - Schedule",
+        "title_link": "https://www.notion.so/10academy/fbb7cd301a7948b698d9953fdeeb414d?v=2f9f37e628e0452681e4a19cd9d4755c",
+        "service_name": "10 Academy on Notion"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U03UG569P7U",
+          "U03UG4Q7V42"
+        ],
+        "count": 2
+      },
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03V1AM5TFA"
+        ],
+        "count": 1
+      }
+    ]
+  }
+]

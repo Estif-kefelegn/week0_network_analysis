@@ -1,0 +1,711 @@
+[
+  {
+    "client_msg_id": "5886efa9-67ce-44c8-80c6-158d80daeb4f",
+    "type": "message",
+    "text": "Standup is on now, Please Join the last Monday standup",
+    "user": "U03V1AM5TFA",
+    "ts": "1667808179.987759",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Xdyiy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Standup is on now, Please Join the last Monday standup"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "ccd34184-66a7-4d39-b43b-944b97570491",
+    "type": "message",
+    "text": "<!channel> you submitted links to your professional photos to use on your site/profile\n1. if you received a feedback from <@U03UDBUL7CL> (either your link can't be accessed or your photo is not of good quality), please work on fixing that. photos should be professional - refer to two photo samples in the form you filled \n2. If you haven't submitted your photo, today is the deadline! ",
+    "user": "U03T89ACUUW",
+    "ts": "1667810154.421419",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DZKm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " you submitted links to your professional photos to use on your site/profile\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "if you received a feedback from "
+                  },
+                  {
+                    "type": "user",
+                    "user_id": "U03UDBUL7CL"
+                  },
+                  {
+                    "type": "text",
+                    "text": " (either your link can't be accessed or your photo is not of good quality), please work on fixing that. photos should be professional - refer to two photo samples in the form you filled "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "If you haven't submitted your photo, today is the deadline! "
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5d532c004550",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3979962953108_5d532c00455016e7842d_72.jpg",
+      "first_name": "Carlos",
+      "real_name": "Carlos Gross",
+      "display_name": "Carlos Gross",
+      "team": "T03U4J8HMUG",
+      "name": "Carlos",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "e877059d-6923-44fc-a062-d9bd84934057",
+    "type": "message",
+    "text": "*<!here> REMINDER*:timer_clock: <@U03TEPYRM2P> <@U03UUN8M4RX>\nPlease note that *Introduction to week challenge - W12 is* on in the few minutes\n*Platform:* <http://meet.google.com/ysb-kjdn-hpp>\n*Time:* 9:30 am - 10:30 am UTC",
+    "user": "U03V1AM5TFA",
+    "ts": "1667812800.645739",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+61dy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": " REMINDER",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03TEPYRM2P"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U03UUN8M4RX"
+              },
+              {
+                "type": "text",
+                "text": "\nPlease note that "
+              },
+              {
+                "type": "text",
+                "text": "Introduction to week challenge - W12 is ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "on in the few minutes\n"
+              },
+              {
+                "type": "text",
+                "text": "Platform: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "http://meet.google.com/ysb-kjdn-hpp"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Time: ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "9:30 am - 10:30 am UTC"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "attachments": [
+      {
+        "from_url": "http://meet.google.com/ysb-kjdn-hpp",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "id": 1,
+        "original_url": "http://meet.google.com/ysb-kjdn-hpp",
+        "fallback": "Meet",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "Meet",
+        "title_link": "http://meet.google.com/ysb-kjdn-hpp",
+        "service_name": "meet.google.com"
+      }
+    ]
+  },
+  {
+    "client_msg_id": "f0e1a1d7-cd7b-49ac-8bb1-52d4b9a33c8c",
+    "type": "message",
+    "text": "*Independent challenge work Reminder!! <!here>*\n*Please note that Independent Challenge Work is  in the next 10min*\n\u2022 *Session:* Independent challenge work (You will be working independently on today's challenge)\n\u2022 *Time*: From 2:00 PM - 8:00 PM UTC.\n",
+    "user": "U03V1AM5TFA",
+    "ts": "1667829000.980249",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "za66G",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Independent challenge work Reminder!! ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Please note that Independent Challenge Work is  in the next 10min",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Session: ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "Independent challenge work (You will be working independently on today's challenge)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Time",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": ": From 2:00 PM - 8:00 PM UTC."
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": []
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "b3761aae-2fd2-45b0-84b4-0bd65ef6d6cc",
+    "type": "message",
+    "text": "\u2022 Reminder!:timer_clock::timer_clock: *<!here>*\n*Please note that the deadline to submit Weekly challenge(*week 12 Interim Submission (technical)) *is in 30Min.*\n*Kindly don't miss the deadline.*",
+    "user": "U03V1AM5TFA",
+    "ts": "1667849400.443659",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "DYcPa",
+        "elements": [
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Reminder!"
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "timer_clock",
+                    "unicode": "23f2-fe0f",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "timer_clock",
+                    "unicode": "23f2-fe0f",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": " ",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "broadcast",
+                    "range": "here",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Please note that the deadline to submit Weekly challenge(",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "week 12 Interim Submission (technical))"
+              },
+              {
+                "type": "text",
+                "text": " is in 30Min.",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "text",
+                "text": "Kindly don't miss the deadline.",
+                "style": {
+                  "bold": true
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "client_msg_id": "fd439229-6057-4fa8-81df-2cba6d3c70bd",
+    "type": "message",
+    "text": "<!channel> VERY URGENT AND IMPORTANT!\n\nWe have so far managed to work on real project from different clients:\n\u2022 week 11 - Adludio \n\u2022 week 9 - Gokada \nAlert: Adludio has reached us with a claim that some of trainees have shared related data in public places (public Github, medium, LinkedIn, etc)\n\nNote that this is contrary to the NDA that you signed and can affect our partnership with a client!\n\nACTION - Priority - Adludio  (please check your github and other blog post as soon as possible):\n\u2022 Remove the mention of adludio - _*replace it by ad tech client*_\n\u2022 Remove detail communication of the insight gained from blogs (medium, linkedIn)\nFinal - after you review the Adludio challenge related posts, please crosscheck whether or not you have shared data public for week 9 (Gokada) and week 4 (LLM)\n\nAfter fixing this, send me a private confirmation!\n\nPlease don't hesitate to contact me in case by a direct message or can reply in a thread to this in case anything needs clarity!",
+    "user": "U03T89ACUUW",
+    "ts": "1667893114.347659",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MtZN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": " VERY URGENT AND IMPORTANT!\n\nWe have so far managed to work on real project from different clients:\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "week 11 - Adludio "
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "week 9 - Gokada "
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nAlert: Adludio has reached us with a claim that some of trainees have shared related data in public places (public Github, medium, LinkedIn, etc)\n\nNote that this is contrary to the NDA that you signed and can affect our partnership with a client!\n\nACTION - Priority - Adludio  (please check your github and other blog post as soon as possible):\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Remove the mention of adludio - "
+                  },
+                  {
+                    "type": "text",
+                    "text": "replace it by ad tech client",
+                    "style": {
+                      "bold": true,
+                      "italic": true
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Remove detail communication of the insight gained from blogs (medium, linkedIn)"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\nFinal - after you review the Adludio challenge related posts, please crosscheck whether or not you have shared data public for week 9 (Gokada) and week 4 (LLM)\n\nAfter fixing this, send me a private confirmation!\n\nPlease don't hesitate to contact me in case by a direct message or can reply in a thread to this in case anything needs clarity!"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "5d532c004550",
+      "image_72": "https://avatars.slack-edge.com/2022-08-23/3979962953108_5d532c00455016e7842d_72.jpg",
+      "first_name": "Carlos",
+      "real_name": "Carlos Gross",
+      "display_name": "Carlos Gross",
+      "team": "T03U4J8HMUG",
+      "name": "Carlos",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    },
+    "thread_ts": "1667893114.347659",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1667981011.517529",
+    "reply_users": [
+      "U03UJKJGRAQ",
+      "U03T89ACUUW"
+    ],
+    "replies": [
+      {
+        "user": "U03UJKJGRAQ",
+        "ts": "1667916167.027579"
+      },
+      {
+        "user": "U03T89ACUUW",
+        "ts": "1667980544.184379"
+      },
+      {
+        "user": "U03UJKJGRAQ",
+        "ts": "1667981011.517529"
+      }
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U03UD68RQH3",
+          "U03UFV7HFNF",
+          "U03V6HMRPGQ"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "client_msg_id": "0f562777-4a70-476b-afbf-68117cfb3693",
+    "type": "message",
+    "text": "*DAILY STANDUP REMINDER*:timer_clock:\n*<!here>*  \n Today's *standup*  will start in 10min! Join the meeting with this link below.\n:point_right: <http://meet.google.com/ysb-kjdn-hpp|meet.google.com/ysb-kjdn-hpp> (If you want to join now, we are listening to some good music)",
+    "user": "U03V1AM5TFA",
+    "ts": "1667893800.490119",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+0v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "DAILY STANDUP REMINDER",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "emoji",
+                "name": "timer_clock",
+                "unicode": "23f2-fe0f"
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              },
+              {
+                "type": "broadcast",
+                "range": "here",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  ",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n Today's"
+              },
+              {
+                "type": "text",
+                "text": " standup",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "  will start in 10min! Join the meeting with this link below.\n"
+              },
+              {
+                "type": "emoji",
+                "name": "point_right",
+                "unicode": "1f449"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "http://meet.google.com/ysb-kjdn-hpp",
+                "text": "meet.google.com/ysb-kjdn-hpp"
+              },
+              {
+                "type": "text",
+                "text": " (If you want to join now, we are listening to some good music)"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "team": "T03U4J8HMUG",
+    "user_team": "T03U4J8HMUG",
+    "source_team": "T03U4J8HMUG",
+    "user_profile": {
+      "avatar_hash": "102fdd0c183f",
+      "image_72": "https://avatars.slack-edge.com/2022-08-19/3963732043714_102fdd0c183f8d6d4215_72.png",
+      "first_name": "Vanessa",
+      "real_name": "Vanessa Norman",
+      "display_name": "Vanessa Norman",
+      "team": "T03U4J8HMUG",
+      "name": "Vanessa",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  }
+]
